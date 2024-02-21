@@ -1,0 +1,33 @@
+We prepare and pre-validate data and harmonise them to a common data model with a low burden for hospitals.
+Legal matters and data collection should not be part of individual treatment improvement projects. They should be done once and for all, giving back time and pace to the projects. ARWEN makes this a reality.
+Ourlegal frameworkguarantee hospitals keep full ownership of their data. This eliminates the need to go through this legal process with each new project.
+Particpants don’t need to go through data setup processes for each new project.Join more meaningful treatment improvement projects faster.
+1
+Weprepare, validate, anonymise and harmonise datafrom multiple disease groups to a common model for efficient analysis of the data. This allows us to deliver ready-to-use Real-World Evidence, with a minimal burden for your hospital.
+ARWEN members can elect to participate intreatment improvement projects, while we support them in answering their own questions through data analytics.
+We have 15+ years of experience with hospital data. Our scalabledata modelsbring together patient pathway mapping, medicines uptake, clinical & patient outcomes, activity-based costs and more.
+2
+We propose a continuously evolving selection of focal therapeutic areas. We connect ARWEN partners from the healthcare and life science worlds who want to answer key questions and stimulate informed decision-making.For each treatment improvement project, we involve suitable groups of healthcare providers that want to participate, based on their hospital profiles and therapeutic focus. This way, we ensure the projects lead to meaningful results that are relevant for everyone involved.
+3
+In ARWEN projects, project outcomes are shared with all the members involved. This makes your participation in ARWEN more rewarding.
+The core data sets represent the backbone of every ARWEN analytics project. They allow us to identify and structure the granular medical activities, care pathways, medicines prescriptions, clinical outcomes and more.
+This essential data set includes patient-level granular data on the single activities performed to treat patients, such as operations, hospitalisation time, diagnostics, consultations, etc.
+Clustering and sequencing these activities allow, for instance, to generate of real-world patient pathways.
+Pharmacy data provides detail on the types, dosage and volumes of drugs prescribed.
+Clinician-Reported Outcomes include different types of quality indicators, such as reoperation rates, complications, time to next treatment, etc.
+These data sets are optional layers that can enhance the core ones. They can be utilised for specific study protocols and typically require advanced data models.
+Patient Reported Outcomes refer to condition-specific indicators on the patient physical and mental status.
+While the occurrence of specific pathology & lab tests is included in the care activity data, this data sets discloses details on the results of pathology exams, such as blood tests, urinalysis, molecular pathology and more.
+While the occurrence of specific  diagnostics is included in the care activity data, this data sets gives clarity on the results of additional diagnostic exams, such as X-rays, MRIs, CT scans and more.
+DNA data can be crossed with other data sets to enable advanced insights on gene-based patient segmentation and support the discovery and development of precision therapy practices and medicines.
+At LOGEX, we are expert data handlers and analysists…
+… continuously working to bring you more data sources.
+Data governance is really important for us: data will always belong to hospitals.
+You are not our product, and neither is your data.
+We are data analysts, not data broker
+The privacy and security of your data always comes first.
+We hold ourselves to the same standards as you do
+How you unlock the value in your data, is your choice.
+We work to turn data into value, in full transparency
+Your data holds the potential to fast-track crucial research.
+We are proud to be a highly respected & trusted third party
