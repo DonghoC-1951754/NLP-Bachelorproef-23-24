@@ -1,0 +1,51 @@
+The portal is a central point of access to European open data from international, European Union, national, regional, local and geodata portals. It consolidates the former EU Open Data Portal and the European Data Portal.
+The portal is intended to:
+give access and foster the reuse of European open data among citizens, business and organisations.
+promote and support the release of more and better-quality metadata and data by the EU’s institutions, agencies and other bodies, and European countries, enhancing the transparency of European administrations.
+educate citizens and organisations about the opportunities that arise from the availability of open data.
+
+The two former portals EU Open Data Portal and European Data Portal, launched respectively in 2012 and 2015, were originally established on the basis of Directive 2003/98/EC to promote accessibility to and the reuse of public sector information. The successor directives Directive 2013/37/EU and Directive (EU) 2019/1024 confirmed and extended its action. The latter invites all the EU Member States to make available their public data resources, contributing to the smooth functioning of the internal market and the proper development of the information society in the EU.
+Currently in its third iteration, the portal merges the activities of the European Data Portal (which focused exclusively on EU Member States and other European countries) and of the EU Open Data Portal (which served data from the EU institutions, agencies, and bodies) into one.
+It is funded by the EU and managed operationally by the Publications Office of the European Union in cooperation with the Directorate-General for Communications Networks, Content and Technology of the European Commission, responsible for EU open data policy.
+
+The mission, vision and values of data.europa.eu are part of those from the Publications Office of the European Union (OP) with respect to open data.
+OP mission. The Publications Office of the European Union is the official provider of publishing services to all EU institutions, bodies, and agencies. As such, it is a central point of access to EU law, publications, open data, research results, procurement notices and other official information. Its mission is to support EU policies and ensure that this broad range of information is available to the public as accessible and reusable data to facilitate transparency, economic activity, and the diffusion of knowledge.
+OP vision. A well-informed EU, empowered by timely and effective access to trustworthy information and knowledge and benefiting from all the opportunities this brings to society and the economy.
+OP values.
+Transparency -- we facilitate transparency throughout the policy cycle of the EU institutions to enhance evidence-based decision-making, accountability, civic participation, and democracy.
+Trustworthiness -- we strive to ensure that the content we provide is accurate and reliable so that citizens trust the EU as a provider of information.
+Accessibility -- we believe access to information is a human right that all citizens should enjoy regardless of language, culture, disability, social status, location, technology, or the way they understand information.
+Service orientation -- we are committed to continuously improving our services to both our institutional stakeholders and EU citizens because we want to contribute to the European project in the best possible way.
+
+The portal is a metadata catalogue. To foster the comparability of data published across borders, it presents metadata references using the application profile for data portals in Europe (Data Catalogue Vocabulary (DCAT-AP)), using Resource Description Framework (RDF) technology. It provides translations of metadata descriptions in all 24 official EU languages using machine-translation technologies (eTranslation).
+In some situations, metadata machine-based translation might not be as efficient as human translation.
+
+Our services are focused around three main spheres:
+Data providers -- any entity that gives access and distributes data to the public. To ensure the reliability of the published resources in the portal, the data providers of the portal are official representatives from supranational, national and local public administration. 
+Data users -- any person or entity who accesses and consumes data for any purpose. These include a wide range of data users who visit the portal for different purposes: non-governmental organisations, international organisations, private sector, academia, students, etc.
+Data literacy -- the ability to read, understand, create, and communicate data as information. Much like literacy as a general concept, data literacy focuses on the competencies involved in working with data.
+The ‘data providers’ (EU institutions, agencies and EU bodies, Member States, and other European countries) are autonomous in publishing their metadata (which gives you access to their data) in data.europa.eu. The portal also publishes datasets of organisations beyond the EU. The portal is being updated whenever new datasets and content are available.
+In addition to the vast collection of public datasets, most of them published in open formats, we offer additional contents and related services:
+training materials on open data in the data.europa academy
+studies such as Open Data Maturity or The Economic Impact of Open Data;
+news and data stories
+a metadata quality dashboard assessing metadata quality against various findable, accessible, interoperable, and reusable (FAIR) indicators
+a licencing assistant
+the possibility of storing your data under certain conditions (please contact us)
+the social media channels (X, LinkedIn, YouTube, Facebook)
+a list of events with the most relevant events taking place
+a monthly Newsletter
+New features for registered users will be added soon to data.europa.eu.
+The whole source code of the portal is available at GitLab for free reuse.
+How to contribute to the portal: 
+- Give us feedback, for example, suggest new functionalities you would like to see on the portal
+- Suggest a portal to be harvested by us
+- Share your data use story in which we can promote the use of data
+Several policy and legal developments on EU open data have taken place since 2003.
+
+The European open data space is an essential element of the single market for data -- an EU-wide interoperable data space that will enable the development of new products and services based on public data and industrial and scientific applications. It focuses on the implementation of EU open data and reuse policies under the legal acts adopted by the EU institutions. The Publications Office of the EU works on all four European open data space building blocks and their objectives:
+- providing a comprehensive catalogue of open data and citizen-centric reuse services;
+- improving the interlinking and interoperability of open data with other sources of public-sector information, such as legislation, publications and digital content;
+- fostering the use of data from EU content through the organisation of EU Datathon competitions and data visualisation events;
+- contributing to the implementation of data governance and policies across the EU institutions.
+
