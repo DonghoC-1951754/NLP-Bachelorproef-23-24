@@ -1,6 +1,10 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 from pathlib import Path
 
+# features met 2 woorden
+# getallen in de dataset
+# abstract uitleggen wat in tfidf vectorizer gebeurt
+
 preprocessed_base_path = "../datasets/preprocessed with stopwords data/"
 documents = []
 

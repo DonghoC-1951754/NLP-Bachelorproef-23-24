@@ -17,6 +17,7 @@ descriptions = main_tag.find_all("p")
 
 with open(file_path, "w") as file:
     for description in descriptions:
-        parsed_text = description.get_text(strip=True)
+        parsed_text = description.get_text().strip()
         file.write(parsed_text + "\n")
 print("Done!")
+
