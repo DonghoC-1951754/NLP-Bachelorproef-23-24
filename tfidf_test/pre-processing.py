@@ -1,3 +1,5 @@
+import string
+
 import nltk
 # nltk.download('wordnet')
 # nltk.download('stopwords')
@@ -9,6 +11,7 @@ base_path = "../datasets/webscraper output data/"
 raw_data_paths = [base_path + "arwen.txt", base_path + "bdva.txt", base_path + "dataeuropa.txt"]
 ouput_stopwords_path = "../datasets/preprocessed with stopwords data/"
 output_lemmatized_path = "../datasets/lemmatization/"
+output_puncs_nums_path = "../datasets/puncs_nums/"
 
 lemmatizer = WordNetLemmatizer()
 
@@ -26,11 +29,22 @@ def stopwords(data):
     words = [word for word in data.split() if word.lower() not in sw_nltk]
     # print("Words without stopwords: ", words)
     new_data = " ".join(words)
-    save_stopwords_data(new_data, "arwen_preprocessed.txt")
+    save_stopwords_data(new_data, "arwen_stopwords.txt")
     return new_data
 
 def save_stopwords_data(data, name):
     with open(ouput_stopwords_path + name, 'w') as file:
+        file.write(data)
+
+def remove_puncs_nums(data):
+    for char in data:
+        if (char in string.punctuation) or (char in string.digits):
+            data = data.replace(char, "")
+    save_punc_nums_data(data, "arwen_puncs_nums.txt")
+    return data
+
+def save_punc_nums_data(data, name):
+    with open(output_puncs_nums_path + name, 'w') as file:
         file.write(data)
 
 def preprocess():
@@ -43,7 +57,7 @@ def preprocess():
     # arwen
     with open(raw_data_paths[0], 'r') as file:
         data = file.read()
-        stopwords(lemmatize(data))
+        remove_puncs_nums(stopwords(lemmatize(data)))
     # bdva
     # with open(raw_data_paths[1], 'r') as file:
     #     data = file.read()
