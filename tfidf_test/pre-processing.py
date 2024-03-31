@@ -18,29 +18,29 @@ lemmatizer = WordNetLemmatizer()
 def save_lemmatized_data(data, name):
     with open(output_lemmatized_path + name, 'w') as file:
         file.write(data)
-def lemmatize(data):
+def lemmatize(data, name):
     words = [lemmatizer.lemmatize(word) for word in data.split()]
     # print("Lemmatized words: ", words)
     new_data = " ".join(words)
-    save_lemmatized_data(new_data, "arwen_lemmatized.txt")
+    save_lemmatized_data(new_data, name)
     return new_data
 
-def stopwords(data):
+def stopwords(data, name):
     words = [word for word in data.split() if word.lower() not in sw_nltk]
     # print("Words without stopwords: ", words)
     new_data = " ".join(words)
-    save_stopwords_data(new_data, "arwen_stopwords.txt")
+    save_stopwords_data(new_data, name)
     return new_data
 
 def save_stopwords_data(data, name):
     with open(ouput_stopwords_path + name, 'w') as file:
         file.write(data)
 
-def remove_puncs_nums(data):
+def remove_puncs_nums(data, name):
     for char in data:
-        if (char in string.punctuation) or (char in string.digits):
+        if not ((ord('a') <= ord(char) <= ord('z')) or (ord('A') <= ord(char) <= ord('Z')) or (ord(char) == ord(' '))):
             data = data.replace(char, "")
-    save_punc_nums_data(data, "arwen_puncs_nums.txt")
+    save_punc_nums_data(data, name)
     return data
 
 def save_punc_nums_data(data, name):
@@ -57,15 +57,15 @@ def preprocess():
     # arwen
     with open(raw_data_paths[0], 'r') as file:
         data = file.read()
-        remove_puncs_nums(stopwords(lemmatize(data)))
+        remove_puncs_nums(stopwords(lemmatize(data, "arwen_lemmatized.txt"), "arwen_stopwords.txt"), "arwen_puncs_nums.txt")
     # bdva
-    # with open(raw_data_paths[1], 'r') as file:
-    #     data = file.read()
-    #     savePreprocessedData(with_stopwords(data), "bdva_preprocessed.txt")
+    with open(raw_data_paths[1], 'r') as file:
+        data = file.read()
+        remove_puncs_nums(stopwords(lemmatize(data, "bdva_lemmatized.txt"), "bdva_stopwords.txt"), "bdva_puncs_nums.txt")
     # dataeuropa
-    # with open(raw_data_paths[2], 'r') as file:
-    #     data = file.read()
-    #     savePreprocessedData(with_stopwords(data), "dataeuropa_preprocessed.txt")
+    with open(raw_data_paths[2], 'r') as file:
+        data = file.read()
+        remove_puncs_nums(stopwords(lemmatize(data, "dataeuropa_lemmatized.txt"), "dataeuropa_stopwords.txt"), "dataeuropa_puncs_nums.txt")
 
     print("Preprocessing done!")
 
