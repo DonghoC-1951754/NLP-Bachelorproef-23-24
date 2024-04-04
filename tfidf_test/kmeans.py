@@ -8,7 +8,7 @@ def kmeans_output(labels):
 
 def main():
     tfidf_matrix = tfidf.get_tfidf_matrix()
-    kmeans_clustering = KMeans(n_clusters=2, init='k-means++', n_init='auto', max_iter=300, tol=0.0001, verbose=1, random_state=None, copy_x=True, algorithm='elkan').fit(tfidf_matrix)
+    kmeans_clustering = KMeans(n_clusters=2, init='k-means++', n_init='auto', max_iter=300, tol=0.0001, verbose=1, random_state=None, copy_x=True, algorithm='lloyd').fit(tfidf_matrix)
     kmeans_output(kmeans_clustering.labels_)
 
 

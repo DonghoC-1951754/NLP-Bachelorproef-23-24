@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19baa7ad-43c6-4e1c-a83f-ad82c9899c5a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/preprocessed with stopwords data/bdva_preprocessed.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/preprocessed with stopwords data/dataeuropa_preprocessed.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/puncs_nums/arwen_puncs_nums.txt" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/puncs_nums/arwen_puncs_nums.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tfidf_test/pre-processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/tfidf_test/pre-processing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tfidf_test/tfidf.py" beforeDir="false" afterPath="$PROJECT_DIR$/tfidf_test/tfidf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tfidf_test/kmeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/tfidf_test/kmeans.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
