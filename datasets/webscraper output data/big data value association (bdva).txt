@@ -1,0 +1,5 @@
+industry-driven organisation;
+mission: develop an innovation ecosystem that enables the data-driven digital transformation of the economy and society in Europe;
+focus on advancing in areas such as big data technologies and services, data platforms and data spaces, Industrial AI, data-driven value creation, standardisation, and skills
+
+

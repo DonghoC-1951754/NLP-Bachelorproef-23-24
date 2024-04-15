@@ -1,0 +1,4 @@
+a partnership between the European Commission and the Big Data Value Association (BDVA) plays a central role in the implementation of a Data Market and Data Economy
+in Europe, developing an interoperable data-driven ecosystem as a source of new business and innovations using Big Data.
+
+Not specific for healthcare, but they do have health-related projects, such as BigMedilytics, BodyPpass,... (https://www.big-data-value.eu/our_projects/).

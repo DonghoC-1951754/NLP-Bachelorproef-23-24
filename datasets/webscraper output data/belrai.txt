@@ -1,0 +1,5 @@
+BelRAI is the Belgian implementation of the interRAI assessment tools. RAI stands for resident assessment instruments; these are scientifically validated instruments enabling an assessment of the degree of dependency and the care needs of individuals.
+BelRAI is a cooperative project between the different communities, regional, and federal governments of Belgium. The BelRAI system in Belgium is available to all healthcare professionals and healthcare providing organisations for assessing the care needs of their patients. The system applies to all persons receiving healthcare in Belgium.
+
+The purpose of the system is to have a unified and standardised assessment tool to evaluate the care needs of persons as well as their degree of dependency.
+Skip to main contentBelraiNederlandsFrançaisDeutschEnglishFor full functionality of this site it is necessary to enable JavaScript.Here are theinstructions how to enable JavaScript in your web browser.Skip to main contentBelraiNederlandsFrançaisDeutschEnglishFor full functionality of this site it is necessary to enable JavaScript.Here are theinstructions how to enable JavaScript in your web browser.

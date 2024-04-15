@@ -1,0 +1,7 @@
+collaborative network which brings together a unique, multidisciplinary and complementary partnership of academia, hospitals and industry who explore and use the concept of machine learning for the realization of predictive analytics in oncology. By creating a federated and standardized analytics platform, it will be possible to combine different data types in one predictive model. It will allow access for partner hospitals and industries to detect and validate new therapies, while fully preserving the privacy of patients.
+
+At the moment the ATHENA consortium is composed of several hospitals, which will collect data of patients with multiple myeloma and bladder cancer, after their consent. Patients eligible for the study will be informed by their physician.
+
+For healthcare professionals or hospitals outside of the consortium, it is currently not possible to join the network. However, in later stages of the project, novel data partners can possibly join. This will be communicated in due time.
+
+Lexicon
