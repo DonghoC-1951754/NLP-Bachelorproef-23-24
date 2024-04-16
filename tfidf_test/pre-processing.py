@@ -1,14 +1,10 @@
-import string
-
-import nltk
-# nltk.download('wordnet')
-# nltk.download('stopwords')
 from nltk.corpus import stopwords
 sw_nltk = stopwords.words('english')
 from nltk.stem import WordNetLemmatizer
+import web_scraping.webscraper as ws
 
 base_path = "../datasets/webscraper output data/"
-raw_data_paths = [base_path + "arwen.txt", base_path + "bdva.txt", base_path + "dataeuropa.txt"]
+# raw_data_paths = [base_path + "arwen.txt", base_path + "bdva.txt", base_path + "dataeuropa.txt"]
 ouput_stopwords_path = "../datasets/preprocessed with stopwords data/"
 output_lemmatized_path = "../datasets/lemmatization/"
 output_puncs_nums_path = "../datasets/puncs_nums/"
@@ -52,20 +48,28 @@ def preprocess():
     # for path in raw_data_paths:
     #     with open(path, 'r') as file:
     #         data = file.read()
-
+    dataset = ws.create_dataset()
+    for initiative in dataset:
+        initiative_name = initiative[0].replace('\n', '').lower()
+        print(initiative_name)
+        if initiative[0] == "DHU (Digital Health Uptake) and DHU Radar":
+            return
+        with open("../datasets/webscraper output data/" + initiative_name + '.txt', 'r') as file:
+            data = file.read()
+            remove_puncs_nums(stopwords(lemmatize(data, initiative_name + "_lemmatized.txt"), initiative_name + "_stopwords.txt"), initiative_name + "_puncs_nums.txt")
     # Manually read the raw data files
     # arwen
-    with open(raw_data_paths[0], 'r') as file:
-        data = file.read()
-        remove_puncs_nums(stopwords(lemmatize(data, "arwen_lemmatized.txt"), "arwen_stopwords.txt"), "arwen_puncs_nums.txt")
-    # bdva
-    with open(raw_data_paths[1], 'r') as file:
-        data = file.read()
-        remove_puncs_nums(stopwords(lemmatize(data, "bdva_lemmatized.txt"), "bdva_stopwords.txt"), "bdva_puncs_nums.txt")
-    # dataeuropa
-    with open(raw_data_paths[2], 'r') as file:
-        data = file.read()
-        remove_puncs_nums(stopwords(lemmatize(data, "dataeuropa_lemmatized.txt"), "dataeuropa_stopwords.txt"), "dataeuropa_puncs_nums.txt")
+    # with open(raw_data_paths[0], 'r') as file:
+    #     data = file.read()
+    #     remove_puncs_nums(stopwords(lemmatize(data, "arwen_lemmatized.txt"), "arwen_stopwords.txt"), "arwen_puncs_nums.txt")
+    # # bdva
+    # with open(raw_data_paths[1], 'r') as file:
+    #     data = file.read()
+    #     remove_puncs_nums(stopwords(lemmatize(data, "bdva_lemmatized.txt"), "bdva_stopwords.txt"), "bdva_puncs_nums.txt")
+    # # dataeuropa
+    # with open(raw_data_paths[2], 'r') as file:
+    #     data = file.read()
+    #     remove_puncs_nums(stopwords(lemmatize(data, "dataeuropa_lemmatized.txt"), "dataeuropa_stopwords.txt"), "dataeuropa_puncs_nums.txt")
 
     print("Preprocessing done!")
 

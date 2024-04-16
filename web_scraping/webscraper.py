@@ -19,32 +19,15 @@ def create_dataset():
         dataset.append(row)
     return dataset[1:68]
 
-def get_link(initiative_link):
+def get_link(initiative):
     extractor = URLExtract()
-    temp = initiative_link
-    if (""):
-        return "https://www.belrai.org/nl"
-    if '\n' in initiative_link:
-        temp = initiative_link.strip()
+    temp = initiative[3]
+    if initiative[0].strip() == "BelRAI":
+        return ["https://www.belrai.org/nl"]
+    if '\n' in temp:
+        temp = temp.strip()
     parsed_url = extractor.find_urls(temp)
     return parsed_url
-
-# def scrape_home_page(file, url):
-#     try:
-#         page = requests.get(url, headers=headers)
-#     except Exception as e:
-#         print("\033[91m", url, "connection error\033[0m")
-#     if page.status_code == 200:
-#         soup = BeautifulSoup(page.content, "html.parser")
-#         print("\033[92m", url, "exists\033[0m")
-#         tag = soup.body
-#         clean_text = ''
-#         for string in tag.strings:
-#             clean_text += string.strip()
-#         file.write(clean_text + "\n")
-#     else:
-#         print("\033[91m", url, "does not exist\033[0m")
-#         return
 
 
 def scrape_full_page(file, url):
@@ -60,7 +43,7 @@ def scrape_full_page(file, url):
         clean_text = ''
         for string in tag.strings:
             clean_text += string.strip()
-        file.write(clean_text)
+        file.write(clean_text.encode('ascii', errors='ignore').decode('ascii'))
     else:
         print("\033[91m", url, "does not exist\033[0m")
         # print(url, " does not exist")
@@ -70,17 +53,21 @@ def main():
 
     for initiative in dataset:
         print(initiative[0].strip())
-        if initiative[0] == "data.europa.eu":
+        if initiative[0] == "DHU (Digital Health Uptake) and DHU Radar":
             sys.exit(0)
         file_path = "../datasets/webscraper output data/" + initiative[0].replace('\n', '').lower() + ".txt"
         with open(file_path, "w") as file:
             file.write(initiative[4].encode('ascii', errors='ignore').decode('ascii') + "\n")
-            initiative_link = get_link(initiative[3])
+            initiative_link = get_link(initiative)
+            # initiative_link = get_link(initiative[3])
             scrape_full_page(file, initiative_link[0])
             scrape_full_page(file, initiative_link[0] + "about")
             if initiative_link[0] == "https://www.darwin-eu.org/":
                 scrape_full_page(file, initiative_link[0] + "index.php/about/who-is-involved")
                 scrape_full_page(file, initiative_link[0] + "index.php/about/ehds")
+            if initiative_link[0] == "https://data.europa.eu/en":
+                scrape_full_page(file, "https://dataeuropa.gitlab.io/data-provider-manual/")
+                scrape_full_page(file, "https://dataeuropa.gitlab.io/data-provider-manual/publications-education/")
         print("")
 
 
