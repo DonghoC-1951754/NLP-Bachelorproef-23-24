@@ -1,2 +1,265 @@
 The Data Sharing Coalition is an open and growing, international initiative in which a large variety of organisations collaborate on unlocking the value of (cross-sectoral) data sharing. 
-Skip to contentAbout CoE-DSCGet supportUse casesInsightsToolsEvents & WebinarsFAQContactMenuAbout CoE-DSCGet supportUse casesInsightsToolsEvents & WebinarsFAQContactCentre of Excellence for Data Sharing and Cloud (CoE-DSC)The true value of data can only be realised if it is shared and re-used throughout the digital economy. The CoE-DSC aims to unlock this value by supporting organisations in realising scalable data spaces, the next evolutionary concept in data sharing.Who we areOne central hub in the Netherlands to find answers to data sharing challengesThe Centre of Excellence  Data Sharing and Cloud (CoE-DSC) supports organisations with establishing trust mechanisms for secure and trusted data sharing, ensuring that they can tap into the business opportunities this transformative practice offers. Our mission is to unlock the true value of data sharing by supporting organisations in realising scalable data spaces, the next evolutionary concept in data sharing. Through the development of generic building blocks and collaborative efforts, we enable easier and cost-effective implementation of data spaces across sectors and geographies.The CoE-DSC is the central hub in the Netherlands to find answers to data sharing challenges. We bring together the expertise and achievements of the Data Sharing Coalition, the Data Sharing working group of the Dutch AI Coalition (NL AIC), and the Gaia-X Hub Netherlands. By uniting these forces, we aim to prevent fragmentation and provide the Dutch data sharing community with a centralised hub of knowledge, tools, and expertise.Learn moreGet data sharing supportInsightsInterviewJoining forces at a national level to have an influence at a European levelIn the Netherlands, there are various initiatives that are working on improving the digital position of the country. How do the CoE-DSC and Topsector ICT collaborate? What are data sharing trends and how can we shape the future?Read moreInterviewThe benefits of combining data spaces and Privacy Enhancing TechnologiesData spaces and Privacy Enhancing Technologies have a common goal: making insights from data accessible in a confidential manner. But the development of both is driven by two different communities. This must change. By applying PETs within data spaces, confidentially exchanging insights from (privacy sensitive) data becomes more scalable.Read moreNewsDSSC introduces Blueprint 1.0: the evolution of data spacesThe Data Spaces Support Centre (DSSC) has announced the recent release of the Blueprint 1.0.Read moreUse casesMore use casesAdvancing data collaboration for monitoring the Dutch elderly care through MPC technologyOur participant Linksight collaborates with DSW, the municipality of Delft and elderly care organisation Pieter van Foreest and uses Multi-party Computation to generate insights without sharing the data itself, which helps to monitor and improve elderly care.Discover this use caseBenchmarking for industry associationsTogether with our participant SBR Nexus, data of industry association members is shared with industry associations to create valuable insights about the whole sector.Discover this use caseCombining AI Entity Resolution with MPC to help combatting financial crimeTogether with participants Knights Analytics and Roseman Labs, we examined the application of Artificial Intelligence Entity Resolution technology to help combat financial crime.Discover this use caseData-driven agriculture: the value potential of data for dairy farmersTogether with our participant Impact IoT Solutions and HAN and De Marke, we examine the value potential of new data sources for dairy farming and the most important conditions to unlock these new data sources in a use case.Discover this use caseImproved monitoring of human trafficking by sharing insightsTogether with our participants Sustainable Rescue Foundation, Roseman Labs and NGOs and other participants, we work on a use case that focuses on secure data exchange between different parties monitoring human trafficking.Discover this use caseLandscape: AI for administrative load reduction in the care sectorA model has been developed that can automatically assign an ICD-10 code to half of the records as accurately as human coders can. For the remainder, the coder is given suggestions, simplifying the coding work and further training the model.Discover this use caseEvents & WebinarsMay 7 | 08:00Orientation session on standards for the Data ActApril 24 | 14:30Seventh nicpet networking meetingApril 24 | 08:30NL AI Congress: The new horizon with AIApril 22 | 14:30CoE-DSC Community Meeting of April: Identity ManagementAll events & webinarsOur communityWould you like to join our community? Please contact us atinfo@coe-dsc.nl.Do you want to stay informed?A lot is happening in the field of data sharing and cloud. Stay informed about our activities and relevant news and events.Subscribe to the newsletter of the Centre of Excellence for Data Sharing and Cloud (CoE-DSC).Subscribe to the CoE-DSC newsletterFrequently Asked QuestionsWhat is the added value of CoE-DSC?The CoE-DSC functions as a central hub for market players seeking solutions to develop trust in data sharing by providing access to relevant tools, knowledge, and best practices. The CoE-DSC is an open collaborative initiative seeking alignment with sectoral data sharing initiatives avoid fragmentation in solutions. CoE-DSC combines all knowledge and expertise that has been developed within the Working Group Data Sharing of the NL AIC, the Data Sharing Coalition, and the Gaia-X Hub NL, and provides access to open-source components, standards and implementations that are currently available in the market.Where can I find the data sharing tools & guidelines?At the moment, further information on the tools and guidelines can be found on the websites of the original initiatives. All documents can be downloaded on the websites of the original initiatives. Links to existing tools and guidelines are:Data Sharing CanvasUse Case PlaybookUse Case BlueprintImplementation GuideInter/Intra AI Data Space GuidelineGaia-X ArchitectureGaia-X Trust FrameworkGaia-X Labelling criteriaThe FAIR Guiding Principles for scientific data management and stewardshipInterpreting FAIRFAIR Implementation ProfileFAIR Data PointTNO IDS ConnectorTNO Credential CatalogueOpen Source PET lab (TNO)Furthermore, we are currently working on creating an inventory of reusable open-source components, standards, and implementations available in the market.Why join the CoE-DSC community?Members of the CoE-DSC community get the opportunity to participate in the development of (cross-sectoral) data sharing use cases with support from experts andtools, gain and share knowledge about (cross-sectoral) data sharing through participation in various activities organized by the CoE-DSC and collaborate with other participants.This means being involved in new initiatives and projects, and becoming part of an open and active community that will enrich your network.Are there any costs associated with becoming part of the CoE-DSC community?No membership fee is charged to CoE-DSC community members. However, we do ask an in-kind commitment from our community members. In-kind commitment consists of actively contributing to the knowledge community by attending community activities, as well as participating in the development of data sharing use cases.How can I join the CoE-DSC community?Organisations that are interested can join the Centre of Excellence for Data Sharing and Cloud by following these four simple steps:Reach out to the dedicated project team of the CoE-DSC to express interest in joining the CoE-DSC community by sending an email to:info@coe-dsc.nlJoin an introductory appointment/intake call to get acquainted and to discuss the details of participation (role and commitment)Confirm participation, agreed role, and level of commitmentGet onboarded and invited to all relevant meetingsContact usIf you have any questions please send us an email atinfo@coe-dsc.nl.2024Privacy statementTwitterLinkedinCookiesTo provide the best experiences, we use technologies like cookies to store and/or access device information.FunctionalFunctionalAlways activeThe technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.PreferencesPreferencesThe technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.StatisticsStatisticsThe technical storage or access that is used exclusively for statistical purposes.The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.MarketingMarketingThe technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.Manage optionsManage servicesManage {vendor_count} vendorsRead more about these purposesAcceptDenyView preferencesSave preferencesView preferences{title}{title}{title}Manage consentSkip to contentAbout CoE-DSCGet supportUse casesInsightsToolsEvents & WebinarsFAQContactMenuAbout CoE-DSCGet supportUse casesInsightsToolsEvents & WebinarsFAQContactAbout the CoE-DSCWho we areData sharing has the potential to generate new economic and societal value. Traditionally, organisations establish bilateral connections or share their data through a central platform controlled by a single party. However, these approaches carry the risk of vendor lock-in, fragmentation, and limited value creation.Data spaces are the next evolution in data sharingThe next evolution in data sharing is the concept of data spaces. A data space is a decentralised infrastructure that organisations can use to make their data accessible to others based on specific agreements. Any party adhering to these agreements can participate and exchange data. Data spaces offer the scalability that traditional methods canoot offer, enabling greater innovation and economic and societal value. Examples of existing live data spaces in the Netherlands includeSCSNandHDN, as well as theMobility Data Spacein Germany.The CoE-DSC supports the realisation of data spacesSignificant barriers still exist when establishing data spaces, such as building trust between participants, complying with regulations, developing governance structures, and defining business models. The CoE-DSC aims to lower these barriers and help participants realise the full potential of data sharing initiatives.Reach out to us viainfo@coe-dsc.nlif:You want to implement a use case at scale.You need technical or operational support for your data sharing initiative.You want to join our community, which consists of over 500 participants.Whilst supporting the realisation of data spaces, the CoE-DSC closely monitors the impact of the European Data Strategy and proposed regulations like the Data Act to ensure compliance, and collaborates with theData Spaces Support Centre(DSSC).Get data sharing supportOur missionOur mission is to realise a generic data sharing infrastructureThe long-term mission of the CoE-DSC is to develop a generic data sharing infrastructure that enables seamless data sharing between existing data spaces. By promoting interoperability, parties from different sectors and domains can efficiently share data and unlock new use cases with economic and societal value.By working on practical data sharing use cases and gathering expertise from our participants, we take tangible steps towards realising this mission.We are an open and inclusive initiative. Pleasevisit our event calendarto learn more about our projects and network with other community members.Our history and foundingThe CoE-DSC is a market initiative that builds upon the efforts and results of the Data Sharing Coalition, theData Sharing working group of the Dutch AI Coalition (NL AIC)and theGaia-X Hub the Netherlands. Realising the synergy potential of these initiatives helps to avoid fragmentation in data sharing solutions and offers the Dutch data sharing community a single gateway to knowledge, tools, and expertise. We are an open initiative and welcome other data sharing collaboration initiatives as well as individual companies and organisations to join us.NL AI Coalition (Working Group Data Sharing)Founding partnerThe Working Group Data Sharing of the NL AI Coalition is committed to creating a flourishing data economy in the Netherlands that will make numerous new and improved AI applications possible and accelerate the implementation of AI.Visit websiteData Sharing CoalitionFounding partnerThe Data Sharing Coalition was an open and international initiative in which a large variety of organisations collaborated, aiming to drive (cross-sectoral) data sharing under control of the entitled party, by realising data sharing use cases, enabling interoperability between data spaces, and strengthening individual initiatives.Gaia X NL-HubFounding partnerGaia-X Hub NL is the Dutch hub of Gaia-X, the European initiative that aims to develop a federated data and cloud infrastructure in which European values such as data sovereignty can be safeguarded.Visit websiteGOFAIR FoundationCollaboration partnerThe GOFAIR Foundation provides guidelines and solutions for making data Findable, Accessible, Interoperable and Reusable (FAIR).Visit websiteData Spaces Support CentreCollaboration partnerThe Data Spaces Support Centre will explore the needs of data space initiatives, define common requirements, and establish best practices to accelerate the formation of sovereign data spaces as a crucial element of digital transformation in all areas.Visit websiteNL IDSA-hubCollaboration partnerFacilitated by TNO, the NL IDSA hub is driving interest in and adoption of data spaces from key players in the Netherlands, ensuring there is one entry point in the Netherlands for all data sharing related topics. The design principles of IDS are already operational in the manufacturing industry (SCSN). Other sectors like agro/food, energy, and health will follow.Visit websiteContact usIf you have any questions please send us an email atinfo@coe-dsc.nl.2024Privacy statementTwitterLinkedinCookiesTo provide the best experiences, we use technologies like cookies to store and/or access device information.FunctionalFunctionalAlways activeThe technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.PreferencesPreferencesThe technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.StatisticsStatisticsThe technical storage or access that is used exclusively for statistical purposes.The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.MarketingMarketingThe technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.Manage optionsManage servicesManage {vendor_count} vendorsRead more about these purposesAcceptDenyView preferencesSave preferencesView preferences{title}{title}{title}Manage consent
+
+ Menu
+Centre of Excellence for Data Sharing and Cloud (CoE-DSC)The true value of data can only be realised if it is shared and re-used throughout the digital economy. The CoE-DSC aims to unlock this value by supporting organisations in realising scalable data spaces, the next evolutionary concept in data sharing.Who we areOne central hub in the Netherlands to find answers to data sharing challengesThe Centre of Excellence  Data Sharing and Cloud (CoE-DSC) supports organisations with establishing trust mechanisms for secure and trusted data sharing, ensuring that they can tap into the business opportunities this transformative practice offers. Our mission is to unlock the true value of data sharing by supporting organisations in realising scalable data spaces, the next evolutionary concept in data sharing. Through the development of generic building blocks and collaborative efforts, we enable easier and cost-effective implementation of data spaces across sectors and geographies.The CoE-DSC is the central hub in the Netherlands to find answers to data sharing challenges. We bring together the expertise and achievements of the Data Sharing Coalition, the Data Sharing working group of the Dutch AI Coalition (NL AIC), and the Gaia-X Hub Netherlands. By uniting these forces, we aim to prevent fragmentation and provide the Dutch data sharing community with a centralised hub of knowledge, tools, and expertise.
+
+
+Insights
+
+
+Parties interested in deploying a data space need to use the right technologies and need to make sure they get the business and governance of the data space right. This is easier said than done, because there is relatively little guidance on how to deploy a data space successfully. What guidance can be given?
+
+
+
+In the Netherlands, there are various initiatives that are working on improving the digital position of the country. How do the CoE-DSC and Topsector ICT collaborate? What are data sharing trends and how can we shape the future?
+
+
+
+Data spaces and Privacy Enhancing Technologies have a common goal: making insights from data accessible in a confidential manner. But the development of both is driven by two different communities. This must change. By applying PETs within data spaces, confidentially exchanging insights from (privacy sensitive) data becomes more scalable.
+Use cases
+
+Our participant Linksight collaborates with DSW, the municipality of Delft and elderly care organisation Pieter van Foreest and uses Multi-party Computation to generate insights without sharing the data itself, which helps to monitor and improve elderly care.
+
+
+Together with our participant SBR Nexus, data of industry association members is shared with industry associations to create valuable insights about the whole sector.
+
+
+Together with participants Knights Analytics and Roseman Labs, we examined the application of Artificial Intelligence Entity Resolution technology to help combat financial crime.
+
+
+Together with our participant Impact IoT Solutions and HAN and De Marke, we examine the value potential of new data sources for dairy farming and the most important conditions to unlock these new data sources in a use case.
+
+
+Together with our participants Sustainable Rescue Foundation, Roseman Labs and NGOs and other participants, we work on a use case that focuses on secure data exchange between different parties monitoring human trafficking.
+
+
+A model has been developed that can automatically assign an ICD-10 code to half of the records as accurately as human coders can. For the remainder, the coder is given suggestions, simplifying the coding work and further training the model.
+
+
+Events & Webinars
+
+May 7 | 08:00
+
+April 24 | 14:30
+
+April 24 | 08:30
+
+April 22 | 14:30
+Our communityWould you like to join our community? Please contact us at .
+
+
+
+
+
+
+
+
+Do you want to stay informed?A lot is happening in the field of data sharing and cloud. Stay informed about our activities and relevant news and events.Subscribe to the newsletter of the Centre of Excellence for Data Sharing and Cloud (CoE-DSC).
+Frequently Asked Questions
+
+
+
+
+The CoE-DSC functions as a central hub for market players seeking solutions to develop trust in data sharing by providing access to relevant tools, knowledge, and best practices. The CoE-DSC is an open collaborative initiative seeking alignment with sectoral data sharing initiatives avoid fragmentation in solutions. CoE-DSC combines all knowledge and expertise that has been developed within the Working Group Data Sharing of the NL AIC, the Data Sharing Coalition, and the Gaia-X Hub NL, and provides access to open-source components, standards and implementations that are currently available in the market.
+
+
+
+
+At the moment, further information on the tools and guidelines can be found on the websites of the original initiatives. All documents can be downloaded on the websites of the original initiatives. Links to existing tools and guidelines are:Furthermore, we are currently working on creating an inventory of reusable open-source components, standards, and implementations available in the market.
+
+
+
+
+Members of the CoE-DSC community get the opportunity to participate in the development of (cross-sectoral) data sharing use cases with support from experts andtools, gain and share knowledge about (cross-sectoral) data sharing through participation in various activities organized by the CoE-DSC and collaborate with other participants.This means being involved in new initiatives and projects, and becoming part of an open and active community that will enrich your network.
+
+
+
+
+No membership fee is charged to CoE-DSC community members. However, we do ask an in-kind commitment from our community members. In-kind commitment consists of actively contributing to the knowledge community by attending community activities, as well as participating in the development of data sharing use cases.
+
+
+
+
+Organisations that are interested can join the Centre of Excellence for Data Sharing and Cloud by following these four simple steps:Reach out to the dedicated project team of the CoE-DSC to express interest in joining the CoE-DSC community by sending an email to:Join an introductory appointment/intake call to get acquainted and to discuss the details of participation (role and commitment)Confirm participation, agreed role, and level of commitmentGet onboarded and invited to all relevant meetings  
+Contact us
+If you have any questions please send us an email at .
+2024
+
+
+
+
+
+  Cookies
+To provide the best experiences, we use technologies like cookies to store and/or access device information.
+
+
+
+Functional
+
+
+
+Functional
+
+Always active							
+
+
+
+
+
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+
+
+
+Preferences
+
+
+Preferences
+
+
+
+
+
+
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+
+
+
+Statistics
+
+
+Statistics
+
+
+
+
+
+
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+
+
+
+
+Marketing
+
+
+Marketing
+
+
+
+
+
+
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+
+
+
+
+
+Accept
+Deny
+View preferences
+Save preferences
+
+
+
+Manage consent                           
+ Menu
+About the CoE-DSCWho we areData sharing has the potential to generate new economic and societal value. Traditionally, organisations establish bilateral connections or share their data through a central platform controlled by a single party. However, these approaches carry the risk of vendor lock-in, fragmentation, and limited value creation.Data spaces are the next evolution in data sharingThe next evolution in data sharing is the concept of data spaces. A data space is a decentralised infrastructure that organisations can use to make their data accessible to others based on specific agreements. Any party adhering to these agreements can participate and exchange data. Data spaces offer the scalability that traditional methods canoot offer, enabling greater innovation and economic and societal value. Examples of existing live data spaces in the Netherlands includeand, as well as thein Germany.The CoE-DSC supports the realisation of data spacesSignificant barriers still exist when establishing data spaces, such as building trust between participants, complying with regulations, developing governance structures, and defining business models. The CoE-DSC aims to lower these barriers and help participants realise the full potential of data sharing initiatives.Reach out to us via if:You want to implement a use case at scale.You need technical or operational support for your data sharing initiative.You want to join our community, which consists of over 500 participants.Whilst supporting the realisation of data spaces, the CoE-DSC closely monitors the impact of the European Data Strategy and proposed regulations like the Data Act to ensure compliance, and collaborates with the(DSSC).
+
+Our missionOur mission is to realise a generic data sharing infrastructureThe long-term mission of the CoE-DSC is to develop a generic data sharing infrastructure that enables seamless data sharing between existing data spaces. By promoting interoperability, parties from different sectors and domains can efficiently share data and unlock new use cases with economic and societal value.By working on practical data sharing use cases and gathering expertise from our participants, we take tangible steps towards realising this mission.We are an open and inclusive initiative. Please  to learn more about our projects and network with other community members.Our history and foundingThe CoE-DSC is a market initiative that builds upon the efforts and results of the Data Sharing Coalition, the  and the . Realising the synergy potential of these initiatives helps to avoid fragmentation in data sharing solutions and offers the Dutch data sharing community a single gateway to knowledge, tools, and expertise. We are an open initiative and welcome other data sharing collaboration initiatives as well as individual companies and organisations to join us.
+
+Founding partnerThe Working Group Data Sharing of the NL AI Coalition is committed to creating a flourishing data economy in the Netherlands that will make numerous new and improved AI applications possible and accelerate the implementation of AI.
+
+Data Sharing CoalitionFounding partnerThe Data Sharing Coalition was an open and international initiative in which a large variety of organisations collaborated, aiming to drive (cross-sectoral) data sharing under control of the entitled party, by realising data sharing use cases, enabling interoperability between data spaces, and strengthening individual initiatives.
+Founding partnerGaia-X Hub NL is the Dutch hub of Gaia-X, the European initiative that aims to develop a federated data and cloud infrastructure in which European values such as data sovereignty can be safeguarded.
+
+Collaboration partnerThe GOFAIR Foundation provides guidelines and solutions for making data Findable, Accessible, Interoperable and Reusable (FAIR).
+
+Collaboration partnerThe Data Spaces Support Centre will explore the needs of data space initiatives, define common requirements, and establish best practices to accelerate the formation of sovereign data spaces as a crucial element of digital transformation in all areas.
+
+Collaboration partnerFacilitated by TNO, the NL IDSA hub is driving interest in and adoption of data spaces from key players in the Netherlands, ensuring there is one entry point in the Netherlands for all data sharing related topics. The design principles of IDS are already operational in the manufacturing industry (). Other sectors like agro/food, energy, and health will follow.
+
+Contact us
+If you have any questions please send us an email at .
+2024
+
+
+
+
+
+  Cookies
+To provide the best experiences, we use technologies like cookies to store and/or access device information.
+
+
+
+Functional
+
+
+
+Functional
+
+Always active							
+
+
+
+
+
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+
+
+
+Preferences
+
+
+Preferences
+
+
+
+
+
+
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+
+
+
+Statistics
+
+
+Statistics
+
+
+
+
+
+
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+
+
+
+
+Marketing
+
+
+Marketing
+
+
+
+
+
+
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+
+
+
+
+
+Accept
+Deny
+View preferences
+Save preferences
+
+
+
+Manage consent                          

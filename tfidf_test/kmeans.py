@@ -1,9 +1,6 @@
-from tkinter import END
-
 import tfidf_test.tfidf as tfidf
 from sklearn.cluster import KMeans
 import plotly.graph_objects as go
-# import tkinter as tk
 import numpy as np
 
 CLUSTER_AMOUNT = 5
@@ -12,7 +9,6 @@ def kmeans_output(labels, feature_names, centroids):
     doc_names = tfidf.doc_names_inorder()
     for doc_name in doc_names:
         print(doc_name, ": ", labels[doc_names.index(doc_name)])
-    unique_labels, label_counts = np.unique(labels, return_counts=True)
     top_words_per_cluster_list = create_top_words(feature_names, centroids)
     doc_names_per_cluster_list = doc_names_per_cluster(labels, doc_names)
     visualize(top_words_per_cluster_list, doc_names_per_cluster_list)

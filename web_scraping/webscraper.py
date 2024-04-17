@@ -30,6 +30,11 @@ def get_link(initiative):
     return parsed_url
 
 
+def scrape_all_links(file, url):
+    soup = BeautifulSoup(response.text, 'html.parser')
+    links = soup.find_all('a')
+
+
 def scrape_full_page(file, url):
     try:
         page = requests.get(url, headers=headers)
@@ -39,10 +44,15 @@ def scrape_full_page(file, url):
     if page.status_code == 200:
         print("\033[92m", url, "exists\033[0m")
         soup = BeautifulSoup(page.content, "html.parser")
+        # filtered_texts = [node.get_text() for node in soup.body.children if not isinstance(node, str) or not node.name == 'a']
         tag = soup.body
-        clean_text = ''
-        for string in tag.strings:
-            clean_text += string.strip()
+        for a_tag in tag.find_all('a'):
+            a_tag.extract()
+        # clean_text = ''
+        # for string in tag.strings:
+        #     clean_text += string.strip()
+        clean_text = tag.get_text()
+        # clean_text = ''.join(filtered_texts)
         file.write(clean_text.encode('ascii', errors='ignore').decode('ascii'))
     else:
         print("\033[91m", url, "does not exist\033[0m")
@@ -60,7 +70,11 @@ def main():
             file.write(initiative[4].encode('ascii', errors='ignore').decode('ascii') + "\n")
             initiative_link = get_link(initiative)
             # initiative_link = get_link(initiative[3])
+            # Home page
             scrape_full_page(file, initiative_link[0])
+            # All links
+            scrape_all_links(file, initiative_link[0])
+            # About page
             scrape_full_page(file, initiative_link[0] + "about")
             if initiative_link[0] == "https://www.darwin-eu.org/":
                 scrape_full_page(file, initiative_link[0] + "index.php/about/who-is-involved")
