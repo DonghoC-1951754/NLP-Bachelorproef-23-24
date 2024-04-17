@@ -6,26 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="19baa7ad-43c6-4e1c-a83f-ad82c9899c5a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/puncs_nums/arwen_puncs_nums - Copy (2).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/puncs_nums/arwen_puncs_nums - Copy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/puncs_nums/bdva_puncs_nums - Copy (2).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/puncs_nums/bdva_puncs_nums - Copy (3).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/puncs_nums/bdva_puncs_nums - Copy (4).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/puncs_nums/bdva_puncs_nums - Copy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/puncs_nums/dataeuropa_puncs_nums - Copy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/webscraper output data/actionable rwe network (arwen).txt" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/webscraper output data/actionable rwe network (arwen).txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/webscraper output data/amdex.txt" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/webscraper output data/amdex.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/webscraper output data/belrai.txt" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/webscraper output data/belrai.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/webscraper output data/big data for better outcomes (bd4bo).txt" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/webscraper output data/big data for better outcomes (bd4bo).txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/webscraper output data/darwin (data analysis and real-world interrogation network in the european union).txt" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/webscraper output data/darwin (data analysis and real-world interrogation network in the european union).txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/webscraper output data/the data analysis and real-world interrogationnetwork in the european union (darwin).txt" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/webscraper output data/the data analysis and real-world interrogationnetwork in the european union (darwin).txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tfidf_test/kmeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/tfidf_test/kmeans.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tfidf_test/pre-processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/tfidf_test/pre-processing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web scraping/bdva.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web scraping/dataeuropa.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web scraping/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web scraping/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web scraping/webscraper.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +34,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dongho Chun/Documents/Informatica/3de bach/inf-bachpr-23-24-student-DonghoC-1951754&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dongho Chun/Documents/Informatica/3de bach/inf-bachpr-23-24-student-DonghoC-1951754&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RunManager" selected="Python.kmeans">

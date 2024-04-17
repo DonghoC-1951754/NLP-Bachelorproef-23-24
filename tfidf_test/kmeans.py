@@ -8,12 +8,11 @@ import numpy as np
 
 CLUSTER_AMOUNT = 5
 
-def kmeans_output(labels, tfidf_matrix, feature_names, centroids):
+def kmeans_output(labels, feature_names, centroids):
     doc_names = tfidf.doc_names_inorder()
     for doc_name in doc_names:
         print(doc_name, ": ", labels[doc_names.index(doc_name)])
     unique_labels, label_counts = np.unique(labels, return_counts=True)
-    max_points_cluster = max(label_counts)
     top_words_per_cluster_list = create_top_words(feature_names, centroids)
     doc_names_per_cluster_list = doc_names_per_cluster(labels, doc_names)
     visualize(top_words_per_cluster_list, doc_names_per_cluster_list)
@@ -21,7 +20,7 @@ def kmeans_output(labels, tfidf_matrix, feature_names, centroids):
 def main():
     tfidf_matrix = tfidf.get_tfidf_matrix()
     kmeans_clustering = KMeans(n_clusters=CLUSTER_AMOUNT, init='k-means++', n_init='auto', max_iter=300, tol=0.0001, verbose=1, random_state=None, copy_x=True, algorithm='lloyd').fit(tfidf_matrix)
-    kmeans_output(kmeans_clustering.labels_, tfidf_matrix, tfidf.vectorizer.get_feature_names_out(), kmeans_clustering.cluster_centers_)
+    kmeans_output(kmeans_clustering.labels_, tfidf.vectorizer.get_feature_names_out(), kmeans_clustering.cluster_centers_)
 
 def doc_names_per_cluster(labels, doc_names):
     doc_per_cluster_list = []
@@ -40,7 +39,7 @@ def create_top_words(feature_names, centroids):
         top3_indices = sorted_indices[:3]
         top3_words = []
         for top3_index in top3_indices:
-            top3_words.append((feature_names[top3_index], centroid[top3_index]))
+            top3_words.append((feature_names[top3_index], " " + str(round(centroid[top3_index], 3))))
         top_words_per_cluster.append(top3_words)
     return top_words_per_cluster
 
