@@ -30,9 +30,9 @@ def get_link(initiative):
     return parsed_url
 
 
-def scrape_all_links(file, url):
-    soup = BeautifulSoup(response.text, 'html.parser')
-    links = soup.find_all('a')
+# def scrape_all_links(file, url):
+#     soup = BeautifulSoup(response.text, 'html.parser')
+#     links = soup.find_all('a')
 
 
 def scrape_full_page(file, url):
@@ -72,8 +72,6 @@ def main():
             # initiative_link = get_link(initiative[3])
             # Home page
             scrape_full_page(file, initiative_link[0])
-            # All links
-            scrape_all_links(file, initiative_link[0])
             # About page
             scrape_full_page(file, initiative_link[0] + "about")
             if initiative_link[0] == "https://www.darwin-eu.org/":
