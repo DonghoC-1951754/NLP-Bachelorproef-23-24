@@ -2,17 +2,18 @@ from nltk.corpus import stopwords
 sw_nltk = stopwords.words('english')
 from nltk.stem import WordNetLemmatizer
 import web_scraping.webscraper as ws
+import os
 
 base_path = "../datasets/webscraper output data/"
 # raw_data_paths = [base_path + "arwen.txt", base_path + "bdva.txt", base_path + "dataeuropa.txt"]
-ouput_stopwords_path = "../datasets/preprocessed with stopwords data/"
+output_stopwords_path = "../datasets/stopwords/"
 output_lemmatized_path = "../datasets/lemmatization/"
 output_puncs_nums_path = "../datasets/puncs_nums/"
 
 lemmatizer = WordNetLemmatizer()
 
 def save_lemmatized_data(data, name):
-    with open(output_lemmatized_path + name, 'w') as file:
+    with open(u"\\\\?\\" + os.path.abspath(output_lemmatized_path + name), 'w+') as file:
         file.write(data)
 def lemmatize(data, name):
     words = [lemmatizer.lemmatize(word) for word in data.split()]
@@ -29,7 +30,7 @@ def stopwords(data, name):
     return new_data
 
 def save_stopwords_data(data, name):
-    with open(ouput_stopwords_path + name, 'w') as file:
+    with open(u"\\\\?\\" + os.path.abspath(output_stopwords_path + name), 'w+') as file:
         file.write(data)
 
 def remove_puncs_nums(data, name):
@@ -40,7 +41,7 @@ def remove_puncs_nums(data, name):
     return data
 
 def save_punc_nums_data(data, name):
-    with open(output_puncs_nums_path + name, 'w') as file:
+    with open(u"\\\\?\\" + os.path.abspath(output_puncs_nums_path + name), 'w+') as file:
         file.write(data)
 
 def preprocess():
@@ -52,9 +53,8 @@ def preprocess():
     for initiative in dataset:
         initiative_name = initiative[0].replace('\n', '').lower()
         print(initiative_name)
-        if initiative[0] == "DHU (Digital Health Uptake) and DHU Radar":
-            return
-        with open("../datasets/webscraper output data/" + initiative_name + '.txt', 'r') as file:
+        file_path = "../datasets/webscraper output data/" + initiative_name + '.txt'
+        with open(u"\\\\?\\" + os.path.abspath(file_path), "r") as file:
             data = file.read()
             remove_puncs_nums(stopwords(lemmatize(data, initiative_name + "_lemmatized.txt"), initiative_name + "_stopwords.txt"), initiative_name + "_puncs_nums.txt")
     # Manually read the raw data files

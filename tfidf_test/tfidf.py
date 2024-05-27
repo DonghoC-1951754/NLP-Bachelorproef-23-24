@@ -1,5 +1,7 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 from pathlib import Path
+import plotly.graph_objects as go
+import numpy as np
 
 # features met 2 woorden
 # getallen in de dataset
@@ -32,7 +34,31 @@ def get_tfidf_matrix():
     print(dense_tfidf_matrix)
     return dense_tfidf_matrix
 
+def test_tfidf():
+    test_documents = [
+        "car drive road",
+        "truck drive highway",
+        "train drive track",
+        "plane fly sky",
+    ]
+    test_tfidf_matrix = vectorizer.fit_transform(test_documents).toarray()
+    print(test_tfidf_matrix)
+    print(vectorizer.idf_)
+    fig = go.Figure(data=[go.Table(
+        header=dict(values=vectorizer.get_feature_names_out()),
+        cells=dict(values=np.ceil(test_tfidf_matrix.T * 1000) / 1000))
+    ])
+    fig.update_layout(width=700)
+    fig.show()
+    # dense_test_tfidf_matrix = test_tfidf_matrix.toarray()
+    # print("Test TF-IDF Matrix:")
+    # print(dense_test_tfidf_matrix)
 
+
+
+if __name__ == "__main__":
+    # get_tfidf_matrix()
+    test_tfidf()
 #
 # # Get feature names (words)
 # feature_names = vectorizer.get_feature_names_out()

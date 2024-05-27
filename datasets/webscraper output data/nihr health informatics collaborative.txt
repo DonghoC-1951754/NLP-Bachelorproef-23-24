@@ -1,0 +1,8855 @@
+The NIHR Health Informatics Collaborative (HIC) is a partnership of 28 NHS trusts, organisations and health boards, including those hosting NIHR Biomedical Research Centres (BRCs), working together to facilitate the equitable re-use of NHS data for translational research. The NIHR HIC has established cross-site data collaborations in areas such as cardiovascular medicine, critical care, renal disease, infectious diseases, and cancer.
+
+Facilitate the equitable re-use of NHS data for translational research;
+More effective use of electronic patient records;
+Improving the ability to draw comparisons from research and analysis;
+Making information held easier to find and use;
+Better opportunities to link with other public organisations, charities, academic organisations and industry to improve patient outcomes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Home
+
+The NIHR Health Informatics Collaborative (HIC) is a partnership of NHS trusts, organisations and health boards, including those hosting NIHR Biomedical Research Centres (BRCs), working together to facilitate the equitable re-use of NHS data for translational research. The NIHR HIC has established cross-site data collaborations in areas such as cardiovascular medicine, critical care, renal disease, infectious diseases, cancer and more.
+Recent News
+08 February 2024 The NIHR HIC welcomes its 35th collaborator, Whittington Health NHS Trust
+11 July 2023 NIHR HIC Viral Hepatitis Theme collaborate on paper published in Infectious Diseases and Therapy. 
+01 July 2023 The new NIHR HIC Data Sharing Framework commences from 1 July 2023, a full list of collaborators is available 
+23 June 2023 NIHR HIC Viral Hepatitis Theme publishes poster for the EASL 2023 Congress 2023. 
+14 July 2022 NIHR HIC Renal Transplantation Theme publishes paper in Frontiers in Nephrology. 
+23 June 2022 NIHR HIC Colorectal Cancer Theme publishes paper in BMJ Health and Care Informatics along with a review from thePatient and Public Group (PPG) of Bowel Cancer Intelligence UK (BCI-UK). 
+16 June 2022 NIHR HIC Viral Hepatitis Theme publishes paper in the International Journal of Epidemiology (IJE). 
+Archived News
+03 February 2023 The NIHR HIC welcomes its 34th collaborator, Birmingham Womens & Childrens NHS Foundation Trust
+02 December 2022 The NIHR HIC welcomes its 33rd collaborator, NHS Blood and Transplant
+08 November 2022 The NIHR HIC welcomes its 32nd collaborator, NHS Greater Glasgow & Clyde
+27 October 2022 The NIHR HIC welcomes its 31st collaborator, Blackpool Teaching Hospitals NHS Foundation Trust
+26 April 2022 NIHR HIC Cardiovascular Theme publishes paper in the International Journal of Cardiology. 
+09 March 2022 NIHR HIC Cardiovascular Theme publishes paper in the Journal of the American Heart Association. 
+24 February 2022 NIHR HIC Cardiovascular Theme publishes paper in Plos Medicine. 
+11 February 2022 NIHR HIC Viral Hepatitis Theme publishes article on Wellcome Open Research. 
+2 December 2021 NIHR HIC Viral Hepatitis Theme selected as poster prize winner at FIS Conference. 
+15 October 2021 The NIHR HIC welcomes its 30th collaborator, Croydon Health Service NHS Trust.
+29 July 2021 The NIHR HIC welcomes its 29th collaborator, Alder Hey Childrens NHS Foundation Trust.
+01 July 2021 NIHR HIC Critical Care Theme publishes paper in Critical Care Medicine. 
+26 June 2021 NIHR HIC Viral Hepatitis Theme publishes paper in BMC Infectious Diseases. 
+06 May 2021 New NIHR HIC Myeloma data collaboration established in partnership with Myeloma UK. 
+30 April 2021 NIHR HIC Viral Hepatitis Theme publishes paper in Hepatology Communications. 
+04 March 2021 The NIHR HIC welcomes its 28th collaborator, Liverpool University Hospitals NHS Foundation Trust.
+20 January 2021 Manchester BRC director highlights important NIHR HIC work. 
+04 January 2021 The NIHR HIC welcomes its 27th collaborator, Royal Berkshire Hospital NHS Foundation Trust.
+01 December 2020 The NIHR HIC welcomes its 26th collaborator, Cardiff and Vale University Health Board.
+19 November 2020 NIHR HIC Viral Hepatitis Theme publishes first collaborative paper. 
+14 October 2020 NIHR HIC Viral Hepatitis Theme publishes second paper.
+13 September 2020 The NIHR HIC are supporting a new study to review the impact of a digital alert system to monitor patients with sepsis at NHS hospitals. 
+27 August 2020 NIHR HIC Cardiovascular Theme publishes third paper in The Lancet. 
+22 May 2020 NIHR HIC COVID-19 data collaboration launched. 
+03 July 2020 NIHR HIC is hiring: were looking for a Project Support Manager to join the Coordinating Centre. 
+NIHR HIC welcomes its 25th collaborator: Chelsea and Westminster Hospital NHS Foundation Trust.
+NIHR Health Informatics Collaborative is hiring. Were looking for a Programme Manager with a flexible base
+NIHR publishes blog post. The post focuses on how the NIHR HIC is maximising NHS data for translational research
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+About
+
+
+The National Institute for Health and Care Research (NIHR)
+The NIHR aims to improve the health and wealth of the UK through research. Its mission is to provide a health research system in which the NHS supports outstanding individuals working in world-class facilities, conducting leading-edge research focused on the needs of patients and the public.
+The NIHR supports research from laboratory bench to bedside for the benefit of patients and the economy. It works with patients and the public to shape the research agenda, finding new ways of preventing, identifying and treating ill health, evaluating the effectiveness and impact of new healthcare treatments, and ensures that the best possible evidence is available to inform decisions about health and social care.
+The NIHR Health Informatics Collaborative (HIC)
+The NIHR HIC is a collaboration between NHS trusts, each of which has a strong relationship with a partner university. These relationships have been strengthened and supported by the NIHR, in particular through the establishment of NIHR Biomedical Research Centres (BRCs) within each trust. It is the BRCs that provide the focal points for the NIHR HIC, bringing together clinical, scientific, and informatics expertise at each trust to improve the quality and availability of patient information.
+The aims of the NIHR HIC are to:
+
+support the establishment and maintenance of catalogued, comparable, comprehensive flows of patient data at each trust:
+
+catalogued, in that the context of collection, the intended interpretation, or the provenance of the data is properly recorded and understood.
+comparable, in that unnecessary differences in the way in which data is recorded, processed, and represented are reduced or eliminated.
+comprehensive, in that the flows contain all of the core information needed for high quality care, service evaluation, and translational research.
+
+
+to create a governance framework for data sharing and re-use across the trusts and partner organisations, including:
+
+a data sharing agreement, allowing for the transfer of deidentified and/or identified information between trusts.
+a publication policy, ensuring that contributors across the collaborative receive appropriate credit.
+a shared approach to research collaboration and intellectual property, streamlining the process of data re-use for scientific progress and patient benefit.
+
+
+
+
+An additional aim is to demonstrate this new capability  the data flows and the governance framework  through the delivery of a number of exemplar research studies, one in each of the established therapeutic areas.
+The NIHR HIC trusts
+The NIHR HIC is formed of NHS trusts, some with a university partner:
+Trust and Health BoardUniversityUniversity of Liverpool Queen Mary University of LondonUniversity of ManchesterUniversity of CambridgeCardiff UniversityImperial College LondonUniversity College London Institute of Child HealthKings College LondonHull UniversityImperial College LondonKings College LondonUniversity of LiverpoolUniversity of ManchesterUCL Institute of OphthalmologyUniversity of GlasgowUniversity of NottinghamUniversity of OxfordUniversity of Oxford The Institute of Cancer ResearchUniversity of SheffieldUniversity College LondonUniversity of BirminghamUniversity of BristolUniversity of LeicesterUniversity of Southampton University College London
+
+The NIHR HIC benefits
+More effective use of electronic patient records
+Electronic patient records hold detailed information about patients life circumstances, their medical history, and the treatment they receive. This information is needed by frontline healthcare professionals for the delivery and continuity of care. When collected together, it is also extremely useful to health planners in assessing what services are needed, and what improvements could be made, and by researchers working to turn scientific progress into patient benefit.
+By improving the quality, availability and consistency of electronic patient records nationally, the NIHR HIC contributes to improving patient outcomes, reducing the costs of care and accelerating health research and service improvements.
+Improving the ability to draw comparisons from research and analysis
+Patient information is captured in different settings and held in different ways, but in order to be able to draw reliable research conclusions it is vital to be able to compare like with like. The NIHR HIC is helping to check that data can be sensibly compared by creating different data models across the patient experience, from initial diagnosis to eventual outcome. This helps to identify ways in which data may need to be adapted to enable effective comparison and provide more assurance that conclusions are sound. 
+Making information held easier to find and use
+There is a wealth of information available about the diagnosis of patients, their treatment over a period of time, and the outcomes that they experience. A key challenge for researchers is that this information is held in many different IT systems, which need to work together to provide the fullest picture of what has happened, and what has been effective or not. The NIHR HIC is working on ways to pool data from operational systems into central stores more effectively, and develop different tools and techniques to review, analyse, standardise and present the data in different and more useful, clinically effective ways.
+Better opportunities to link with other public organisations, charities, academic organisations and industry to improve patient outcomes
+Effective research by companies such as those making medicines and medical equipment is vital for improving treatments and outcomes for patients. There is a real opportunity to enhance the work of these companies by making available high quality and relevant clinical data, which has been collected in standard ways to help comparison. Through the NIHR HIC, prospective research partners are able to work with its members to determine the feasibility of specific studies.
+A key benefit is the ability to combine the patient populations across the different organisations for each research theme. Where a study is feasible and ethical approval is obtained, the ability to form patient groups rapidly across multiple organisations, and to draw some or even all the clinical data required from existing information systems, greatly reduces the cost and timelines of execution of research projects.
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Governance
+
+Protecting information is vitally important to the NHS trusts that make up the NIHR HIC. These trusts work together to ensure that your data is protected at every step of the journey and is only used legally and appropriately.
+Each trust collects and processes data about patients they look after, allowing them to provide the best possible care. Each organisation that collects personal data on the patients they treat is known as a data controller. This means they are responsible for looking after personal data and deciding how it can be processed (or used) to enable the NHS to provide the best service possible. Each trust has a legal obligation to keep your information secure and ensure that it is used appropriately.
+Any time data is used for research or other activities as part of the NIHR HIC the trusts involved ensure that your information is processed securely and appropriately by always making sure that the data controllers (trusts responsible for the data) agree and sign off that that they are happy for patient data to be used in this way.
+An important objective of the NIHR Health Informatics Collaborative was to develop a governance framework that could be used by NHS trusts to support data sharing in a wide range of research collaborations. Such a framework has been created and any NHS trust that has joined the Collaborative can use it to support the sharing of data. The Collaborative does not oblige any NHS trust to share any data and leaves it to each individual NHS trust to identify any data that it wishes to share. In addition, before sharing any data, the individual NHS trust must be satisfied that it is authorised to share that data. All of the research collaborations that benefit from using the framework developed by the Collaborative have the ultimate aim of improving treatments and outcomes for patients.
+Each trust is required to provide a privacy notice that explains how and what they will do with data. 
+To view the NIHR privacy policy please visit . 
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Architecture
+
+Datasets and tools
+Data used by researchers will be de-identified  names, addresses, NHS numbers, specific dates  will be removed, unless there is explicit ethical and legal approval to do otherwise.
+The NIHR HIC works with the information governance teams within each of the participating trusts to ensure that patient information is managed in accordance with NHS and  (ICO) guidelines.
+How to work with NIHR HIC centres and themes
+If you are a researcher and are interested in working with NIHR HIC centres or themes, please contact the relevant centre using the . NIHR HIC datasets are not currently available to researchers outside of the NIHR HIC; however it may be possible to establish new collaborations.
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Metadata
+
+Metadata
+In order for NHS Trusts to effectively collaborate on the re-use of routine clinical data in a research context, a number of tools and techniques have been built and implemented by the Health Informatics Collaborative. A key problem is the management of metadata: information that describes how a particular item of data has been collected, stored, and may be re-used.Context may be given to each question in a form, each column in a database or spreadsheet, or each field in a database query, making the data easier to understand and avoiding miscommunications and errors being made.
+Metadata Catalogue
+The metadata catalogue is central to our ability to record metadata about large datasets across a large number of centres. It is a tool that provides astandard way for recording information about data standards, data assets, data flows, terminologies, and phenotypes. Much of the information can be time-consuming to enter manually, so the tool speeds up this process by automating this documentation wherever possible, and allowing content to be collaboratively maintained by those with technical, clinical, or research-user viewpoints.
+The following video explains the purpose of the Metadata Catalogue and what it can do:
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Themes
+
+The development of the NIHR HIC capability has focused on key therapeutic areas, chosen for their importance to patients and the NHS and also for the different challenges that they present in terms of data quality and availability:
+
+COVID-19
+cardiovascular medicine (formerly acute coronary syndromes) 
+critical care
+ovarian cancer
+renal disease (formerly renal transplantation)
+viral hepatitis and liver disease
+cancer: breast, colorectal, lung, and prostate  
+infectious diseases 
+hearing health
+musculoskeletal
+myeloma
+transfusion dependent anaemias
+diabetes
+childrens surgery outcomes
+
+In addressing data quality and availability in these areas, the NIHR HIC partners have been able to build upon work by the following organisations:
+
+Hepatitis C Virus Research UK (HCV UK) 
+NHS Blood and Transplant (NHSBT) 
+Intensive Care National Audit and Research Centre (ICNARC)
+Myocardial Ischaemia National Audit Project (MINAP) 
+National Cancer Intelligence Network (NCIN) 
+UK Research Reserve (UKRR) 
+Bloomsbury institute of Intensive Care Medicine (BiICM)
+Myeloma UK
+
+In each theme, clinicians, scientists, and informaticians from the partner organisations work together to deliver the NIHR HIC capability  the data flows and the governance framework  and to demonstrate that capability through exemplar research studies.
+Each of the themes is led by a different university-hospital partnership:
+
+, since the start of the COVID-19 pandemic, the NIHR HIC Cardiovascular Medicine Theme has been leading on a data collaboration to allow cardiovascular questions to be answered in relation to COVID-19. The work has been prioritised by the NIHR/BHF Cardiovascular Partnership, connecting the cross-BRC collaboration to the network of BHF Centres and Accelerators.
+ (formerly acute coronary syndromes), by Imperial College Healthcare NHS Trust and Imperial College London
+, by University College London Hospitals NHS Foundation Trust and University College London
+, by Cambridge University Hospitals NHS Foundation Trust and the University of Cambridge 
+, by Guys and St Thomas NHS Foundation Trust and Kings College London 
+ , by Oxford University Hospitals NHS Foundation Trust and the University of Oxford 
+, by Guys and St Thomas NHS Foundation Trust and Kings College London 
+, by Oxford University Hospitals NHS Foundation Trust and the University of Oxford 
+, by Imperial College Healthcare NHS Trust and Imperial College London, and University College London Hospitals NHS Foundation Trust and University College London  
+, by University College London Hospitals NHS Foundation Trust and University College London and Guys and St Thomas NHS Foundation Trust and Kings College London 
+ by Imperial College Healthcare NHS Trust and Imperial College London, and Guys and St Thomas NHS Foundation Trust and Kings College London 
+, by University College London Hospitals NHS Foundation Trust, Nottingham University Hospitals NHS Trust, Manchester University Hospitals NHS Foundation Trust.
+, by Leeds Teaching Hospitals NHS Trust and University of Leeds.
+, by University College London Hospitals NHS Foundation Trust
+, by University College London Hospitals NHS Foundation Trust
+, by University of Oxford
+
+How to work with NIHR HIC centres and themes
+If you are a researcher and are interested in working with NIHR HIC centres or themes, please contact the relevant centre using the. NIHR HIC datasets are not currently available to researchers outside of the NIHR HIC; however it may be possible to establish new collaborations.
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Cardiovascular COVID-19
+
+
+Since the start of the COVID-19 pandemic, the NIHR HIC Cardiovascular Medicine Theme  has been leading on a data collaboration to allow cardiovascular questions to be answered in relation to COVID-19. The work has been prioritised by the NIHR/BHF Cardiovascular Partnership, connecting the cross-BRC collaboration to the network of BHF Centres and Accelerators.
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Cancer: Colorectal
+
+
+
+Treatments are surgery, neoadjuvant radiotherapy (for patients with rectal cancer), and adjuvant chemotherapy (for patients with stage III/IV and high-risk stage II colon cancer). 5-year relative survival ranges from 90% in patients with early stage disease to 10% in patients with end stage disease. Colorectal screening has been shown to reduce colorectal cancer incidence and mortality. 1.1 million patients are diagnosed with colorectal cancer every year. Incidence is closely related to western lifestyle and increases with age.
+Aims of the NIHR HIC
+The aim of the project is to collect detailed information from eight of the UKs major colorectal cancer centres. This information will provide a significant data resource outside of a clinical trial setting, to help our understanding of the factors that are important in the outcome of patients presented with colorectal cancer, which helps the development of new and improved treatments and medicines.
+Collaborating centres:
+Oxford University Hospitals NHS Foundation Trust (Lead Centre)
+Guys & St Thomas NHS Foundation Trust
+Imperial College Healthcare Trust
+University College London Hospitals NHS Foundation Trust
+Leeds Teaching Hospitals NHS Trust
+The Christie NHS Foundation Trust
+Royal Marsden NHS Foundation Trust
+University Hospitals Birmingham NHS Foundation Trust
+University Hospitals Southampton NHS Foundation Trust
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Cancer: Breast
+
+
+Breast cancer is the most common cancer and accounts for 15% of all new cases of cancer in the UK (source: Cancer Research UK 2013)
+The NIHR HIC breast cancer theme is led by Dr Elinor Sawyer from Guys and St Thomas Hospital / Kings College London and Dr Richard Baird from the Cambridge Cancer Centre. They are working with other breast cancer experts in the UK through their BRCs Centres and the NIHR HIC to securely and anonymously share key information on breast cancer diagnosis, treatment and outcomes.
+Aims of the NIHR HIC
+There are different subtypes of breast cancer that can be categorised by tumour grade, hormone receptor and Her2 expression. The NIHR HIC breast cancer theme will look at the frequency of these different subtypes of breast cancer across the different BRCs to assess whether there is any evidence of an association of certain subtypes with ethnicity and age and whether these two factors influence the type of treatment given or the stage at which the cancer presents.
+The NIHR HIC breast cancer theme will also develop tools to analyse mine radiology and histopathology text reports to help establish a robust database on patients with metastatic disease to assess outcomes across the Biomedical Research Centres. Having done this the theme will investigate how many patients are being entered into trials and the use of novel treatments from the cancer drugs fund, and assess response rates to these newer agents.
+Lead centre:
+Guys & St Thomas Hospital NHS Foundation Trust
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Cancer: Lung
+
+
+The lung cancer theme is led by Imperial College Healthcare NHS Trust and University College London Hospitals NHS Foundation Trust. Initial work in this theme will focus on non-smoking related lung cancer. Recent research indicates that the levels of non-smoking related lung cancer are rising and it is becoming increasingly recognised as an important and distinct entity.
+Aims of the NIHR HIC
+The NIHR HIC data collection will allow us to determine the incidence, management and outcomes of patients with non-smoking related lung cancer compared with smoking related cancers within the NIHR HIC centres.
+The data collection will contain data from patients with all forms of lung cancer (both smoking and non-smoking related) so as to enable access to larger volumes of quality data for use in approved research studies aiming to understand and improve treatments and outcomes for patients diagnosed with lung cancer in the future.
+Lead centres:
+Imperial College Healthcare NHS TrustUniversity College London Hospitals NHS Foundation Trust
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Cancer: Ovarian
+
+
+In 2011, the ten year estimated survival rate was only 35% following diagnosis. As with most cancers, an earlier diagnosis results in a better outcome. Ovarian cancer is the fifth most common cause of cancer among women in the UK. Cancer Research UK (CRUK) estimates that 19 women each day are diagnosed with ovarian cancer.
+Dr James Brenton, of the CRUK Cambridge Cancer Centre, is working with other ovarian cancer specialists, to share key information on ovarian cancer in order to make recommendations about how diagnosis and treatment can improve survival for women with this type of cancer.
+While ovarian cancer is a big health concern in the UK, the number of women looked after at any single NHS facility is too small for reliable studies of the population. Treatments may also differ between hospitals, and it is therefore very important to gather data from different places to understand the best treatments and other factors for long-term survival.
+Aims of the NIHR HIC
+The specific objectives from the NIHR HIC for treatment of ovarian cancer are to:
+Securely and anonymously collect and share data on ovarian cancer patientsReview what information we already have on ovarian cancer and see if they can add to the overall pictureEvaluate how ovarian cancer surgery is carried out and determine which of the different methods best achieve the expected outcomes, eg reaching the five year survival, reducing a recurrence of ovarian cancer, and slowing down the progression of the disease
+We aim to keep everyone who is interested in this area up to date and informed of the progress we make. Currently all participating sites have adopted the same process of collecting data on ovarian cancer from initial diagnosis to discharge and beyond. The data that is gathered cannot be linked to the identity of a single patient. Cambridge University Hospitals NHS Foundation Trust (CUH) has established a secure location for receiving the data from each participating site, and for storing and analysing this information on behalf of the NIHR HIC.
+Lead centre:
+Cambridge University Hospitals NHS Foundation Trust
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Cancer: Prostate
+
+
+The NHS has pioneered novel diagnostic and treatment paradigms in prostate cancer. The prostate cancer NIHR HIC theme aims to use the data collected during routine practice and cancer registry submissions to answer important questions in prostate cancer management.
+A major lesson learned from the phase 1 project in ovarian cancer was that data completeness and quality varied across centres. This is felt to be due to the particular challenges associated with manual data entry into electronic health records  these include addressing issues with IT, process and clinician engagement.
+Aims of the NIHR HIC
+The first major aim of the prostate cancer theme is to investigate the current baseline of data collection, using the National Prostate Cancer Audit dataset, before instituting changes to improve data completion. The site leads will act as champions to deliver this change. The team will also work with COSD and Genomics England to improve data collection for these projects. The resulting datasets will afford novel insight into the disease processes underlying prostate cancer.
+Lead centres:
+University College London Hospitals NHS Foundation TrustGuys & St Thomas Hospital NHS Foundation Trust
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Cardiovascular
+
+
+(formally Acute Coronary Syndromes)
+The theme initial aims were to investigate Acute coronary syndrome (ACS). ACS refers to a group of conditions that are due to decreased blood flow in the coronary arteries in the heart. When untreated, part of the heart muscle is unable to function properly or dies. This syndrome is typically caused by a blood clot forming on a narrowing in one or more of the arteries supplying the heart. This makes the artery very narrow and usually causes chest pain at rest.
+The disease can range from a tight narrowing  which causes pain but no damage  to a complete blockage causing a major heart attack. This is a common condition and many hundreds of patients attend our major centres every year. Patients often receive invasive treatment to open up the arteries to improve blood flow to the heart muscle and this can save lives.
+This theme has collated anonymised clinical information on patients presenting with this condition from five of the UKs major cardiac centres, including Imperial, University College London, St Thomas, Oxford and King College Hospital. data includes information on the state of the arteries and the heart muscle and a measure of the degree of damage to the heart. This information is being used by NHS researchers to help our understanding of the factors that are important in the outcome of patients with acute coronary syndromes and will be publishing first results.
+The database has been fully reviewed by the National Research Ethics Service.
+Further Information:
+For research queries please contact Dr Jamil Mayet via 
+Lead centre:
+NIHR Imperial Biomedical Research Centre
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Childrens Surgery Outcome Reporting (CSOR)
+
+Half a million children in England and Wales undergo surgery each year. In 2011, the National Confidential Enquiry into Patient Outcomes and Death (NCEPOD) review of childrens surgery in the UK concluded there was room to improve the number of these children that were successfully treated.
+Across the UK, there is significant variation in the way children are treated for surgical conditions (conditions which usually, but not always, require an operation). However, at the moment, we do not know which elements of this variation affect how successfully children are treated. 
+The NIHR HIC is supporting the CSOR Research Database, which has been established to collect the data that are needed to identify which elements of variation in management affect how successfully children are treated. The database will collect information directly from participating hospitals electronic patient record systems, and link this information with routinely collected sources of data (such as Hospital Episodes Statistics), and parent reported quality of life data. Additionally, the programme aims to provide a mechanism by which hospitals can look in detail at how their practice impacts their outcomes, compare their own practice to that of others, and elements of good practice can be easily identified and shared. 
+There are ten hospitals participating in the first five year phase of the CSOR programme, and six conditions (oesophageal atresia, gastroschisis, congenital diaphragmatic hernia, necrotising enterocolitis, posterior urethral valves, and Hirschsprungs disease) that are being included in the research database.
+By trying to identify and promote areas of best practice, the CSOR programme will hopefully provide a mechanism for improving the number of children that are successfully treated, as well as improving the experience of children and their carers.
+To find out more about the CSOR programme, please visit 
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Critical Care
+
+
+A critical illness is any illness that may be a direct threat to life, for example:
+Serious infection such as pneumonia or meningitisMajor trauma such as a serious road traffic accidentSerious stroke or heart attackFollowing major surgery
+Critically ill patients are usually cared for in Critical Care Units, Intensive Care or High Dependency Units staffed by specialist doctors, nurses and therapists with access to high levels of monitoring (such as continuous blood pressure and oxygen levels) and treatments that allow the critical care teams to rapidly detect and respond to any deterioration.
+Critical Care has become increasingly sophisticated over the years and patient survival and outcomes have improved. However less is known about survival beyond hospital. Research as to what treatment works best is difficult, as there are not enough patients with the same critical illness from which to draw significant conclusions. Even with large studies, there is too much variation to always be helpful.
+A number of important questions remain unanswered about people who have been treated in critical care. For example:
+Does a critical illness have an impact on life span?If there is an impact, is it greater for those having had an infection or following a major accident?Do survivors require more input from hospitals following discharge and how long is that input required?
+Aims of the NIHR HIC
+The Critical Care theme within the NIHR HIC aims to bring together data for analysis and interpretation to help identify what is known about survival outcomes for people who have received critical care. This will help us to:
+Better understand critical illness and the long term effect of our treatments so we can tailor these treatments to individual patientsImprove our understanding of the long term consequences of multiple organ failure and treatment so patients have a better quality of life once discharged.
+Participating Critical Care Units display posters about this project and information leaflets are given to all patients (and if appropriate next of kin). A brief video explaining what is involved for those who participate can be viewed in the
+Further information
+For further information about the activities involving the public and patients, please visit the.
+For research queries contact: Dr David Brealey, Consultant in Intensive Care Medicine and UCLH Critical Care Research Lead, via.
+You may also find further information via the following links:
+
+Lead centre:
+University College London Hospitals NHS Foundation Trust
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Diabetes
+
+
+
+
+
+
+
+
+
+Diabetes is one of the most common long-term conditions that is characterised by raised glucose levels, and accounts for almost 10% of NHS expenditure. People living with diabetes access health care services due to a variety of reasons, often related to complications such as heart disease, circulatory problems, and sight loss. Similarly, many people with diabetes also access the NHS for a primary reason unrelated to diabetes, but which may be impacted by having diabetes. For example, elective surgery, obesity related complications, sepsis and mental health problems.
+Within hospitals, one in six (18%) beds are occupied by a person with diabetes, who often has to stay for longer and has a greater risk of mortality (6.4%). The COVID-19 pandemic has highlighted the increased risk (2-3 fold) of mortality from COVID in patients with diabetes, with uncontrolled hyperglycaemia being a significant contributor to poorer outcomes.
+The main motivation for forming the diabetes theme within the HIC is to leverage routinely collected data to identify ways in which to reduce the gap in outcomes between people with and without diabetes.
+Aims of the NIHR HIC
+Many people with complex diabetes, and especially a high proportion of those with type 1 diabetes, receive their routine diabetes care through specialist services linked to hospitals. All of these settings collect a wealth of data on diabetes healthcare episodes, outcomes and procedures. By forming a diabetes HIC theme, we aim to access and utilise unique data that exists within the NHS to generate new knowledge and information around the impact of diabetes, different therapies, and glucose control during admissions that could feed back to the better management of diabetes, to ultimately create better outcomes.
+From our understanding of diabetes care and the current knowledge gaps, we propose to develop a research database of anonymised real world data to be used as a resource by approved researchers, academics and medical professionals for the benefit of patients living with diabetes in the UK. Full ethical approval will be sought as part of the project and further information around governance within the NIHR HIC is available .
+Collaborating centres
+The diabetes HIC theme is being led by Professor Pratik Choudhary at the University Hospitals of Leicester NHS Trust.
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Hearing health
+
+Hearing loss is a major public health problem requiring urgent action: one in six of the UK population (equivalent to 11 million people) lives with hearing loss. This makes hearing loss the most common sort of sensory loss, affecting peoples ability to communicate and function in society.
+The World Health Organisation has identified hearing loss as the second leading cause of years lived with disability. Hearing loss increases social isolation and substantially increases the risk of suffering from depression. Recent evidence has shown hearing loss in mid-life is associated with increased risk of cognitive decline and dementia.
+NHS routine data related to hearing loss takes several forms, including:
+records of the adoption of measures and provision of advice for thepreventionof hearing lossnewborn hearing screening records about thedetectionof hearing loss at birthresults of audiometric assessments used to inform thediagnosisof hearing lossdata on the provision, maintenance, and use of hearing devices, including hearing aids and auditory implants, for themanagementof hearing loss and to reduce its impact
+While prevention is better than cure there is little understanding of why some people get hearing loss while others do not. A clearer understanding of this process could help develop bespoke preventative strategies for individual patients.
+Not everyone who could benefit from a hearing device uses one, and those individuals who do receive a hearing device dont always persist in using them or get the expected benefits. Modern hearing devices now offer the opportunity to collect usage data which in turn, could be used to improve individual management strategies as well as wider clinical practice.Broadening the treatment of hearing loss, based on the discovery of new therapeutic targets and techniques, offers the prospect of protecting and restoring hearing.
+Advancing the prevention, detection, diagnosis, and management of hearing loss will be greatly aided by the availability and integration of routinely collected multifaceted health data of patients with hearing loss from across the NHS.
+Aims of the theme:
+The aim of the Hearing theme is to make better use of patient health data captured in NHS records by collecting data in a standardised and integrated manner across UK sites and setting up a structure for sharing and analysing these data anonymously.These new assemblies of data will allow the growth of more effective management strategies for individuals with hearing loss.The Hearing theme will develop the infrastructure and governance for the management and integration of this hearing health data. This will allow for:
+Exploration of the effects of known and novel risk factors such as disease clustering for hearing loss.Identification of the genetic causes of hearing lossDefinition of hearing loss sub-typesOptimisation of patient benefit from individualised treatment strategies
+
+Lead centres:
+Manchester University Hospitals NHS Foundation Trust
+Nottingham University Hospitals NHS Trust
+University College London Hospitals NHS Foundation Trust
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Infectious Diseases
+
+
+The existing NIHR HIC Viral Hepatitis theme has been extended to take advantage of strategic opportunities for collaboration, impact, and benefit, and to build on a range of existing NIHR, NHS, and Public Health England (PHE) investments.
+Aims of the NIHR HIC
+This NIHR HIC theme is focussing on infectious diseases of particular relevance to NHS infection control and PHE strategy, with a focus on sepsis and anti-microbial resistance, including E. coli, K. pneumoniae, S. aureus, Tuberculosis, Pseudomonas aeruginosa, and C. difficile.
+Of initial interest is E. Coli infections and the antibiotic prescribing practice to inpatients, at the NHS Acute Trusts involved to help enable research and improve clinical practice in this area. A better understanding of the relationship between antibiotic use and resistance is key.
+Lead centres:
+Oxford University Hospitals NHS Foundation TrustGuys & St Thomas Hospital NHS Foundation TrustCambridge University Hospitals NHS Foundation TrustImperial College Healthcare NHS TrustUniversity College London Hospitals NHS Foundation Trust
+Digital Alerting for Sepsis (DiAlS)
+The NIHR HIC are supporting a new study toreview the impact of a digital alert system to monitor patients with sepsis at NHS hospitals. The Digital Alerting for Sepsis (DiAlS) project sets out to explore How effective is the introduction of digital alerts in terms of improving outcomes of patients with sepsis? with four key objectives: 
+
+									Map the digital alerts currently in use in multiple UK hospitals to identify patients at risk of
+having sepsis
+
+								
+									Evaluate the impact of digital alerts on outcomes for patients at risk of sepsis
+
+								
+									Explore the implementation of digital alerts across contexts and the impact of these on digital
+
+									alert performance.
+
+								
+									Make recommendations on the effectiveness of different digital alerts and the most effective
+
+									method of implementation.
+
+								
+A full summary of the Digital Alerting for Sepsis (DiAlS) project is available  
+The research is led by the  based in the School of Public Health at Imperial College London. The team will collaborate with the Oxford University NHS trust, Chelsea and Westminster NHS Trust, University College London, Reading and Berkshire NHS Trust, and the University of Cardiff, and is supported by the  and the NIHR HIC. 
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Musculoskeletal
+
+
+The theme aims to investigate ways to improve the outcome of musculoskeletal (MSK) conditions.
+MSK conditions comprise immune mediated inflammatory diseases affecting the joints and the connective tissues (IMIDs), as well as the most common condition of adulthood, osteoarthritis (OA).
+While IMIDs and OA are very different in nature, the common outcome when progressive and untreated is pain and loss of joint function, which can result in poor mobility and inability to work. MSK conditions are the leading cause of disability in UK and a major cost to society. Research into early detection and prevention of damage can have a tremendous impact on the health of the nation and the productivity of our society.
+This theme is currently being established and it proposes to collect anonymised clinical information on patients affected by MSK conditions from some of the UKs major MSK centres, including Leeds, Manchester, Nottingham, Birmingham, Newcastle, Oxford and Bristol. The data collected within the NHS hospital trusts of these centres will be used to measure the impact of the new diagnostic and therapeutic interventions funded by NIHR on the real life outcome of patients with MSK conditions.
+Further Information:
+For research queries please contact Dr Francesco Del Galdo via
+Lead centre:
+NIHR Leeds Biomedical Research Centre
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Myeloma
+
+
+Multiple myeloma is a form of blood cancer which is responsible for  approximately 2% of cancers in the UK. The incidence of myeloma increases with age with the average age of diagnosis being 67. It is currently incurable although there have been significant improvements in outcomes over the last decade due to more effective treatments, resulting in a longer life expectancy.Complications of myeloma can include low blood counts, infections, bone disease and kidney failure (end organ damage). Myeloma can be diagnosed on routine blood tests but can also present with features of end organ  damage in an acute setting. Successful treatment aims to prolong life and maintain quality of life with patients frequently having periods of time on and off treatment.
+Aims of the NIHR HIC
+This NIHR HIC theme is focusing on collecting real world data from people living with myeloma in the UK. Data collected will include diagnostic practices and treatment regimens, in addition to other factors that may have an impact on overall outcomes and well-being. Collecting real world data is becoming increasingly important in many key areas of cancer care. Examples of this may include reviewing the overall provision of care for this patient population, helping newer drug treatments secure long term NHS funding and access to clinical trials. This theme has been established with the support of Myeloma UK, the national charity for patients in the UK living with myeloma, who understand the vital role real-world data has in improving outcomes in addition to ensuring the patient perspective is represented. Further information about the themes partnership with Myeloma UK is available .The NIHR HIC Myeloma theme team will develop a research database of in effect anonymised real world data to be used as a resource by approved researchers, academics and medical professionals working within the myeloma community for the benefit of patients living with myeloma in the UK. Full ethical approval has been awarded as part of the project and further information around governance within the NIHR HIC is available .
+Collaborating centres
+University College London Hospitals NHS Foundation Trust (Lead Centre)Oxford University Hospitals NHS Trust and Oxford University (Clinical Lead)University Hospital Southampton NHS Foundation Trust 
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Renal Transplantation
+
+
+Renal Transplantation is the largest of the solid organ transplant programmes with around 3,000 performed annually in the United Kingdom. It is the optimal treatment for patients with end stage kidney disease in terms of survival, quality of life and economic advantages. The limited lifespan of the transplanted kidneys means that multiple transplants are often required which places a burden on patients and restricts the availability of organs for all suitable recipients.
+A kidney transplant offers the best treatment for patients with kidney failure, offering better quality of life and survival over long term dialysis, as well as being more economical in the long term. In the United Kingdom, kidney transplantation is the largest of the solid organ transplantation programmes. with over 3000 being performed per year.
+A number of barriers to success still remain. Firstly, the number of patients on the waiting list exceeds the number of available organs, leading to strategies to increase organ availability, including widening of criteria for suitable donors and better organ preservation. Unfortunately, a transplanted kidney also has a limited lifespan, with an average life of somewhere between 15-20 years depending on whether the donor was living or deceased. This results in many, particularly younger patients, requiring multiple transplants throughout their life. This is complicated by the fact that it becomes increasing harder to find a match once patients have had a previous transplant. 
+Recipients of solid organ transplants are also required to take anti-rejection medication for the life of the transplant but this has its own issues, resulting in increased rates of infection and cancer as well as other drug specific side effects. At present monitoring of the transplanted kidney relies on non-specific measures of kidney function with little detailed information to help guide clinicians as to how much anti-rejection medication a particular individual needs, resulting in a reactive rather than proactive approach.
+The outcome following a kidney transplant is determined by a complex interplay between a number of factors. It is therefore an area ripe for a more personalised approach in terms of treatment.In order to better understand the role of specific factors in outcome and carry out translational research in this population, it is important to have high quality clinical data from kidney transplant recipients. As well as allowing research, information on outcomes will also allow clinicians to better inform of patients undergoing transplantation
+The NIHR Health Informatics Collaborative (HIC) Transplantation Theme is led by the Comprehensive Biomedical Research Centre at Guys and St Thomas NHS Trust and Kings College, London. The other BRCs currently taking part are:
+Cambridge University Hospitals NHS Trust and Cambridge UniversityOxford University Hospitals NHS Trust and Oxford UniversityImperial College Healthcare NHS Trust and Imperial College, London.
+Together a database of nearly 8000 recipients transplanted at these centres since 2010 has been created. Involvement from other renal transplant centres would be welcomed.
+Exemplar Project
+In order to demonstrate the utility of the dataset, an exemplar project to determine the incidence and factors contributing to the development of glomerulonephritis in transplanted kidneys is being carried out. This project specifically makes use of the collaboration and large dataset given the incidence of a specific glomerulonephritis is relatively low. Preliminary results were presented at the American Society of Transplantation Annual Congress in Seattle in June 2018.
+The ongoing plan is to develop further projects using the dataset allowing further enrichment of the dataset.
+Further information
+If you would like further information please contact us by email at . For further information on renal transplantation and related research, you may find the following links useful:
+
+Lead centre:
+Guys & St Thomas Hospital NHS Foundation Trust
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Transfusion Dependent Anaemias
+
+
+In the UK, there are approximately 14,000 patients with sickle cell disease (SCD),1,000 patients with thalassaemia (THAL) and2,000patients withmyelodysplasia (MDS). Many of these patients depend on regular  treatment by blood transfusion to prevent a decline in their health or quality of life, although the extent of the dependence varies between individuals. Many other cohorts of patients are intermittently dependent on transfusion e.g. during a period ofmyeloablativechemotherapy.Thehealth of many of these patients depends on access to and the need for blood transfusion, delivered in an emergency or as part of a long-term transfusion programme.Formation of antibodies(alloimmunisation)following blood transfusion is common and severe transfusion reactions can be life-threatening.At present, no real world data are collated on the complex and costly treatment pathways fortransfusion dependent anaemias, including on transfusion requirements, optimal blood matching algorithms, clinical  practice, and complications.
+Aims of the NIHR HIC
+The project aims to extract dataon transfusion dependent patientsfrom existing electronic data sources in the Englands major transfusion centres. 
+In the first instance, the project will collate data from NIHR HIC trusts to populate a data repository and to demonstrate the utility of such data collation for addressing the biological, clinical and economic challenges outlined above.
+Collaborating Centres
+University College London Hospitals NHS Foundation Trust (Lead Centre)
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Viral Hepatitis and Liver Disease
+
+
+
+Hepatitis is commonly caused by viral infections that cause inflammation or swelling of the liver. There are four viruses that commonly infect the liver; hepatitis A, B, C and E. Hepatitis D is also well recognised, but only occurs in people that are already infected with hepatitis B.
+Hepatitis A and E typically cause acute (short-term) infection and although patients are often unwell at the time, these viruses do not generally persist long-term. In contrast both hepatitis B and C may cause a silent infection for many years, and are often only diagnosed once liver disease is well advanced.
+This NIHR HIC theme is focusing on hepatitis B/D, C, and E. Each of these infections brings different challenges to clinicians and researchers in the UK. The epidemiology and risk factors for hepatitis E are very poorly understood in the UK. For hepatitis B the key questions are the factors that predict response to drug treatment, and the role of hepatitis D co-infection. For hepatitis C, treatment has recently undergone a revolution, with many new and effective  but expensive  drugs available to treat patients. Even so, some patients with hepatitis C fail to respond to the newest drugs, and in this theme we will collect data on the outcomes of treatment in these patients.
+The NIHR HIC Viral Hepatitis Theme has developed a database of anonymised clinical data:
+
+to address important questions related to clinical outcomes in viral hepatitis
+to share clinical data to demonstrate its usefulness in clinical research
+
+The database has been fully reviewed by the National Research Ethics Service.
+Further Information
+Lead centre
+Oxford University Hospitals NHS Foundation Trust
+NamePositionOrganisationEllie BarnesChief InvestigatorOxford University HospitalsPhilippa MatthewsClinical co-LeadThe Crick, UCL and Oxford UniversityWillian GelsonLocal InvestigatorCambridge University HospitalsGraham CookeLocal InvestigatorImperial College HealthcareStephen RyderLocal InvestigatorNottingham University HospitalsAlexander StockdaleLocal InvestigatorRoyal Liverpool and Broadgreen University HospitalsEleni NastouliLocal InvestigatorUniversity College London HospitalsAhmed ElsharkawyLocal InvestigatorUniversity Hospitals BirminghamSalim KhakooLocal InvestigatorUniversity Hospital Southampton William BernalLocal InvestigatorKings College HospitalNicholas EasomLocal InvestigatorHull University Teaching Hospitals NHS TrustTingyan WangData AnalystOxford University Hospitals and Oxford University
+For research queries please contact Professor Ellie Barnes via
+
+Publications
+Electronic Health Informatics Data To Describe Clearance Dynamics of Hepatitis B Surface Antigen (HBsAg) and e Antigen (HBeAg) in Chronic Hepatitis B Virus Infection available on the
+
+This study on HBsAg and HBeAg clearance dynamics demonstrated that these markers may contribute to prognostication and patient-stratified care, and provide a foundation for advancing insights into mechanisms of disease control.
+
+
+Bimodal distribution and set point HBV DNA viral loads in chronic infection: retrospective analysis of cohorts from the UK and South Africa available on
+
+This study shows a bimodal viral load distribution in chronic HBV infection, unlike the skewed normal distributions seen in chronic HCV and HIV infection, and provides evidence of a virological set point in untreated patients.
+
+
+National Institute for Health Research Health Informatics Collaborative: development of a pipeline to collate electronic clinical data for viral hepatitis research. An overview of the paper can be foundon the; full paper can be found on the.
+
+This paper presents a comprehensive methodology for the development and validation of a new data collection and management pipeline, and demonstrates that routinely collected clinical data captured in electronic patient record (EPR) systems across multiple sites can be collated, integrated, and made available for translational research.
+
+
+Longitudinal Analysis of the Utility of Liver Biochemistry as Prognostic Markers in Hospitalized Patients With Corona Virus Disease 2019 available at
+
+This study reports liver biochemistry is commonly deranged in hospitalised patients with COVID-19 in a UK population and shows that baseline hypoalbuminemia and rising ALP over time could be prognostic markers for death, with comparisons to a matched group without COVID-19.
+
+
+Hepatitis B virus (HBV) viral load, liver and renal function in adults treated with tenofovir disoproxil fumarate (TDF) vs. untreated: a retrospective longitudinal UK cohort studyavailable at
+
+In a comparison of tenofovir disoproxil fumarate (TDF)-treated vs. untreated patients, this study reported variable ethnicity distributions across the two groups, and some evidence for liver fibrosis progression in the untreated group, which warrants a need for further evidence for expanded treatment.
+
+
+Impact of the COVID-19 pandemic on routine surveillance for adults with chronic hepatitis B virus (HBV) infection in the UK available at.
+
+This study investigated service disruptions on routine surveillance of hepatitis B patients during COVID-19 pandemic, revealing that reduction in rates of surveillance closely track COVID-19 incidence and periods of population lock-down.
+
+
+Cohort Profile: National Institute for Health Research Health Informatics Collaborative: Hepatitis B Virus (NIHR HIC HBV) Research Dataset available at
+
+This profile for the first time presents a national multi-site large HBV cohort of >6000 individuals with diverse ethnicities using routinely collected clinical data from secondary care in the UK, and a large majority of patients in the cohort had longitudinal measurements of relevant laboratory parameters, providing promising opportunities for translational research.
+
+ Patient Biochemistry and Treatment Need in Chronic Hepatitis B Virus Infection Across Three Continents: Retrospective Cross-Sectional Cohort Studies available at 
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Publications
+
+Cardiovascular
+23 November 2019 Troponin level, age and mortality risk in an unselected population of over 250000 patients  TROP-RISK study. An overview of the study can be foundon the ; the full paper can be found on the. 
+26 March 2020 Prognostic significance of troponin level in 3121 patients presenting with atrial fibrillation (The NIHR Health Informatics Collaborative TROP-AF study) is available on the . 
+27 August 2020 Invasive versus non-invasive management of elderly patients with non-ST elevation myocardial infarction (SENIOR-NSTEMI): a cohort study based on routine clinical data is available onwebsite. An overview of the paper titledAge no criterion for decisions on heart attack treatment can be foundon the .
+22 February 2022 Mortality risk prediction of high-sensitivity C-reactive protein in suspected acute coronary syndrome: A cohort study can be found in .
+09 March 2022 Prognostic Significance of Ventricular Arrhythmias in 13444 Patients With Acute Coronary Syndrome: A Retrospective Cohort Study Based on Routine Clinical Data (NIHR Health Informatics Collaborative VAACS Study) can be found in the.                    
+26 April 2022 Implications of elevated troponin on time-to-surgery in non-ST elevation myocardial infarction (NIHR Health Informatics Collaborative: TROP-CABG study) is available on the  
+Colorectal Cancer
+14 July 2022  Establishing a colorectal cancer research database from routinely collected health data: the process and potential from a pilot study is available at 
+Critical Care
+21 December 2017  Critical care data processing tools available on the .  1 January 2018 Electronic Health Record Research in Critical Care: The End of the Randomized Controlled Trial? This paper can be found in the .31 January 2018 Critical Care Health Informatics Collaborative (CCHIC): Data, tools and methods for reproducible research: A multi-centre UK intensive care database available in the .14 November 2018 Optimal intensive care outcome prediction over time using machine learning available on the .12 September 2019 The Association between Supraphysiologic Arterial Oxygen Levels and Mortality in Critically Ill Patients.A Multicenter Observational Cohort Studyavailable on the .
+01 July 2021 Descriptors of Sepsis Using the Sepsis-3 Criteria  A Cohort Study in Critical Care Units Within the U.K. National Institute for Health Research Critical Care Health Informatics Collaborative available on the
+Infectious Diseases
+20 November 2019Evaluating a digital sepsis alert in a London multisite hospital network: a natural experiment using electronic health record data available on the . 
+Renal Disease
+1 February 2018 Long and shortterm outcomes in renal allografts with deceased donors: A large recipient and donor genomewide association study available in the .
+22 July 2022 Incidence, Risk Factors, and Effect on Allograft Survival of Glomerulonephritis Post-transplantation in a United Kingdom Population: Cohort Studyavailable at.
+Viral Hepatitis
+25 June 2019 Electronic Health Informatics Data To Describe Clearance Dynamics of Hepatitis B Surface Antigen (HBsAg) and e Antigen (HBeAg) in Chronic Hepatitis B Virus Infection available on the 
+14 October 2020 Bimodal distribution and set point HBV DNA viral loads in chronic infection: retrospective analysis of cohorts from the UK and South Africa available on 19 November 2020  National Institute for Health Research Health Informatics Collaborative: development of a pipeline to collate electronic clinical data for viral hepatitis research.  An overview of the paper can be foundon the ; full paper can be found on the.
+30 April 2021 Longitudinal Analysis of the Utility of Liver Biochemistry as Prognostic Markers in Hospitalized Patients With Corona Virus Disease 2019 available at
+26 June 2021 Hepatitis B virus (HBV) viral load, liver and renal function in adults treated with tenofovir disoproxil fumarate (TDF) vs. untreated: a retrospective longitudinal UK cohort studyavailable at
+11 February 2022 Impact of the COVID-19 pandemic on routine surveillance for adults with chronic hepatitis B virus (HBV) infection in the UK available at.
+16 June 2022 Cohort Profile: National Institute for Health Research Health Informatics Collaborative: Hepatitis B Virus (NIHR HIC HBV) Research Dataset available at 
+11 July 2023 Patient Biochemistry and Treatment Need in Chronic Hepatitis B Virus Infection Across Three Continents: Retrospective Cross-Sectional Cohort Studies available at 
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Engagement
+
+Public Involvement
+The NIHR defines public involvement in research as research being carried out with or by members of the public rather than to, about or for them. Examples of public and patient involvement activity include working with researchers to develop or comment on research materials, providing advice as members of a project steering group, and undertaking elements of research e.g. conducting interviews with participants.
+Public Engagement
+The NIHR defines public engagement as where information and knowledge about research is provided and disseminated. Examples of public engagement activity include disseminating the findings of a study to research participants, colleagues or members of the public, raising awareness of research through media such as television programmes, newspapers and social media and open days at research centres where members of the public are invited to find out about research.
+How you can get involved
+The NIHR is keen for patients and the public to be actively involved in the work they support as key partners in the research.
+If you would like to get involved with research you can get more information from the NIHR by visiting or you can contact your local .
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Contact Us
+
+General contact
+If you have any questions about the NIHR HIC, please contact us at .
+Theme specific contacts
+If you are interested in one of the NIHR HIC research themes, contact details are shown below:
+
+
+
+Theme
+Theme representative
+Contact Details
+
+
+
+
+Cardiovascular
+Dr Jamil Mayet
+
+
+
+Critical Care
+Prof Mervyn Singer
+
+
+
+Ovarian Cancer
+Dr James Brenton
+
+
+
+Renal Transplantation
+Dr Paramit Chowdhury
+
+
+
+Viral Hepatitis
+Prof Ellie Barnes
+
+
+
+Lung Cancer
+Prof Mike SecklProf Martin Foster/ Prof Neal Navani
+
+
+
+Prostate Cancer
+Dr Mieke Van HemelrijckDr Navin Ramachandran
+
+
+
+Breast Cancer
+Prof Elinor Sawyer
+
+
+
+Colorectal Cancer
+Mr Chris Cunningham
+
+
+
+Infectious Diseases
+Prof Graham Cooke
+
+
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+NIHR HIC  Viral Hepatitis Theme collaboration on a new paper in Infectious Diseases and Therapy.
+ 
+
+ 
+
+
+We are pleased to announce that thePatient Biochemistry and Treatment Need in Chronic Hepatitis B Virus Infection Across Three Continents: Retrospective Cross-Sectional Cohort Studies paper is now available at
+
+
+
+
+
+
+ 
+
+
+
+
+Leave a Reply You must be  to post a comment. 
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+NIHR HIC Viral Hepatitis Theme publishes poster for EASL Congress 2023.
+ 
+
+ 
+
+
+We are pleased to announce that the NIHR HICViral HepatitisTheme has published a new poster titledDistinct virologic trajectories in chronic hepatitis B patients identify heterogeneity in response to nucleotide analogue therapy which is available at.
+
+
+
+
+
+
+ 
+
+
+
+
+Leave a Reply You must be  to post a comment. 
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+NIHR HIC   Renal Transplantation Theme publishes paper in Frontiers in Nephrology.
+ 
+
+We are pleased to announce that the NIHR HICRenal TransplantationTheme has published a new paper titledIncidence, Risk Factors, and Effect on Allograft Survival of Glomerulonephritis Post-transplantation in a United Kingdom Population: Cohort Studywhich is available at. 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+NIHR HIC  Cardiovascular Theme publishes paper in the International Journal of Cardiology
+ 
+
+ 
+
+
+We are pleased to announce that the NIHR HIC Cardiovascular Theme has published a new paper titledImplications of elevated troponin on time-to-surgery in non-ST elevation myocardial infarction (NIHR Health Informatics Collaborative: TROP-CABG study)which is available at. 
+
+
+
+
+
+
+ 
+
+
+
+
+Leave a Reply You must be  to post a comment. 
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+Viral Hepatitis Theme selected as poster prize winner at the FIS Conference
+ 
+
+The Viral Hepatitis Theme won a poster prize for the NIHR HIC HBV cohort profile that was submitted at The Federation of Infection Societies (FIS) Conference 2021. The abstract is available on the conference website () and the poster is publicly accessible via .
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+NIHR HIC Critical Care Theme published paper in Critical Care Medicine
+ 
+
+We are pleased to announce that the NIHR HICCritical CareTheme has published a new paper titledDescriptors of Sepsis Using the Sepsis-3 Criteria  A Cohort Study in Critical Care Units Within the U.K. National Institute for Health Research Critical Care Health Informatics Collaborativewhich is available at 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+National Institute for Health Research
+
+
+
+
+
+
+NIHR HIC  Viral Hepatitis Theme publishes new paper in BMC Infectious Diseases
+ 
+
+We are pleased to announce that theNIHR HICViral HepatitisTheme has published its fifth paper, titledHepatitis B virus (HBV) viral load, liver and renal function in adults treated with tenofovir disoproxil fumarate (TDF) vs. untreated: a retrospective longitudinal UK cohort studywhich is available at   NIHR Oxford BRC news story can be found 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+News
+
+
+
+19 February 2024
+
+
+
+11 July 2023
+
+
+
+23 June 2023
+
+
+
+6 February 2023
+
+
+
+2 December 2022
+
+
+Tools 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		WordPress Theme: Dynamic News by ThemeZee.	
+
+
+
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking Accept All, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Manage consent
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ 
+
+
+
+
+
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+
+
+
+
+
+
+
+
+Functional
+
+
+
+
+
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								
+
+
+
+
+
+
+
+
+Analytics
+
+
+
+
+
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+The main objective of the European Platform on Rare Disease Registration (EU RD Platform) is to cope with the enormous fragmentation of rare disease (RD) patients data contained in hundreds of registries across Europe. The Platform makes RD registries' data searchable and findable, thus increasing visibility for each registry, maximising the value of each registry's information and enabling extended use and re-use of registries' data. This is ensured by the European RD Registry Infrastructure (ERDRI), which supports existing registries and the creation of new registries.
+
+The EU RD Platform sets EU-level standards for RD data collection and data exchange and provides training on the use of the tools and services offered.
+
+In addition to ERDRI, the EU RD Platform includes a data repository composed of the European RD Registry Data Warehouse (under preparation), the JRC-EUROCAT Central Registry and the JRC-SCPE Central Registry.
+
+The EU RD Platform is open to all RD registries. Its final goal is to act as a knowledge generation centre benefiting healthcare providers including European Reference Networks, researchers, patients and policy-makers in the common effort to improve diagnosis and treatment for patients living with a rare disease.

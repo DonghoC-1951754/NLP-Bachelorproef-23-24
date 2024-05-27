@@ -1,0 +1,13 @@
+The ambition of the European Open Science Cloud (EOSC) is to provide European researchers, innovators, companies and citizens with a federated and open multi-disciplinary environment where they can publish, find and reuse data, tools and services for research, innovation and educational purposes.
+EOSC ultimately aims to develop a Web of FAIR Data and services for science in Europe upon which a wide range of value-added services can be built. These range from visualisation and analytics to long-term information preservation or the monitoring of the uptake of open science practices.
+
+The system resulting from the activities and initiatives promoted by the European Commission to support its policies on Open Science and Open Innovation 2.0.
+
+It is a trusted system providing seamless access to data and interoperable services. It supports the whole research data cycle, from discovery and mining to storage, management, analysis and re-use across borders and disciplines.
+It consists of a set of interacting components: actors, services, data, policies, and infrastructures.
+It is implemented by adopting a federated, decentralised, distributed and participatory approach.
+The system performs functions and carries out purposes that do not reside in any component alone (aka emergent behaviour).
+
+They also have EOSC Glossary
+
+They are looking for use cases (link)

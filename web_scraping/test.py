@@ -1,3 +1,5 @@
+from urllib.parse import urlparse
+
 import requests
 from bs4 import BeautifulSoup
 headers = {
@@ -5,18 +7,12 @@ headers = {
 }
 
 def main():
-    URL = "https://amdex.eu/"
-    page = requests.get(URL, headers=headers)
-    soup = BeautifulSoup(page.content, "html.parser")
-
-    main_tag = soup.find("body")
-    descriptions = main_tag.find_all("p")
-    clean_text = ''
-    with open("./test.txt", "w") as file:
-        for description in descriptions:
-            clean_text += description.get_text(separator=' ').strip()
-        file.write(clean_text + "\n")
-    print("Done!")
+    url = "/index.php/buh"
+    domain = "darwin"
+    if not any(url.startswith(scheme) for scheme in ['http://', 'https://']):
+        if urlparse(url).netloc != domain:
+            url = 'https://' + domain + url
+    print(url)
 
     # page = requests.get("https://amdex.eu/", headers=headers)
     # soup = BeautifulSoup(page.content, "html.parser")

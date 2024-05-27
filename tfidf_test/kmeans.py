@@ -1,9 +1,11 @@
+from scipy.spatial.distance import cdist
 import tfidf_test.tfidf as tfidf
 from sklearn.cluster import KMeans
 import plotly.graph_objects as go
 import numpy as np
+import matplotlib.pyplot as plt
 
-CLUSTER_AMOUNT = 5
+CLUSTER_AMOUNT = 10
 
 def kmeans_output(labels, feature_names, centroids):
     doc_names = tfidf.doc_names_inorder()
@@ -15,6 +17,7 @@ def kmeans_output(labels, feature_names, centroids):
 
 def main():
     tfidf_matrix = tfidf.get_tfidf_matrix()
+    # elbow_method(tfidf_matrix)
     kmeans_clustering = KMeans(n_clusters=CLUSTER_AMOUNT, init='k-means++', n_init='auto', max_iter=300, tol=0.0001, verbose=1, random_state=None, copy_x=True, algorithm='lloyd').fit(tfidf_matrix)
     kmeans_output(kmeans_clustering.labels_, tfidf.vectorizer.get_feature_names_out(), kmeans_clustering.cluster_centers_)
 
@@ -39,29 +42,41 @@ def create_top_words(feature_names, centroids):
         top_words_per_cluster.append(top3_words)
     return top_words_per_cluster
 
-# def create_top_words(labels, tfidf_matrix, feature_names):
-#     top_words_per_cluster = []
-#     for cluster in range(CLUSTER_AMOUNT):
-#         cluster_indices = np.where(labels == cluster)[0]
-#         top_word_indices = []
-#         top_word_scores = []
-#         for cluster_index in cluster_indices:
-#             top_word_index_list = np.argsort(tfidf_matrix[cluster_index])[::-1]
-#             for i in range(3):
-#                 top_word_indices.append(top_word_index_list[i])
-#                 top_word_scores.append(tfidf_matrix[cluster_index][top_word_index_list[i]])
-#         sorted_indices = np.argsort(top_word_scores)[::-1]
-#         seen = []
-#         top_words = []
-#         for sorted_index in sorted_indices:
-#             if top_word_indices[sorted_index] not in seen:
-#                 seen.append(top_word_indices[sorted_index])
-#                 top_words.append(feature_names[top_word_indices[sorted_index]])
-#                 # print("Cluster ", cluster, " top word: ", feature_names[top_word_indices[sorted_index]])
-#             if len(seen) == 3:
-#                 top_words_per_cluster.append(top_words)
-#                 break
-#     return top_words_per_cluster
+
+def elbow_method(tfidf_matrix):
+    distortions = []
+    inertias = []
+    mapping1 = {}
+    mapping2 = {}
+    K = range(1, len(tfidf_matrix))
+    print("Elbow method: ")
+    # from 1 to K
+    # for each iteration k try 10 times and take average
+    for k in K:
+        print("K: ", k)
+        iter_distortions = []
+        iter_inertias = []
+        for i in range(10):
+            kmeans_clustering = KMeans(n_clusters=k, init='k-means++', n_init='auto', max_iter=300, tol=0.0001, verbose=0, random_state=None, copy_x=True, algorithm='lloyd').fit(tfidf_matrix)
+            iter_distortions.append(sum(np.min(cdist(tfidf_matrix, kmeans_clustering.cluster_centers_, 'euclidean'), axis=1))/tfidf_matrix.shape[0])
+            iter_inertias.append(kmeans_clustering.inertia_)
+        print("Distortions: ", iter_distortions)
+        print("Inertias: ", iter_inertias)
+        distortions.append(np.mean(iter_distortions))
+        inertias.append(np.mean(iter_inertias))
+
+    plt.plot(K, distortions, 'bx-')
+    plt.xlabel('Values of K')
+    plt.ylabel('Distortion')
+    plt.title('The Elbow Method using Distortion')
+    plt.show()
+
+    plt.plot(K, inertias, 'bx-')
+    plt.xlabel('Values of K')
+    plt.ylabel('Inertia')
+    plt.title('The Elbow Method using Inertia')
+    plt.show()
+
 
 def visualize(top_words_per_cluster, doc_names_per_cluster):
     fig = go.Figure(data=[go.Table(header=dict(values=top_words_per_cluster), cells=dict(values=doc_names_per_cluster))])

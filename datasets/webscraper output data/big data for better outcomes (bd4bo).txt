@@ -280,3 +280,6373 @@ Definitions
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Overcoming big data challengesImproving health outcomes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://bd4bo.eu/wp-content/uploads/2018/07/BD4BO_SUBS_v05.mp4
+
+
+
+
+
+
+
+
+
+Experts from the BD4BO programme have some recommendations on how to make the European Health Data Space really work for patients, doctors and researchers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+About BD4BO About BD4BO 
+
+
+
+
+
+
+
+
+Big Data for Better Outcomes is a comprehensive European research programme aiming to develop key enablers to support health care system transformation through the use of big data. The initiative will develop platforms for integrating and analysing diverse data sets, focusing on outcomes that matter to patients and generating meaningful insights that will help improve health care.
+
+
+http://bd4bo.eu/wp-content/uploads/2018/07/BD4BO_SUBS_v05.mp4
+
+
+In a set of projects in exemplary disease areas, Big Data for Better Outcomes will contribute to healthcare system change through:
+
+-Definition of outcome metrics
+-Protocols, processes and tools to access high quality data
+-Methodologies and analytics to drive improvements
+-Digital and other solutions that increase patient engagement
+
+
+BD4BO has four disease-specific projects so far. (Alzheimers Disease),  (Hematologic Malignancies),  and (Prostate Cancer) are already producing deliverables to enable the efficient use of big data and contribute to improving healthcare systems and patient outcomes and further projects are to come.
+These disease-specific projects are supported by the Coordination and Support Action (DO->IT) as an overarching coordination structure (completed in 2019), and the European Health Data and Evidence Network (EHDEN) project which will be a federated network of relevant data sources.
+
+
+
+
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Projects Projects 
+
+
+
+
+
+
+
+
+
+
+
+
+The Innovative Medicines Initiative 2 (IMI2) Big Data for Better Outcomes (BD4BO) was launched in 2016 as an umbrella programme with the overall objective of realising the potential of Big Data in the context of European healthcare; for promoting innovative methods through harmonising, accessing and analysing data.
+The BD4BO programme comprises several disease-specific projects focusing on Alzheimers disease- Real World Outcomes Across the Spectrum for Better Care (ROADMAP), hematologic malignancies- Healthcare Alliance for Resourceful Medicines Offensive against Neoplasm in Hematology (HARMONY), cardiovascular diseases- Big Data for Better Hearts BigData@Heart (BigData@Heart), and prostate cancer (PIONEER), with potential others at a later date. These disease-specific projects are supported by the Coordination and Support Action (DO-IT) as an overarching coordination structure (completed in 2019), and the European Health Data Networkand Evidence Network  (EHDEN) project which will be a federated network of relevant data sources.
+The Programme includes the following projects:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Partners Partners 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+London School of Economics and Political Science
+Novartis
+National Institute for Health and Care Excellence
+Dental and Pharmaceutical Benefits Agency
+European Cancer Patient Coalition
+European Multiple Sclerosis Platform
+Semmelweis University
+Imperial College London
+Swedish Institute for Health Economics
+Centre for Research in Healthcare Management Universit Bocconi
+Norwegian Institute of Public Health
+The Association of the British Pharmaceutical Industry
+Amgen
+Bayer
+Boehringer Ingelheim
+Celgene
+European Federation of Pharmaceutical Industries and Associations
+Farmaindustria
+GlaxoSmithKline
+Health iQ
+Janssen Pharmaceutica NV
+Eli Lilly and Company
+Merck
+MSD Sharp & Dohme
+Novo Nordisk
+Pfizer
+Roche
+Sanofi
+Servier
+UCB
+Association of Research-Based Pharmaceutical Companies
+Norwegian Medicines Agency
+Technology, Methods and Infrastructure for Networked Medical Research
+Inserm Toulouse
+University of Liverpool
+
+
+
+
+
+University Medical Center Utrecht
+Charit
+European Society of Cardiology
+European Heart Network
+University College London
+University of Cambridge
+International Consortium for Health Outcomes Measurement
+Fundacion para la investigacion del Hospital Clinico de la Comunidad Valenciana
+Karolinska Institutet
+Universitatsklinikum Hamburg-Eppendorf
+MLC Foundation
+University of Birmingham
+Uppsala University Hospital
+Bayer
+Novartis
+Servier
+Somalogic
+Vifor Pharma
+The Hyve
+
+
+
+
+
+Agencia Espaola de Medicamentos y Productos Sanitarios
+Alma Mater Studiorum  Universit di Bologna
+Amgen
+Assistance Publique  Hpitaux de Paris
+Barts Health NHS Trust
+BAYER
+Bundesinstitut fr Arzneimittel und Medizinprodukte
+CELGENE
+ELN Foundation
+Erasmus Universiteit Medisch Centrum Rotterdam
+European Alliance for Personalised Medicine
+European Hematology Association
+European Organisation for Research and Treatment of Cancer
+European Research Initiative on CLL e.v.
+European Society for Blood and Marrow Transplantation
+Flanders Institute of Biotechnology
+Fondazione Italiana per lo studio delle sindromi mielodisplastiche onlus
+Fundacio privada Institut Dinvestigacio Oncologica de Vall-Hebron
+Fundacin Instituto de Estudios de Ciencias de la Salud de Castilla y Len
+Fundacin para la Investigacin del Hospital Universitario La Fe de la Comunidad Valenciana
+Genome Research Limited
+German Society of Pediatric Oncology-Hematology GmbH gemeinntzig
+GMV Soluciones Globales Internet S.A.U.
+Goethe University Frankfurt
+Group for Research on Adult Acute Lymphoblastic Leukemia
+Groupe Francophone des Mylodysplasies
+Heinrich-Heine-Universitaet  Duesseldorf
+Jose Carreras Leukaemia Research Institute
+JPNV-JANSSEN
+LeukaNET
+Ludwig-Maximilians-Universitaet  Muenchen
+Masaryk University
+MediSapiens Ltd
+Medizinische Universitaet  Wien
+MENARINI
+MLL Munich Leukemia Laboratory GmbH
+National Institute for Health and Care Excellence
+NOVARTIS
+Ospedale Pediatrico Bambino Ges
+Synapse Research Management Partners
+TAKEDA
+The Chancellor, Masters and Scholars of the University of Cambridge
+The Lymphoma Scientific Association
+Universit degli Studi di Torino
+Universitaet Ulm
+University of Helsinki
+University of Navarra
+University of Newcastle upon Tyne
+University of Rome Tor Vergata
+University of York
+VU University Medical Center
+
+
+
+
+
+The Chancellor, Masters and Scholars of the University of Oxford
+National Institute for Health and Care Excellence
+Erasmus Universitair Medisch Centrum Rotterdam
+Universiteit Maastricht
+Synapse Research Management Partners S.L
+Fundaci Institut Universitari per a la Recerca a lAtenci Primria de Salut Jordi Gol i Gurina
+Kbenhavns Universitet
+Alzheimer Europe
+University of Edinburgh
+Goeteborgs Universitet
+Aarhus Universitet
+London School of Economics and Political Science
+Agentschap College ter Beoordeling van Geneesmiddelen
+IXICO Technologies Ltd
+Rijksuniversiteit Groningen
+Novartis Pharma AG
+Eli Lilly and Company Ltd
+Biogen
+HoffmannLa Roche Ltd
+Janssen Pharmaceutica NV
+GE Healthcare Ltd
+AC Immune SA
+Takeda Development Centre Europe Ltd
+H. Lundbeck A/S
+Academisch Ziekenhuis Leiden  Leids Universitair Centrum
+
+
+
+
+
+Astellas Pharma
+Bayer
+Cancer Intelligence Limited
+Covance
+European Alliance for Personalised Medicine
+European Association of Urology
+European Cancer Patient Coalition
+European Institute for Systems Biology and Medicine
+European Organisation for Research and Treatment of Cancer
+Erasmus Universitair Medisch Centrum Rotterdam
+Fraunhofer IZI
+Goeteborgs Universitet
+Imperial College of Science Technology and Medicine
+International Consortium for Health Outcomes Measurement
+Janssen Pharmaceutical
+Kings College London
+Lund University
+Orion Corporation
+Pinsent Masons LLP
+Radboud University Medical Center
+Sanofi
+SAS Institute
+Swedish Institute for Health Economics
+Technische Universitt Dresden
+The Hyve B.V
+The University Court of the University of Aberdeen
+Ttopstart
+Universitaetsklinikum Hamburg-Eppendorf
+University of Tampere
+Universita Vita-Salute San Raffaele
+Varian Medical Systems
+Weizmann Institute of Science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+About Big Data About Big Data 
+
+
+
+
+
+
+
+
+Big Data has been ascribed transformative potential in healthcare systems, with potential benefits across the entire pathway of care delivery, and affecting all stakeholders (patients, providers, wider society, etc.).
+Potential of Big Data
+Big Data has been attributed as having transformative potential in healthcare systems, with benefits across the entire pathway of care delivery for all stakeholders. Linkage of previously separated data sets and their analysis using appropriate Big Data analytics offer new ways to accelerate research and to identify the right treatment for individual patients (personalised medicine). Access to large data sets gives a more comprehensive picture of patients, allows patient-related outcomes to be measured more accurately, and supports decision-makers in shaping healthcare systems.
+
+Opportunities of Big Data
+The opportunities offered by Big Data will only materialise when healthcare systems move beyond the mere collection of large amounts of data. Linkage of previously separated data sets and their analysis using appropriate Big Data analytics offer new ways to accelerate research and to identify the right treatment for individual patients. Access to large data sets that paint a more comprehensive picture of patients allows patient-relevant outcomes to be measured more accurately. If they are of enough quality and/or supported by other findings such as lab data they can support decision-makers in shaping patient focused healthcare systems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Project Summary Project Summary 
+
+
+
+
+
+
+
+
+Major challenges
+Europes healthcare systems are facing significant challenges. An ageing population, a rise in the prevalence of chronic diseases, and budgetary pressures are just some of the most pressing issues. Adding to this complexity, patient health outcomes vary widely within and across healthcare systems, regions, and countries. In fact, its estimated that almost one-fifth of healthcare expenditures makes minimal to no contribution to health outcomes for patients. This raises life-impacting questions around which therapies work best for patients and how improvements in healthcare can lead to better and more sustainable patient outcomes.
+Another key factor is a European health data collection landscape that can best be described as an uncoordinated, duplicative and inefficient group of systems. Linked to this is yet another challenge: how to engage patients to become more active data owners and contributors to help them become the ultimate beneficiaries of improved outcomes. Ensuring their privacy is also critical.
+
+Transformational Big Data
+There is already a considerable amount of patient and healthcare data available with much more on the horizon. When linked together and managed properly, this data can lead to a better understanding of human biology, which in turn, can facilitate research and development towards more effective and personalised therapies for patients. In short, Big Data has the potential to meet todays challenges and by so doing, transform healthcare across the entire pathway for every stakeholder, with the ultimate outcome of improved patient care and value.
+
+BD4BO ambitions
+Meeting these challenges led to the launch in 2016 of the Innovative Medicines Initiatives (IMI2) Big Data for Better Outcomes Programme (BD4BO). With a planned time-frame of about ten years, its framework represents the worlds largest public/private partnership in life sciences.
+The BD4BO mission is to improve health outcomes and healthcare systems in Europe by maximising the potential of Big Data.
+The potential of Big Data extends across the full spectrum of healthcare. But to focus resources more efficiently, BD4BO is initially targeting four disease areas: cardiovascular diseases, haematological malignancies, Alzheimers disease and prostate cancer  others will follow in the near future.
+The disease-specific projects are supported by:
+ DO->IT  an overarching coordination structure for all BD4BO projects (completed in 2019)
+ European Health Data and Evidence Network (EHDEN)  a federated network of relevant and high-quality data sources.
+
+A healthier future
+Big Data, when managed more effectively, has the potential to improve health outcomes and healthcare systems in Europe. Its this ambitious aspiration that has motivated the pharmaceutical industry to come together to create the BD4BO Programme. The benefits are clear, far-reaching and have the potential to be truly transformational. Achieving these goals will also strengthen relationships and trust amongst all the key players.
+Working together is key. The level of enthusiasm and collaboration we are seeing across the broad spectrum of stakeholders is reason to be confident that BD4BO is on the right track. But change of this scale will no doubt be gradual and challenging. So, please join us by becoming an active BD4BO advocate and help Europe accelerate its evolution towards value-based, patient outcomes-focused and sustainable healthcare.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Q and A Q and A 
+
+
+
+
+
+
+
+
+1. What is meant by Big Data in healthcare?
+Big Data in healthcare has often been defined with reference to the three Vs of data: Volume (a large amount of data), Variety (different types of data), and Velocity (data arriving at high speed). However, the notion of Big Data goes beyond the characteristics of data itself and includes how data are used, as is captured in the following definition from a recent European Commission funded study:
+Big Data in Health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and compromises the fusion and connection of existing databases for the purpose of improving health and health system performance. It does not refer to data collected for a specific study.
+(European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+
+2. How is Big Data in healthcare collected and analysed?
+Healthcare systems routinely collect large amounts of data as patients use various healthcare services. For example, information on the fact that a patient has visited the doctor, as well as medicines prescribed would be included in the patients record. This information is required to provide the patient with optimal care, but also plays an important role in ensuring healthcare providers are reimbursed for their services. Beyond the one-dimensional collection of data, computer programmes help to combine and enrich data from different sources, thus generating an added value compared to the originally isolated datasets.
+In broader terms, the analytic methods applied are to support all stages of the health technology life cycle from basic research (such as genomics, proteomics and metabolomics data) to reimbursement decisions (such as economic modelling methods) and subgroup identification (such as imaging data).
+
+3. Who can use Big Data in healthcare and how?
+The smarter use of healthcare data is expected to improve healthcare outcomes and make healthcare systems more efficient, accessible and resilient. It can also contribute to improved research and development, and lead to more effective policy making. Big Data can be used especially by healthcare services, the academia, policy makers, and the industry. A few examples on the use of Big Data in healthcare are the following:
+	achieving better health outcomes
+	improving the effectiveness of treatments and increasing patient safety
+	monitoring healthcare services
+	detection of population-level effects
+	more efficient recruitment and selection of patients for clinical trials
+
+4. What are the benefits of using Big Data for patients?
+Big Data has been attributed as having transformative potential in healthcare systems, with benefits across the entire pathway of care delivery for all stakeholders. Linkage of previously separated data sets and their analysis using appropriate Big Data analytics offer new ways to accelerate research and to identify the right treatment for individual patients (personalised medicine). Access to large data sets gives a more comprehensive picture of patients, allows patient-related outcomes to be measured more accurately, and supports decision-makers in shaping healthcare systems.
+
+5.  What are health outcomes?
+According to an explanation given by the International Consortium for Health Outcomes Measurement (ICHOM) in 2016:
+Outcomes are the results of treatment that patients care about most. Outcomes are not outputs; they are not lab results; they are not technical details. Theyre real-world results, like physical functioning or level of pain or quality of life. 
+
+6.  Why is value-based and outcomes-focused healthcare important?
+One of the primary goals of healthcare is improving the overall health of the population.  Efficiently allocating funds to pay for care is a key factor, and it is crucial that scarce resources are spent wisely on treatments that offer the most benefits to patients, that is, better outcomes. Therefore, a value-based approach to healthcare would ensure that the healthcare system receives the greatest benefit from investment of public funds when deciding between treatment alternatives.
+
+7. What is the Big Data for Better Outcomes Programme (BD4BO)? Where is its place within IMI?
+Big Data for Better Outcomes (BD4BO) is part of the public-private Innovative Medicines Initiative 2 (IMI-2)  the worlds largest life sciences public/private partnership. BD4BOs mission is to improve health outcomes and healthcare systems in Europe by maximising the potential of Big Data. 
+The Programme currently consists of research in four disease-specific areas: Alzheimers disease; haematological malignancies; heart diseases and prostate cancer are already ongoing and new projects in other disease areas will evolve. These projects will lead the way in using Real-World Evidence (RWE) to complement evidence obtained from clinical trials. RWE means using sources such as registries and electronic health records, but potentially also more novel sources of data such as from wearable technology like smartwatches or smartphones. 
+BD4BO and its projects aspires to become the go-to source for pan-European outcomes data and a trusted partner for patients, researchers, healthcare professionals, and decision-makers alike.
+
+8. Which projects comprise the BD4BO Programme? Are future topics being considered?
+The BD4BO Programme is composed of several projects, currently including projects in disease-specific areas as listed below. These disease-specific projects are supported by the Big Data for Better Outcomes, Policy Innovation and Healthcare Systems Transformation (DO-IT) Consortium, and the European Health Data and Evidence Network (EHDEN)  project which aims to be a federated network of relevant and high quality data sources.
+The disease-specific projects are: 
+ROADMAP  stands for: Real World Outcomes Across the Alzheimers Disease spectrum for better care: Multi-modal data Access Platform. The project aims to provide the foundation for a Europe-wide integrated data environment and framework for Real-World Evidence across the spectrum of Alzheimers disease. (www.roadmap-alzheimer.org)
+HARMONY  stands for Healthcare Alliance for Resourceful Medicines Offensive against Neoplasm in Haematology. The Big Data platform developed by HARMONY, a European Network of Excellence for Big Data in haematology, is aimed at improving the outcomes of patients with haematological malignancies through the use of Big Data-sharing among all relevant stakeholders. (www.harmony-alliance.eu) 
+BigData@Heart  BigData@Hearts goal is to develop clinically-relevant disease phenotypes, scalable insights from Real-World Evidence and insights driving drug development and personalised medicine through advanced analytics. (www.bigdata-heart.eu)
+PIONEER  the European Network of Excellence for Big Data in Prostate Cancer
+
+9. How can patient data contribute to improved outcomes?
+A much more active participation of patients is needed to achieve the BD4BO Programmes ambitious core objective: to develop an approach within existing data systems to efficiently enable initiation, maintenance, and evaluation of the right treatment to the right patient at the right time in healthcare systems.
+The Programme plans to unlock a wealth of patient-reported outcome measures based on digital data mining with the aim of developing preventative and personalised approaches to care for the benefit of patients. Patients are the ultimate beneficiaries of improved outcomes so they are encouraged to play a more active role as consortium members and contributors.
+
+10. How is patient data protected in the BD4BO project?
+The Programme will provide a structure for empowering patients as data owners and partners in research. Recognising the ultimate right of patients to their personal data, including the right to opt out of data sharing, it will ensure that the informed consent templates and data privacy standards strike a balance between protecting individual privacy and promoting innovation. A toolkit will be developed that includes best practices and training materials for collaborating with patients, and informing them about data privacy in research.
+
+11. How can I find information on the implementation of the BD4BO Programme?
+The outcomes and results of the Programme, as well as relevant news, information on conferences and other events, our newsletters, publications and press releases will be communicated on our website:  
+
+12. How has Big Data been used in healthcare previously?
+Historically, Big Data has been under-utilised due to lack of advanced technology to extract insights and data sharing among national healthcare systems. Many of todays investments in large datasets and Real-World Evidence are uncoordinated, duplicative, and inefficient due to lack of agreement on standardised IT-solutions.  Other reasons include: terminology and outcomes to measure patient benefits, lack of appropriate data sources and methods to collect, analyse, report and use/interpret data.
+
+13.  What are the biggest challenges facing the use of Big Data in healthcare?
+There are many challenges to overcome  the most important are:
+	Security: perhaps the #1 concern of the healthcare industry is protecting data from a vast array of threats.
+	Data capture: the lack of harmonised data capture systems must be improved to increase its overall quality and usability
+	Clean data: more advances in cleaning data are needed to ensure datasets are accurate, consistent, relevant and not corrupted.
+	Storage: as the volume of data is rapidly increasing, the safe and cost-effective storage of data is more critical than ever.
+	Curation: developing complete, accurate and up-to-date metadata is vital to any data governance plan.
+	Querying/sharing: data silos and interoperability problems can prevent query tools from accessing information. Standardisation and the use of common languages will help ensure the completeness and accuracy of stored data and facilitate data sharing.
+	Reporting: again, to ensure consistency and completeness, data reporting must be standarised.
+	Updating: data is not static and often requires updates. Organisations must ensure they understand what data can be updated manually vs. automated and that they are not creating unnecessary and costly duplicate records. 
+
+14.  How have policy makers reacted to Big Data developments in healthcare?
+European policy makers have made Big Data in healthcare a political priority. This led to the creation of a partnership between the EC and the European pharmaceutical industry represented by EFPIA  the European Federation of Pharmaceutical Industries and Associations. Following on from this, the Innovative Medicines Initiative 2 (IMI2), with a budget of almost 3.3 billion, was created to run from 2014 -2020. This represents the worlds largest life sciences public/private partnership!
+
+15.  What does high value treatment mean? How will it contribute to more effective care?
+High value treatment means health outcomes achieved per euro spent. Its about maximising what matters for patients and uniting the interests of all healthcare stakeholders. By its very definition, its goal is to make significant strides in pharmas ability to anticipate, prevent and treat a broad spectrum of life-threatening diseases across the entire treatment pathway. This can be achieved by maximising the transformational potential of Big Data.
+
+16.  As the volume of healthcare data and its likelihood to be targeted by fraudsters increases, what measures are being taken to protect my private data?
+Just like your financial data managed by your bank, the data protection industry continues to work diligently to stay ahead of fraudsters and safeguard the integrity of healthcare data. Patients are the ultimate beneficiaries of improved outcomes, so they are encouraged to be more active supporters and contributors to initiatives like BD4BO. Patient information is anonymous and patients will always have the right to opt-out of any data-sharing system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Mission Statement and Key Aspects Mission Statement and Key Aspects 
+
+
+
+
+
+
+
+Mission Statement
+Improve health outcomes and healthcare systems in Europe by maximising the potential of Big Data.
+
+Key aspects
+Key aspects of the BD4BO Programme:
+Ambitious: Leverage Big Datas power for healthcare systems, including improved access, analysis and harmonisation of Big Data.
+Transformational: Big Data has the potential to transform healthcare across the entire pathway for every stakeholder, with the ultimate outcome of improved patient care and value.
+Collaborative: BD4BO provides a framework for PPPs to combine and expand new/existing data sources, build analytic capabilities and establish common standards.
+Disease-specific: cardiovascular diseases, haematological malignancies, Alzheimers disease and prostate cancer.
+Patient-centric: Patients play a key role as consortium members and contributors, and are the ultimate beneficiaries of improved outcomes delivered by BD4BO.
+
+
+
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Publications Publications 
+
+
+
+
+
+
+
+ Newsletters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Contact us Contact us 
+
+
+
+
+
+
+
+
+Contact for BD4BO Website:
+Semmelweis University  Health Services Management Training Centre, Budapest
+Email: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Overcoming big data challengesImproving health outcomes
+
+
+
+
+
+
+
+Protecting data privacy
+
+Ensuring that consent, confidentiality and patient privacy is protected is a prerequisite for building trust in big data and real world evidence. Sharing data across different legal systems is a challenge for big data research. DO->IT has produced an informed consent form (ICF) and guidelines to encourage data sharing with the protection of privacy.
+
+
+
+What are the existing and emerging data privacy and informed consent practices in research?
+
+
+
+
+
+
+
+There is substantial heterogeneity in preferences and practices surrounding informed consent.
+There is a clear interest in developing new models of informed consent and adapting existing models, particularly driven by information and communications technology, data re-use, data linkage, and genome-based research.
+Novel models of consent have the potential to add value in an emerging data environment and to facilitate research opportunities while preserving participant rights.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Which minimum data privacy standards should be included in Informed Consent Forms?
+
+
+
+
+
+
+
+BD4BO partners have developed a proposal to demonstrate what EU-wide and even globally harmonised data protection clauses could look like under the new General Data Protection Regulation (GDPR). The ongoing heterogeneous interpretation of the GDPR across countries continues to make it difficult to develop universally accepted provisions.
+The developed clauses have been discussed with patient focus groups and a panel of representatives of data protection authorities and ethics committees from various countries.
+The Informed Consent Form template developed covers the use of study data collected in clinical trials for future research projects including biobanks.
+An Explanatory document was developed to underline the rationale and give more background on the complex choices behind the proposed Informed Consent Form wording.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How can data privacy requirements best be explained to patients?
+
+
+
+
+
+
+
+Patients have a diverse understanding of data privacy requirements. Finding the right ways to providing information and clarifications to them is essential.
+DO->IT has developed training materials with key questions and answers on data privacy requirements and concerns.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Selecting relevant outcomes
+
+The DO->IT project looked at how to identify, select and measure relevant outcomes in a transparent process involving a range of stakeholder perspectives.
+
+
+
+Why is it important to select relevant outcomes?
+
+
+
+
+
+
+
+Outcomes are the results of treatment that patients care about most. We can only optimise our healthcare systems and make them truly patient-centric by identifying, measuring and selecting the outcomes that matter to patients.
+Organisations who make decisions on access to medicines have specific evidence needs. Therefore, it is essential to consider their perspectives as well.
+In most disease areas there is a lack of consistency in the outcomes reported within routine care, registries or clinical trials. This makes it difficult to pool evidence to inform healthcare or policy decisions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What process does DO->IT recommend for selecting relevant outcomes?
+
+
+
+
+
+
+
+DO->IT has developed a practical guide for BD4BO projects, to identify, select and measure the core outcome sets for their disease area.
+The developed clauses have been discussed with patient focus groups and a panel of representatives of data protection authorities and ethics committees from various countries.
+The practical guide proposes six main steps to develop a core outcome set, from scoping to dissemination, with a focus on ensuring wide stakeholder input across all stages. It is also intended to stimulate standardisation of outcomes in Europe more widely.
+The stages for development and implementation of core outcome sets are:
+
+Scoping
+Use of available core outcome sets
+Identification of outcomes
+Selection of outcomes
+Selection of outcome measurement instruments
+Implementation and uptake.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Using data effectively
+
+Real world data can facilitate bridging the evidence gap between randomised controlled trial and real-world populations. This requires the correct tools for credible and acceptable evidence and conditions that enable data sharing.
+
+
+
+How can we ensure big data and real world evidence is analysed robustly and used effectively in order to be acceptable to all stakeholders?
+
+
+
+
+
+
+
+DO->IT has produced a review of econometric methods for real world data analysis and undertaken a case study review of core outcome sets and their availability in real world data.
+The review assesses the strengths and limitations of several econometric methods in their application to real world data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How can decision makers use outcome data more effectively to bridge the evidence gap?
+
+
+
+
+
+
+
+Decision makers can provide early advice on study designs to ensure the right outcome data is captured.
+Decision makers are looking at the use of methods such as propensity score matching to predict effects in real world populations.
+Decision makers recognise that to improve the use of outcome data there a need for better coordination of initiatives and access to health data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Can core outcome sets be applied to real world settings?
+
+
+
+
+
+
+
+The use of core outcome sets is good practice and their application to real world evidence can help strengthen its credibility for decision makers and acceptability for stakeholders.
+DO->IT has undertaken a case study review to identify if core outcome sets can be replicated in several disease areas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Improving health outcomes
+
+The BD4BO programme aims to improve health outcomes and healthcare systems in Europe by maximising the potential of big data. It does so by demonstrating big datas potential benefits across a number of disease areas.
+
+
+
+How can we maximise the potential of big data to improve health outcomes?
+
+
+
+
+
+
+
+Help key stakeholders understand the value of existing and prospective data sets by improving the quality of the data collected and by robustly linking datasets.
+Demonstrate pragmatic approaches to improving the availability, access and use of health data for secondary uses e.g. establishing a Big Data platform, a distributed model approach, creating common data models, and methodologies for analysing data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What resources has DO->IT developed to communicate BD4BO programme outputs and maximise their potential to improve health outcomes?
+
+
+
+
+
+
+
+The BD4BO Knowledge Hub provides an online platform for BD4BO projects to share their work with each other and the wider big data community.
+A communications toolkit, including patient stories and testimonies, highlights the impact of big data initiatives on patients.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overcoming big data challenges
+
+There is huge potential for the use of big data and real world evidence in health research but they also create new challenges for industry, academia, regulators, health practitioners and patients.
+
+
+
+What are the most pressing challenges in maximising the potential of Big Data to transform healthcare systems?
+
+
+
+
+
+
+
+While there are many challenges to maximising the use of Big Data, it is important to frame the objective and the desired impact in order to identify the most pressing ones.
+Alignment of big data initiatives, for example those under the BD4BO umbrella, can help identify and increase focus on the most important challenges.
+DO->IT research highlighted five key challenges to big data usage:
+
+Lack of alignment on the value of big data among decision makers
+Lack of interoperability within and between healthcare systems
+Lack of a data sharing culture between data custodians, data users and patients.
+Significant legal barriers for researchers who want to access health data
+Sustainability of big data initiatives.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What should future research in this area focus on?
+
+
+
+
+
+
+
+A set of recommendations for future research priorities, intended to support the shift towards outcomes-focused, data-driven European health care systems, has been were developed in consultation with the DO->IT International Advisory Board. These recommendations are based on the findings from case studies exploring the potential value of big data for medicines, regulatory and health technology assessment decision-making.
+The recommendations include:
+
+Ensure that existing and prospectively collected data is put to use
+Make patient-reported outcomes available in routine data sets
+Demonstrate the advantages and limitations of non-experimental methods for causal inference, and identify situations when non-experimental evidence can complement randomised controlled trials
+Use pragmatic trials to investigate effectiveness and safety using robust methodological standards in real-world populations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+About BD4BO About BD4BO 
+
+
+
+
+
+
+
+
+Big Data for Better Outcomes is a comprehensive European research programme aiming to develop key enablers to support health care system transformation through the use of big data. The initiative will develop platforms for integrating and analysing diverse data sets, focusing on outcomes that matter to patients and generating meaningful insights that will help improve health care.
+
+
+http://bd4bo.eu/wp-content/uploads/2018/07/BD4BO_SUBS_v05.mp4
+
+
+In a set of projects in exemplary disease areas, Big Data for Better Outcomes will contribute to healthcare system change through:
+
+-Definition of outcome metrics
+-Protocols, processes and tools to access high quality data
+-Methodologies and analytics to drive improvements
+-Digital and other solutions that increase patient engagement
+
+
+BD4BO has four disease-specific projects so far. (Alzheimers Disease),  (Hematologic Malignancies),  and (Prostate Cancer) are already producing deliverables to enable the efficient use of big data and contribute to improving healthcare systems and patient outcomes and further projects are to come.
+These disease-specific projects are supported by the Coordination and Support Action (DO->IT) as an overarching coordination structure (completed in 2019), and the European Health Data and Evidence Network (EHDEN) project which will be a federated network of relevant data sources.
+
+
+
+
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Roadmap Roadmap 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Alzheimers disease is on the rise in our ageing population, and new, effective treatments are urgently needed. Currently, the safety and benefits to patients of potential treatments are assessed in strictly-controlled clinical trials. However, clinical trials do not reflect the effects of treatments on patients in their daily lives in the real world. The ROADMAP project aims to deliver a series of methods and tools that will allow the scalable, transferable integration of data on patient outcomes in the real world. The tools will be developed and tested through pilot projects and will lay the foundations for a Europe-wide platform on real-world evidence in Alzheimers disease. The project will also actively engage with people living with dementia amongst other stakeholders and address the ethical, legal and social implications of adopting a real world evidence approach to Alzheimers disease.
+
+Partners
+
+The Chancellor, Masters and Scholars of the University of Oxford
+National Institute for Health and Care Excellence
+Erasmus Universitair Medisch Centrum Rotterdam
+Universiteit Maastricht
+Synapse Research Management Partners S.L
+Fundaci Institut Universitari per a la Recerca a lAtenci Primria de Salut Jordi Gol i Gurina
+Kbenhavns Universitet
+Alzheimer Europe
+University of Edinburgh
+Goeteborgs Universitet
+Aarhus Universitet
+London School of Economics and Political Science
+Agentschap College ter Beoordeling van Geneesmiddelen
+IXICO Technologies Ltd
+Rijksuniversiteit Groningen
+Novartis Pharma AG
+Eli Lilly and Company Ltd
+Biogen
+HoffmannLa Roche Ltd
+Janssen Pharmaceutica NV
+GE Healthcare Ltd
+AC Immune SA
+Takeda Development Centre Europe Ltd
+H. Lundbeck A/S
+Academisch Ziekenhuis Leiden  Leids Universitair Centrum
+
+
+
+
+
+
+
+Post navigation
+
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+BigData@Heart BigData@Heart 
+
+
+
+
+
+
+
+ 
+
+
+
+
+Atrial fibrillation (AF), heart failure (HF) and acute coronary syndrome (ACS) are major drivers of cardiovascular disease (CVD), which causes more than 3.9 million deaths each year across Europe. Currently, the management of AF, HF and ACS is complicated by their complex aetiology and heterogeneous prognoses. There is a clear need for a better definition of CVD through improved biomarkers and endpoints, as well as its outcomes and prognoses. The BigData@Heart, a five-year project launched in March 2017, uniquely brings together 19 partners from academia, medical associations, pharmaceutical industry, SMEs and patient organizations to address these challenges. The consortium will develop a data-driven translational research platform which will be aiming at delivering clinically relevant disease phenotypes, scalable insights from real-world evidence, best-practices in drug development, and personalised medicines through advanced analytics.
+
+Partners
+
+University Medical Center Utrecht
+Charit
+European Society of Cardiology
+European Heart Network
+University College London
+University of Cambridge
+International Consortium for Health Outcomes Measurement
+Fundacion para la investigacion del Hospital Clinico de la Comunidad Valenciana
+Karolinska Institutet
+Universitatsklinikum Hamburg-Eppendorf
+MLC Foundation
+University of Birmingham
+Uppsala University Hospital
+Bayer
+Novartis
+Servier
+Somalogic
+Vifor Pharma
+The Hyve
+
+
+
+
+
+
+
+Post navigation
+
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Harmony Harmony 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Blood cancers, or haematologic cancers (e.g. leukaemia, lymphoma and myeloma), affect the production and function of blood cells and account for about 40% of cancer cases in children and about one third of cancer deaths. As many blood cancers are rare, and healthcare practice varies across EU, a lack of data on relevant outcomes represents a challenge for clinicians, researchers, and other decision-makers like regulators and HTA bodies, resulting in limitations for patient access to the best healthcare. The HARMONY Alliance aims to use big data and big data analytics to deliver information that will help to improve the care of patients with these diseases. Specifically, this IMI project will gather together, integrate and analyse patient data from a number of high quality sources. This will help the team to define clinical endpoints and outcomes for these diseases that are recognised by all key stakeholders of the Healthcare system. Meanwhile the projects generated insights will facilitate and improve decision making along the value chain to ultimately give the right treatment to the right patient at the right time. More broadly, the project will result in a pan-European network of stakeholders with expertise in this disease area.
+
+Partners
+
+Agencia Espaola de Medicamentos y Productos Sanitarios
+Alma Mater Studiorum  Universit di Bologna
+Amgen
+Assistance Publique  Hpitaux de Paris
+Barts Health NHS Trust
+BAYER
+Bundesinstitut fr Arzneimittel und Medizinprodukte
+CELGENE
+ELN Foundation
+Erasmus Universiteit Medisch Centrum Rotterdam
+European Alliance for Personalised Medicine
+European Hematology Association
+European Organisation for Research and Treatment of Cancer
+European Research Initiative on CLL e.v.
+European Society for Blood and Marrow Transplantation
+Flanders Institute of Biotechnology
+Fondazione Italiana per lo studio delle sindromi mielodisplastiche onlus
+Fundacio privada Institut Dinvestigacio Oncologica de Vall-Hebron
+Fundacin Instituto de Estudios de Ciencias de la Salud de Castilla y Len
+Fundacin para la Investigacin del Hospital Universitario La Fe de la Comunidad Valenciana
+Genome Research Limited
+German Society of Pediatric Oncology-Hematology GmbH gemeinntzig
+GMV Soluciones Globales Internet S.A.U.
+Goethe University Frankfurt
+Group for Research on Adult Acute Lymphoblastic Leukemia
+Groupe Francophone des Mylodysplasies
+Heinrich-Heine-Universitaet  Duesseldorf
+Jose Carreras Leukaemia Research Institute
+JPNV-JANSSEN
+LeukaNET
+Ludwig-Maximilians-Universitaet  Muenchen
+Masaryk University
+MediSapiens Ltd
+Medizinische Universitaet  Wien
+MENARINI
+MLL Munich Leukemia Laboratory GmbH
+National Institute for Health and Care Excellence
+NOVARTIS
+Ospedale Pediatrico Bambino Ges
+Synapse Research Management Partners
+TAKEDA
+The Chancellor, Masters and Scholars of the University of Cambridge
+The Lymphoma Scientific Association
+Universit degli Studi di Torino
+Universitaet Ulm
+University of Helsinki
+University of Navarra
+University of Newcastle upon Tyne
+University of Rome Tor Vergata
+University of York)
+ VU University Medical Center
+
+
+
+
+
+
+
+
+Post navigation
+
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Pioneer Pioneer 
+
+
+
+
+
+
+
+ 
+
+
+
+
+Prostate cancer is the second commonest cancer in men, 1 in 8 men will be diagnosed with prostate cancer during their lifetime, accounting for 9% of all cancer deaths among men in Europe. The socio-economic burden associated with PCa is predicted to dramatically increase in the coming years due to our ageing population. Studies have reported a prevalence of 59% by the age of 79 years.
+PIONEERs unique approach is to firstly identify critical evidence gaps in prostate cancer care through a detailed prioritisation exercise including all stakeholders (i.e. clinicians, patients, researchers, industry etc.). PIONEER will then standardise and integrate existing big data from high quality and multidisciplinary data sources from prostate cancer patients across different stages of the disease into a single innovative data platform. Based on a unique set of methodologies and advanced analytical methods, PIONEER will attempt to transform the field of prostate cancer care with particular focus on improving prostate cancer-related outcomes, health system efficiency and the quality of health and social care delivered to all prostate cancer patients and their families. In addition, PIONEER will aim to provide standardised care pathways for all clinical centres across Europe.
+
+Partners
+
+Astellas Pharma
+Bayer
+Cancer Intelligence Limited
+Covance
+European Alliance for Personalised Medicine
+European Association of Urology
+European Cancer Patient Coalition
+European Institute for Systems Biology and Medicine
+European Organisation for Research and Treatment of Cancer
+Erasmus Universitair Medisch Centrum Rotterdam
+Fraunhofer IZI
+Goeteborgs Universitet
+Imperial College of Science Technology and Medicine
+International Consortium for Health Outcomes Measurement
+Janssen Pharmaceutical
+Kings College London
+Lund University
+Orion Corporation
+Pinsent Masons LLP
+Radboud University Medical Center
+Sanofi
+SAS Institute
+Swedish Institute for Health Economics
+Technische Universitt Dresden
+The Hyve B.V
+The University Court of the University of Aberdeen
+Ttopstart
+Universitaetsklinikum Hamburg-Eppendorf
+University of Tampere
+Universita Vita-Salute San Raffaele
+Varian Medical Systems
+Weizmann Institute of Science
+
+
+
+
+
+
+
+Post navigation
+
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+EHDEN EHDEN 
+
+
+
+
+
+
+
+ 
+
+
+
+
+Today, in Europe, we are challenged to generate insights and evidence from real world clinical data at scale, to support patients, clinicians, payers, regulators, governments, and the pharmaceutical industry in understanding wellbeing, disease, treatments, outcomes and new therapeutics and devices. Unfortunately, such data is difficult to use at scale, in a myriad of languages, systems and structures, with challenging policy restrictions and technology considerations. Consequently, using real world data for research, reflective of what happens for patients in their own experience of healthcare, is very challenging. In response to this, the European Health Data & Evidence Network (EHDEN) public-private project was established.
+EHDEN aspires to provide a new paradigm for the discovery and analysis of health data in Europe, ultimately enabling better health decisions, outcomes and care for patients across Europe. The project will build a largescale, federated network of data sources and set the ambitious goal of harmonising 100 million anonymized health records to the OMOP common data model and to stimulate the utilisation of analytical tools such as those developed by the international Observational Health Data Sciences and Informatics (OHDSI) open science collaboration (www.ohdsi.org), and others.
+To achieve these ambitious goals, a network of SMEs will be trained and certified to ensure high validity transformation of data to the common data model. In parallel, data sources can apply for funding from the EHDEN Harmonisation Fund through serial open calls to obtain support from these certified/qualified SMEs. Additionally, the research outputs of EHDEN will focus on evidence generation through appropriate, validating use cases, incorporating health outcome standards.
+
+
+Partners
+
+Erasmus Medical Centre, Rotterdam (Coordinating)
+European Patients Forum
+International Consortium for Health Outcomes Measurement (ICHOM)
+National Institute for Health and Care Excellence (NICE)
+NDORMs, Oxford University
+Odysseus Data Services
+Stiftelsen WHO Collaborating Centre for International Drug Monitoring, Upsala
+Synapse Research Management Partners
+The Hyve
+University of Aveiro
+University of Tartu
+Janssen
+Abbvie
+AstraZeneca
+Bayer
+Celgene
+Eli Lilly
+Novartis
+Pfizer
+Sanofi
+Servier
+UCB
+
+
+
+
+
+
+
+Post navigation
+
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+The Potential of Big Data The Potential of Big Data 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Legal Notice Legal Notice 
+
+
+
+
+
+
+
+Disclaimer
+This website is maintained by the Consortium of the IMI Big Data for Better Outcomes, Policy Innovation and Healthcare Systems Transformation (DO->IT) Project, hereinafter referred to as the DO->IT Consortium. The aim of the website is to keep the public informed about the activities of the project consortia participating in the IMI Big Data for Better Outcomes Programme (BD4BO), hereinafter referred to as BD4BO Partners.
+The texts and layouts of communication on this website reflect the authors views and neither IMI, nor the European Union, EFPIA or any Associated Partners are responsible for any use that may be made of the information contained therein.
+The DO->IT Consortium makes no warranties or representations of any kind as to the contents accuracy, currency or completeness. Neither the DO->IT Consortium nor any party involved in creating, producing or delivering this document shall be liable for any damages, including without limitation, direct, incidental, consequential, indirect or punitive damages, arising out of access to, use of or inability to use this document, or any errors or omissions in the content thereof.
+In order to give the public some additional information on our project, the information provided on this website is sometimes linked to external sites over which the DO->IT Consortium partners have no control and for which the DO->IT Consortium partners, except for the DO->IT Consortium partner to which website a link is made, assume no responsibility. Once you visit an external website you are subject to the policies of that site. The DO->IT Consortium partners do not intend to advertise or market directly or indirectly any of the products or other items which may be mentioned on such external website. The content of this website may not be used for commercial purposes. Remixing is not permitted except for private use. The DO->IT Consortium does not permit to be linked to any third party site without our prior written consent.
+The BD4BO Partners names and logos and all related trademarks, trade names, and other intellectual property rights are the property of the ROADMAP Consortium partners and cannot be used, copied or distributed in any way without the express prior written permission of the BD4BO Consortium partner concerned.
+Every effort is made to keep the website up and running smoothly. However, the DO->IT Consortium takes no responsibility and will not be liable for the website temporarily being unavailable due to technical issues beyond our control.
+Privacy Policy
+The DO-IT Consortium is committed to user privacy. The protection of individuals with regard to the processing of personal data is based on Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (Text with EEA relevance).
+You can browse through this website without giving any personal information but in some cases, in order to provide requested e-services, especially if you would like to subscribe for our Newsletter, personal informal may be required, in which case information will be treated in line with the General Data Protection Regulation (GDPR) referred to above.
+Update of the legal notice
+This legal notice including the disclaimer and the privacy policy may change when necessary. The updated version will always be made available immediately on this website.
+
+
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+BigData@Heart BigData@Heart 
+
+
+
+
+
+
+
+ 
+
+
+
+
+Atrial fibrillation (AF), heart failure (HF) and acute coronary syndrome (ACS) are major drivers of cardiovascular disease (CVD), which causes more than 3.9 million deaths each year across Europe. Currently, the management of AF, HF and ACS is complicated by their complex aetiology and heterogeneous prognoses. There is a clear need for a better definition of CVD through improved biomarkers and endpoints, as well as its outcomes and prognoses. The BigData@Heart, a five-year project launched in March 2017, uniquely brings together 19 partners from academia, medical associations, pharmaceutical industry, SMEs and patient organizations to address these challenges. The consortium will develop a data-driven translational research platform which will be aiming at delivering clinically relevant disease phenotypes, scalable insights from real-world evidence, best-practices in drug development, and personalised medicines through advanced analytics.
+
+Partners
+
+University Medical Center Utrecht
+Charit
+European Society of Cardiology
+European Heart Network
+University College London
+University of Cambridge
+International Consortium for Health Outcomes Measurement
+Fundacion para la investigacion del Hospital Clinico de la Comunidad Valenciana
+Karolinska Institutet
+Universitatsklinikum Hamburg-Eppendorf
+MLC Foundation
+University of Birmingham
+Uppsala University Hospital
+Bayer
+Novartis
+Servier
+Somalogic
+Vifor Pharma
+The Hyve
+
+
+
+
+
+
+
+Post navigation
+
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Overcoming big data challengesImproving health outcomes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://bd4bo.eu/wp-content/uploads/2018/07/BD4BO_SUBS_v05.mp4
+
+
+
+
+
+
+
+
+
+Experts from the BD4BO programme have some recommendations on how to make the European Health Data Space really work for patients, doctors and researchers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Big Data for Better Outcomes
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Overcoming big data challengesImproving health outcomes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://bd4bo.eu/wp-content/uploads/2018/07/BD4BO_SUBS_v05.mp4
+
+
+
+
+
+
+
+
+
+Experts from the BD4BO programme have some recommendations on how to make the European Health Data Space really work for patients, doctors and researchers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+BD4BO
+
+
+
+
+			Big Data for Better Outcomes
+		
+
+			Contact for BD4BO Website
+		
+
+
+
+			This website has received funding from the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) under grant agreement No. 116055. This Joint Undertaking receives support from the European Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries and Associations (EFPIA).
+		
+
+			Semmelweis University  Health Services Management Training Centre, Budapest
+			Email: doit.communication@emk.sote.hu
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+				Big Data
+			
+
+				BD4BO
+			
+
+
+
+				Big data in health refers to largely routinely or automatically collected datasets, which are electronically captured and stored. It is reusable in the sense of multipurpose data and comprises the fusion and connection of existing databases for the purpose of improving health and health system performance. (European Commission, Study on Big Data in Public Health, Telemedicine and Healthcare. 2016.)
+			
+
+				Big Data for Better Outcomes is a comprehensive European research programme funded by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2) aiming to develop key enablers to support healthcare system transformation through the use of big data.
+			
+
+
+
+				DO->IT
+			
+
+				Core outcome sets
+			
+
+
+
+				Big Data for Better Outcomes, Policy Innovation and Healthcare System Transformation is the Coordination and Support Action project of the BD4BO programme.
+			
+
+				the agreed minimum standardised set of outcomes that should be measured and reported in trials or other research on a specific condition.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

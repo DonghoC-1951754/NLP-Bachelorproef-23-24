@@ -1,0 +1,6273 @@
+independent alliance of leading healthcare and research organisations united to establish best practice for the ethical use of UK health data for research at scale. We develop and co-ordinate the adoption of tools, techniques, conventions, technologies, and designs that enable the use of health data in a trustworthy and ethical way for research and innovation.
+We aim to accelerate progress in health and care by encouraging widespread and responsible access to structured and unstructured clinical, administrative, imaging, genomic and other molecular data.
+Through the development and sharing of best practice, and by earning trust in health data use, the Alliance aims to maximise research potential and ensure it benefits as many people across the UK as possible.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+The Alliance celebrates 5 years! Explore some of the Alliances key successes to-date     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+											Welcome to the UK Health Data Research Alliance										
+
+												An independent alliance of leading healthcare and research organisations united to establish best practice for the ethical use of UK health data for research at scale.											
+
+
+
+
+
+
+											Become a member of the Alliance										
+
+												Join over 100 leading healthcare and research organisations on a mission to accelerate improvements in biomedicine, health and care through the trustworthy and responsible use of health data for research and innovation.											
+
+
+
+
+
+
+											Five years of the Alliance: the story so far										
+
+												The UK Health Data Research Alliance is marking five remarkable years of progress and commitment to maximising the benefits of health data research for all. 											
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+					Our Impact				
+
+						The Alliance aims to become an internationally recognised and influential network that enables and demonstrates trustworthy use of health-related data for research and innovation.					
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						What our members are saying
+					
+
+
+
+							"The pharmaceutical industry relies on access to anonymised health data to develop new medicines and vaccines, enable patients to have access to them and ensure they are effective and safe once in routine NHS use. Configuring the UK health data ecosystem to facilitate research, whilst safeguarding patient confidentiality, is a goal shared by the whole research community, including ABPI members"						
+
+							Dr Janet Valentine, Executive Director of Innovation and Research Policy at ABPI						
+
+
+
+
+
+
+
+Our Work
+
+					Explore the workstreams of the Alliance:				
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+                        Latest News                    
+
+
+
+
+
+ 
+
+
+                        News announcement                    
+
+
+
+
+                            24 April 2024                        
+
+                        Today, we are delighted to announce that three more organisations have signed up to join the Alliance.                    
+
+
+
+
+ 
+
+
+                        News announcement                    
+
+
+
+
+                            24 April 2024                        
+
+                        Health Data Research UK (HDR UK) is launching a funding call to establish a co-ordination centre for a pilot real-world evidence network that will utilise data gathered from multiple UK sources.                     
+
+
+
+
+ 
+
+
+                        Opinion                    
+
+
+
+
+                            27 February 2024                        
+
+                        From its founding principles to embracing international standards, we look back on five incredible years of partnership and impact from the UK Health Data Research Alliance.                    
+
+
+
+
+
+
+
+
+						Featured Members					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get in touch
+We're keen to hear from you if you have ideas, questions or comments - including if you would like to discuss opportunities to collaborate with us.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+The Alliance celebrates 5 years! Explore some of the Alliances key successes to-date     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+											Welcome to the UK Health Data Research Alliance										
+
+												An independent alliance of leading healthcare and research organisations united to establish best practice for the ethical use of UK health data for research at scale.											
+
+
+
+
+
+
+											Become a member of the Alliance										
+
+												Join over 100 leading healthcare and research organisations on a mission to accelerate improvements in biomedicine, health and care through the trustworthy and responsible use of health data for research and innovation.											
+
+
+
+
+
+
+											Five years of the Alliance: the story so far										
+
+												The UK Health Data Research Alliance is marking five remarkable years of progress and commitment to maximising the benefits of health data research for all. 											
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+					Our Impact				
+
+						The Alliance aims to become an internationally recognised and influential network that enables and demonstrates trustworthy use of health-related data for research and innovation.					
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						What our members are saying
+					
+
+
+
+							"The pharmaceutical industry relies on access to anonymised health data to develop new medicines and vaccines, enable patients to have access to them and ensure they are effective and safe once in routine NHS use. Configuring the UK health data ecosystem to facilitate research, whilst safeguarding patient confidentiality, is a goal shared by the whole research community, including ABPI members"						
+
+							Dr Janet Valentine, Executive Director of Innovation and Research Policy at ABPI						
+
+
+
+
+
+
+
+Our Work
+
+					Explore the workstreams of the Alliance:				
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+                        Latest News                    
+
+
+
+
+
+ 
+
+
+                        News announcement                    
+
+
+
+
+                            24 April 2024                        
+
+                        Today, we are delighted to announce that three more organisations have signed up to join the Alliance.                    
+
+
+
+
+ 
+
+
+                        News announcement                    
+
+
+
+
+                            24 April 2024                        
+
+                        Health Data Research UK (HDR UK) is launching a funding call to establish a co-ordination centre for a pilot real-world evidence network that will utilise data gathered from multiple UK sources.                     
+
+
+
+
+ 
+
+
+                        Opinion                    
+
+
+
+
+                            27 February 2024                        
+
+                        From its founding principles to embracing international standards, we look back on five incredible years of partnership and impact from the UK Health Data Research Alliance.                    
+
+
+
+
+
+
+
+
+						Featured Members					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get in touch
+We're keen to hear from you if you have ideas, questions or comments - including if you would like to discuss opportunities to collaborate with us.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+The Alliance celebrates 5 years! Explore some of the Alliances key successes to-date     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+											Welcome to the UK Health Data Research Alliance										
+
+												An independent alliance of leading healthcare and research organisations united to establish best practice for the ethical use of UK health data for research at scale.											
+
+
+
+
+
+
+											Become a member of the Alliance										
+
+												Join over 100 leading healthcare and research organisations on a mission to accelerate improvements in biomedicine, health and care through the trustworthy and responsible use of health data for research and innovation.											
+
+
+
+
+
+
+											Five years of the Alliance: the story so far										
+
+												The UK Health Data Research Alliance is marking five remarkable years of progress and commitment to maximising the benefits of health data research for all. 											
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+					Our Impact				
+
+						The Alliance aims to become an internationally recognised and influential network that enables and demonstrates trustworthy use of health-related data for research and innovation.					
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						What our members are saying
+					
+
+
+
+							"The pharmaceutical industry relies on access to anonymised health data to develop new medicines and vaccines, enable patients to have access to them and ensure they are effective and safe once in routine NHS use. Configuring the UK health data ecosystem to facilitate research, whilst safeguarding patient confidentiality, is a goal shared by the whole research community, including ABPI members"						
+
+							Dr Janet Valentine, Executive Director of Innovation and Research Policy at ABPI						
+
+
+
+
+
+
+
+Our Work
+
+					Explore the workstreams of the Alliance:				
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+                        Latest News                    
+
+
+
+
+
+ 
+
+
+                        News announcement                    
+
+
+
+
+                            24 April 2024                        
+
+                        Today, we are delighted to announce that three more organisations have signed up to join the Alliance.                    
+
+
+
+
+ 
+
+
+                        News announcement                    
+
+
+
+
+                            24 April 2024                        
+
+                        Health Data Research UK (HDR UK) is launching a funding call to establish a co-ordination centre for a pilot real-world evidence network that will utilise data gathered from multiple UK sources.                     
+
+
+
+
+ 
+
+
+                        Opinion                    
+
+
+
+
+                            27 February 2024                        
+
+                        From its founding principles to embracing international standards, we look back on five incredible years of partnership and impact from the UK Health Data Research Alliance.                    
+
+
+
+
+
+
+
+
+						Featured Members					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get in touch
+We're keen to hear from you if you have ideas, questions or comments - including if you would like to discuss opportunities to collaborate with us.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+				About us			
+
+
+
+
+
+
+
+
+
+Welcome to the UK Health Data Research Alliance  an independent alliance of leading healthcare and research organisations united to establish best practice for the ethical use of UK health data for research at scale.
+Five years of partnership and impact from the UK Health Data Research Alliance (image credit: Nada Karrar).
+Our mission
+Our mission is to is to accelerate improvements in biomedicine, health and care by encouraging widespread and responsible use of health-relevant data in a trustworthy, ethical way for research and innovation.
+This is based on three goals:
+
+We also aim to achieve international recognition and influence as a network that enables and demonstrates trustworthy use of health-related data for research and innovation.
+Our Work
+We enable health data research by developing and driving adoption of standards, tools, processes, capabilities and information governance approaches.
+The Alliance does this by bringing expert communities together to drive consensus around best practice and publishing recommendations and papers.
+Our focus is on:
+
+Trust and Transparency  Ensuring communities contribute to streamline and simplify data access while earning public trust in the use of data.
+Technology Services  Building a cross-sector community to co-develop technologies and tools for research data infrastructure.
+Data Standards  Developing standards and facilitating adoption of existing standards for interoperability and usability of data and seeking agreements on best practice for data curation, management and analysis.
+Capacity Building  Identifying skills gaps in the healthcare sector and influencing changes for improving education and professional development.
+
+
+Our Principles for Participation
+We have a growing membership of more than 100 leading research and healthcare organisations from all four UK nations.
+Organisations involved in the Alliance, or its programmes, sign up to nine principles agreeing to:
+
+Demonstrate active and ongoing engagement with patients and the public.
+Encourage the availability and use of health and care data for research and innovation that serves public interest.
+Promote the protection of privacy and data security, including providing access to sensitive data through Secure Data Environments.
+Make data Findable, Accessible, Interoperable and Reusable (FAIR) by adopting the  guidelines.
+Take a proportionate approach to data access governance based on the  framework.
+Maximise the benefits for research and innovation through non-preferential access to data.
+Establish mutually beneficial ways of working in partnership.
+Work collaboratively to increase harmonisation and reduce the complexity of data sharing arrangements.
+Contribute to a joined-up, UK-wide offer for researchers.
+
+
+Our Structure
+The Alliance is convened by Health Data Research UK. Set up in 2019, it has been established as a member-led network of partners with a robust governance structure designed to be effective, inclusive and transparent.
+The main elements are:
+
+
+Our Impact
+Our impact and influence are extensive and growing. Achievements in our first five years included:
+   recommending guidelines for data sharing and linkage practice within TREs (also known as Secure Data Environments or SDEs) established the blueprint for trustworthy data access, linkage and research. Its influence on Data Access Policy within the NHS is seen in publications and implementation guidance.
+   for improving transparency in the use of health data have led to a rise in the number of custodians publishing information on how their datasets are used, by whom and for what purpose.
+  Our members agree to adopt the FAIR principles for data management and stewardship when joining. Most data custodians in the Alliance, now publish metadata on , which serves as a portal for data discovery and access. NHS England has also pledged to use the Gateway as the single front door for the .
+
+Work with us
+We are striving to broaden our membership among health data research stakeholders and to deepen and strengthen existing partnerships.
+ or complete the form below to find out more.
+
+
+
+
+
+
+
+	Notice: JavaScript is required for this content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+				Who we are			
+
+
+
+
+
+
+
+
+
+The Alliance Executive Committee
+The Alliance Executive Committees purpose is to provide strategic leadership of the Alliance and to ensure its activities are in alignment with strategies across all areas of the health data ecosystem. It is responsible to the Alliance membership, represented through the Alliance Council.
+The Committee is chaired by David Seymour, HDR UKs Director of Infrastructure and Services and includes individuals representing the diversity of Alliance member organisations and strategic partners:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Alliance Secretariat
+The secretariat runs Alliance operations and convenes working groups, as prioritised by its member organisations. Paola Quattroni, Head of Alliance Strategy and Engagement leads the secretariat and is supported by several colleagues:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+				How we operate			
+
+
+
+
+
+
+
+
+
+
+Our History
+The UK Health Data Research Alliance was established in February 2019, as a member-led network of data providers, custodians and curators to accelerate improvements in biomedicine, health and care by encouraging widespread and responsible use of health-relevant data in a trustworthy, ethical way for research and innovation.
+It took inspiration from other global alliances, such as the  and the  who unite international communities to develop frameworks and standards around best practice.
+The Letter of Intent
+The Alliance constitution is set out in the  signed by all organisations joining the Alliance. The Letter outlines the background of the Alliance, the founding and operating principles and the composition and governance of the Alliance.
+The  of the Alliance provide a framework of collaborative and open working practices, drawing from national and international best practice frameworks and recommendations, including the  for scientific data management and the Five Safe framework.
+
+Alliance consultation and change to governance
+In March 2023, a full review of the Alliance governance was carried out by the secretariat, along with an extensive consultation with Alliance members and partners. Following this, several key changes were approved by the Board:
+
+Alliance membership extended to non-data custodians complementary groups and organisations, such as Patient and Public Involvement and Engagement groups, Industry Trade Associations, funders, regulatory bodies.
+An Alliance Executive Committee representative of the membership was established.
+The Alliance Board and associated convening role will be maintained through an Alliance Council.
+The Alliance  and  will continue to underpin the Alliance ethos and will be updated to reflect the agreed changes.
+
+
+Our Structure
+The Alliance is convened by Health Data Research UK and has a robust governance structure designed to be effective, inclusive and transparent. The main elements are:
+Alliance Executive Committee
+The Executive Committee was established in September 2023 to shape the strategy and development of the Alliance, as well as guide improvements in the areas of technology services ecosystems, trust and transparency, data usability and capacity building. The Committee ensure that Alliance activities are in alignment with strategies across all areas of the health data ecosystem. It is responsible to the Alliance membership, represented through the Alliance Council.
+The Committee is chaired by , HDR UKs Director of Infrastructure and Services and includes individuals representing the diversity of Alliance member organisations and strategic partners. Find out more about the individuals on the Committee .
+
+Alliance Council
+The Alliance Council convenes representatives from Alliance member organisations from all over the UK, each of which brings experience in domains relevant to its mission along with an outstanding record of and commitment to serving the public good.
+The Alliance Council ratifies recommendations and proposals developed by the Alliance Executive Committee and through relevant work area steering groups.
+Meeting Reports and Outputs
+
+
+
+Alliance Executive Committee
+Type of Output
+Publication Date
+
+
+Alliance Executive Committee 3rd Meeting Summary
+16.04.2024
+
+
+
+04.12.2023
+
+
+
+14.09.2023
+
+
+Alliance Council
+
+17.01.2024
+
+
+
+10.10.2023
+
+
+
+13.07.2023
+
+
+
+28.04.2023
+
+
+
+26.01.2023
+
+
+
+14.10.2022
+
+
+
+20.07.2022
+
+
+
+12.04.2022
+
+
+
+26.01.2022
+
+
+
+20.10.2021
+
+
+
+14.07.2021
+
+
+
+27.04.2021
+
+
+
+21.01.2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+				Members			
+
+
+
+
+
+
+
+
+
+The UK Health Data Research Alliance (the Alliance) is an independent alliance of leading healthcare and research organisations united to establish best practice for the ethical use of UK health data for research at scale.
+Its members include organisations representing national organisations, NHS trusts, research institutes and charities.
+
+Together the members offer an exceptional opportunity to provide access to rich and diverse health data for research and innovation, in particular via the . Research based on data that reflects diversity of culture, healthcare conditions and aspects such as race, ethnicity, gender and age improves the ability to generalise results and enables new discoveries and understanding about disease. In turn this provides fairer and more equal access to the latest treatments and medical technologies, benefiting as many people across the UK as possible.
+By working in partnership, the members of the Alliance are developing and co-ordinating the adoption of tools, techniques, conventions, technologies, and designs that enable the use of health data in a trustworthy and ethical way for research and innovation. The aim is to help researchers to answer some of the most difficult questions and address the most important health challenges faced in the UK.
+Senior leaders from partner organisations join the Alliance Council to provide oversight and direction of the Alliance. Alliance Council meetings take place every quarter and are chaired by , HDR UKs Director.
+Meeting minutes from past Alliance Council meetings can be viewed 
+
+
+
+
+
+
+
+
+					View all
+				
+
+								Academic centre							
+
+								Charity or social enterprise							
+
+								Cohorts and biobanks							
+
+								Healthcare provider							
+
+								National agency or public body							
+
+								Programme Investment							
+
+								Public and/or patient advocacy group							
+
+								Research Data Service							
+
+								Research funder							
+
+								Research Support Service							
+
+								Trade Association							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+				Work			
+
+
+
+
+
+
+
+
+
+The UK Health Data Research Alliance develops and co-ordinates the adoption of tools, techniques, conventions, technologies, and designs that enable the use of health data in a trustworthy and ethical way for research and innovation.
+The Alliance has established a number of delivery sub-groups. For further details on individual sub groups, please see below.
+
+
+
+
+
+Trust and Transparency 
+
+
+
+
+
+
+We are working to harmonise and simplify data access for healthcare research and to earn public trust in the use of their data.
+The issues of information governance and public confidence are closely linked and have been brought together by the Alliance in a single Trust and Transparency workstream.
+
+
+
+
+
+
+
+
+
+
+
+
+Data Standards
+
+
+
+
+
+
+Achieving widespread adoption of internationally recognise data standards across the UK is at the core of the Alliances mission.
+Data standards are crucial to the success of health data science, providing consistency, comparability and reproducibility across diverse data assets and enabling robust and reliable research across different regions and countries.
+
+
+
+
+
+
+
+
+
+
+
+
+Developing Technology Services
+
+
+
+
+
+
+The aim of this workstream is to support the convening of a network of technologists across the NHS, academia, policy and industry to align efforts, share tools, collaborate on shared components, drive adoption of recognised standards and accelerate trustworthy data use for research and innovation. This workstream also supports the continued development of the Health Data Research Innovation Gateway (the Gateway), a portal for data discovery and access.
+
+
+
+
+
+
+
+
+
+
+
+
+Capacity Building
+
+
+
+
+
+
+The Alliance and its members are striving to build capacity in health data research. While there are ongoing initiatives tackling skills gaps in data science, more work is needed to ensure the UK has the skilled and representative workforce it needs to flourish.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+				Trust and Transparency			
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+We are working to harmonise and simplify data access for healthcare research and to earn public trust in the use of their data.
+The issues of information governance and public confidence are closely linked and have been brought together by the Alliance in a single Trust and Transparency workstream.
+The Challenge
+Researchers often state that the difficulty in accessing data is the main barrier to their projects.
+Other major obstacles include lack of standardisation and transparency in the access processes and for the use of data.
+Tackling this problem would allow faster, better research  speeding up advances in healthcare.
+At the same time public involvement needs to be baked into health data research at all levels and stages.
+This helps guarantee that research is in the public interest and reassures people that data is being used responsibly and for their benefit.
+The Solution
+The , which represents data custodians, policymakers and public contributors across the four UK nations, is a sub-group of the Alliance and has been set up to simplify and streamline data access governance processes.
+The Steering Group has set up Action Forces around transparency standards, mapping data access processes, developing template contracts for data ingress and data access via Trusted Research Environments (TREs) and exploring the challenges in international data access.
+
+A strategic partnership has been formed with the Public Engagement in Data Research Initiative () to develop and spread public involvement and engagement (PIE) best practice among data custodians. The partnership is focussed on exploring PIE priorities and embedding good practice, addressing resource information gaps for researchers and PIE professionals, listening to the public and acting on their concerns.
+Action Forces and working groups
+Improving Transparency in Data Use
+A data use register (also known as a data release register or list of approved projects) offers the public a clear record of how their data is being used, by whom and for what purpose. In March 2022, the Alliance established a working group to help ensure that clear, consistent and standardised public records are regularly published on data use to demonstrate the value and benefit of using health data.
+The group has produced recommendations for a  to be adopted by organisations responsible for the safe sharing of data used for research and innovation.
+
+Transparency Standards for Data Access and Adoption of the Five Safes
+Best practice  (co-developed with HDR UKs Public Advisory Board ()) have been published. These offer guidance on providing information to the public and researchers about data access processes. Grants have been awarded to help organisations adopt the standards.
+The group  the consultation on Information Commissioners Offices () draft guidance on transparency in the health and social care sector.
+Mapping Data Governance Processes
+The groups aim is to create a single map of the ethics and governance approvals needed to access administrative and heath data from TREs across the UK.
+It has produced a data access map detailing the approvals processes to access data held by Trusted Research Environments () in each of the home nations. There is also a comparison tool showing each step of the access process in more detail and giving access to advice and guidance.
+TRE Legal Toolkit
+The action force is working to define the data protection roles and responsibilities of all parties involved in TRE data access and to streamline contractual arrangements, so that research in the public benefit is not delayed unnecessarily in the legal review process, whilst robust and standardised controls are upheld.
+The aim is to produce a toolkit of template resources to speed up contracting and ensure all parties are aware of their obligations. A paper on the principles underpinning data access has been published and a template  (DAA) is now available.
+Five Safes
+This action force is promoting the adoption and use of the Alliances Five Safes data access form, which simplifies the data access application process. It works to overcome challenges and provide training on use of the form. It is also developing transparency standards for Alliance members.
+International Data Access
+This group is focused on the legal challenges relating to international data sharing and its aim is to produce outputs to drive clarity in this area.
+For more information about this group and other action forces contact
+Using Linked Data for Research
+The Alliance organised a series of workshops to address the challenges and opportunities associated with utilising linked data for health research in the UK. These sessions aimed to improve accessibility to linked data, streamline data access processes, and enhance collaborations among stakeholders in the UK health data ecosystem.
+Alliance members and other contributors are now working with workshop participants to produce an opinion piece to call out for action to maximise the use of linked data for research, moving towards more streamlined and transparent data access mechanisms, with better guidance, resources, and legal toolkits for researchers.
+.
+Recommendations and Outputs
+
+
+
+Output Type
+Publication Name
+Date Published
+
+
+Transparency in data access and use
+
+Aug-2023
+
+
+
+Jan-2022
+
+
+TRE Legal Toolkit
+
+Oct-2023
+
+
+
+Oct-2023
+
+
+Mapping Data Governance Processes
+
+ Oct-2023
+
+
+PEDRI-Alliance Partnership
+
+Dec-2023
+
+
+Meeting Reports
+
+ Oct-2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+				Data Standards			
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Achieving widespread adoption of internationally recognised data standards across the UK is at the core of the Alliances mission.
+Data standards are crucial to the success of health data science, providing consistency, comparability and reproducibility across diverse data assets and enabling robust and reliable research across different regions and countries
+However, the healthcare, research and data infrastructure is complex and fragmented  frequently lacking common standards and practices.
+Our focus is to facilitate the adoption of existing standards, for interoperability and usability of health-related data, only developing new standards where there is a clear unmet need.
+We work in collaboration with our members to achieve agreements on, and drive the adoption of, best practices for data curation, management, and analysis.
+This is essential to our objective ofmaximising the trustworthy use of health data for the benefit of the public.
+Our approach
+One of our principal mechanisms for the community development and evaluation ofdata standards is the Data Officers Group, chaired by, Professor of Digital Health, at University of Leeds, honorary consultant in medical oncology at Leeds Teaching Hospitals and Chief Clinical Data Officer at HDR UK.
+The Data Officers Group includes representatives from Alliance member and partner organisations across the UK and addresses key challenges in data curation, quality and management  identifying available solutions, and agreeing actions and priorities. There are currently three priority areas of work:
+
+Promoting and enabling adoption of the Observational Medical Outcome Partnership (OMOP) Common Data Model.
+:Focusing on recommendations for ethnicity coding standards.
+: Exploring data-enabled clinical trials.
+
+ 
+ if youre interested in joining these groups or to propose new areas of work.
+Recommendations and Outputs
+The Alliance is shaping data standards in many ways. Its papers and publications include:
+
+
+
+Output Type
+Publication Name
+Date Published 
+
+
+Data Officers Group Meeting Reports
+
+Sep-2023
+
+
+
+Jan-2024
+
+
+Data Usability
+
+Nov-2021
+
+
+
+Jun-2021
+
+
+
+Jun-2020
+
+
+Data Discovery
+
+Mar-2021
+
+
+
+Nov-2020
+
+
+
+Nov-2019
+
+
+
+Outputs from the work on common data models can be found 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+				Developing Technology Services			
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+The aim of this workstream is to support the convening of a network of technologists across the NHS, academia, policy and industry to align efforts, share tools, collaborate on shared components, drive adoption of recognised standards and accelerate trustworthy data use for research and innovation. This workstream also supports the continued development of the , a portal for data discovery and access.
+The Challenge
+Despite significant progress in recent years, access to and analysis of health data for research remains a lengthy and fragmented process. There are many technology solutions available to support researchers, including software programmes, tools, scripts, pipelines, platforms, and code, but they are dispersed across many organisations and groups working within this space, and theres often limited sharing and re-use of the solutions developed across the wider community.
+The Solution
+We are bringing together all these individual components through the convening of a technology ecosystem, embedding a collaborative approach to co-create novel solutions that promote open science and encourage interoperability. This will allow health data science to scale at a greater pace than ever before; transforming how researchers access and analyse health data and enabling them to rapidly deliver patient and public benefit.
+The role of the Alliance
+One of the Principles for Participation that member organisations agree to when joining the Alliance is adopting the  for scientific data management and stewardship. Alliance members are involved in development of key Gateway functions, as well as providing information on the datasets which can be discovered on the Gateway, and participate in specific initiatives and working groups to inform implementation of policy and technology standards.
+
+: Launched in 2020 as part of the Digital Innovation Hub Programme, the Gateway is a central location to discover health data and other resources vital for research. Alliance members are encouraged to publish metadata on the Gateway, which serves as a portal for dataset discovery and requesting access. Currently, 51% of Alliance members who function as data custodians share their metadata on the Gateway. NHS Englands Data for R&D Programme has pledged to utilise the Gateway as the  for the NHS Research SDE Network. This initiative is expected to further enhance the discoverability and accessibility of NHS data. Contact  to support with testing and co-development of the Gateway.
+: One of the most influential outputs of the Alliance to date has been the . This paper established the blueprint for trustworthy data access, linkage and research within the health sector and beyond. The document has been accessed over 11,000 times and its influence, alongside the Goldacre Review, on Data Access Policy within the NHS in England is evident through publications and implementation guidance.
+: The Researcher Registry is one of the  which aims to simplify decision-making processes when granting researchers access to sensitive health and administrative data. In line with the  Safe People principle, the aim is for a common standard and consistency across organisations, along with confidence in the accuracy of the data, to reduce the burden for both TREs/SDEs and researchers, enabling simpler, faster, more reliable decision-making. The Alliance is key to the development and wider adoption of the common standard. Contact  to get involved or learn more about this project.
+: HDR UK has developed the  as an implementation of the Alliance , to provide a best practice example of how information of approved data uses is shared and managed, and support data custodians to meet the principles of transparency, as outlined in the . To date, over 1000 data uses have been added to the Gateway data use register. Contact  to discuss implementation of the data use register standard.
+
+Recommendations and Outputs
+The Alliance is supporting the findability, accessibility, interoperability and reusability of data through the development of various tools and standards. Its papers and publications include:
+
+
+
+Output Type
+Publication Type
+Date Published
+
+
+Transparency of access and data use
+
+Feb 2022
+
+
+
+Jan 2022
+
+
+
+Jan 2022
+
+
+Data Standards
+
+Nov 2021
+
+
+
+Jun 2021
+
+
+
+Jun 2020
+
+
+Data Utility
+
+Nov 2020
+
+
+
+Nov 2020
+
+
+Metadata Specification
+
+Feb 2022
+
+
+
+Nov 2019
+
+
+Trusted Research Environments
+
+Dec 2021
+
+
+
+Jul 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+				Capacity Building			
+
+
+
+
+
+
+
+
+
+
+The Alliance and its members are striving to build capacity in health data research. While there are ongoing initiatives tackling skills gaps in data science, more work is needed to ensure the UK has the skilled and representative workforce it needs to flourish.
+There are several Alliance member organisations already involved in capacity-building initiatives, including:
+
+ provides a catalogue of data sources along with essential information that researchers need to know, such as security requirements, use restrictions, access requirements, timescales, to help researchers navigate their way through these factors.
+The  aims to improve health outcomes by enabling those who commission, deliver and receive healthcare to measure and improve our healthcare services. They provide an online or , which includes free to use education packages on subjects related to clinical audit and to healthcare quality improvement, and 
+ is a leader in educational design, delivery and quality assurance. Utilising the very best in technology enabled learning, organisational and leadership development, workforce and learning analytics and digital development, across the entire health and social care workforce and in every community in Scotland.
+
+The challenge
+Health data research faces a serious skills shortage, which hampers the UKs ambition to be a world leader in the field.
+The shift from the model of data release to data access via trusted research environments (TREs), has led to a growing demand for building capability to manage TREs, along with an increasing need to carry out federated analyses. There is also a gap in more general data management skills, such as data curation and pseudonymization, which needs to be addressed.
+At the same time there is serious under-representation of some socio-economic groups  for example from Black people.
+A diverse workforce, representative of the population it serves, is better equipped to carry out the research needed to improve healthcare and encourage innovation.
+Health data research is also a new and swiftly developing area, so it is essential to identify and fill skills gaps by providing ready access to high quality learning and training so people can enter the field or progress their careers.
+The solution
+Capacity Building is a core workstream for the Alliance  with a focus on addressing skills gaps influencing changes for improvement in education and professional development.
+Black Internship Programme
+We work collaboratively on valuable initiatives like the HDR UK  (BIP), aimed at addressing the skills gap in emerging black data scientists.
+Data Scientists
+Many Alliance members have acted as BIP hosts, offering paid summer placements that empower talented and motivated people to kickstart their careers. To date, 31% of the Alliance membership have hosted at least one intern.
+This joint initiative between the Alliance and HDR UK provides interns with hands on experience in carrying out a practical real-world project. It also gives hosts access to a pool of excellent potential recruits from diverse backgrounds.
+If you are interested in becoming a BIP host organisation please contact .
+TRE Capabilities
+The Alliance is also interested in exploring and identifying the requirements in skills, training and knowledge across TREs and Alliance data custodians to ensure they have the appropriate capability to meet the ongoing challenges and changes to technology in this sector.
+Contact us to get involved in shaping this workstream.
+Training Courses
+Alliance members contribute to the development of the  online training and learning platform, by providing expertise and co-producing useful resources and videos.
+HDR UK Futures offers expert-led bite-sized video-based courses in a wide range of subjects, so people can study wherever and whenever they like. Futures along with the other  opportunities (from apprenticeships, internships, scholarships and fellowships to online and in-person courses) enable health data science professionals to continually update their skills and knowledge.
+Our members, and their staff, also benefit from a wide range of professional development training and learning events and activities, many are .
+To keep in touch with the latest training and learning opportunities sign up for the monthly HDR UK Study and Train .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+				Alliance Outputs			
+
+					Read the outputs, impacts and papers from across the Alliance.				
+
+
+
+
+
+
+
+
+
+The Alliance has created alignment around data custodian standards, each with buy-in from the member organisations. These standards are fundamental to enabling a collaborative and coordinated approach to health data across the UK, and include:
+
+
+
+
+
+
+
+                        Usable Data                    
+
+
+
+
+
+ 
+
+
+
+
+
+                                12 October 2023                            
+
+
+
+
+ 
+
+
+
+
+
+                        February 2022                    
+
+
+
+
+ 
+
+
+
+
+
+                        November 2021                    
+
+
+
+
+ 
+
+
+
+
+
+                        June 2021                    
+
+
+
+
+ 
+
+
+
+
+
+                        March 2021                    
+
+
+
+
+ 
+
+
+
+
+
+                        November 2020                    
+
+
+
+
+ 
+
+
+
+
+
+                        June 2020                    
+
+
+
+
+ 
+
+
+
+
+
+                        November 2019                    
+
+
+
+
+
+
+
+
+                        Trust and Transparency                    
+
+
+
+
+
+ 
+
+
+
+
+
+                        February 2022                    
+
+
+
+
+ 
+
+
+
+
+
+                        January 2022                    
+
+
+
+
+ 
+
+
+
+
+
+                        January 2022                    
+
+
+
+
+ 
+
+
+
+
+
+                        July 2021                    
+
+
+
+
+ 
+
+
+
+
+
+                        July 2021                    
+
+
+
+
+ 
+
+
+
+
+
+                        June 2021                    
+
+
+
+
+ 
+
+
+
+
+
+                        May 2021                    
+
+
+
+
+
+
+
+
+                        Technology Services                    
+
+
+
+
+
+ 
+
+
+
+
+
+                        December 2021                    
+
+
+
+
+ 
+
+
+
+
+
+                        July 2020                    
+
+
+
+
+
+
+
+
+                        Capacity Building                    
+
+
+
+
+
+ 
+
+
+
+
+
+                        July 2021                    
+
+
+
+
+
+
+
+
+                        Alliance Board & Council meetings                    
+
+
+
+
+
+ 
+
+
+
+
+
+                        Jan 2020 - Current                    
+
+
+
+
+
+
+
+
+                        Alliance Community Bulletin                    
+
+
+
+
+
+ 
+
+
+
+
+
+                        Jan 2023 - Current                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+				News & Events			
+
+
+
+
+
+
+
+
+
+Use the filters below to search for your relevant news and events.If you would like to submit any news stories or events, please .
+
+
+
+
+
+
+
+
+
+
+                            News & Events                        
+
+
+
+
+
+
+
+                Warning
+            
+
+                You seem to have JavaScript disabled!
+            
+
+                Filters and search might not work correctly without it.
+            
+
+
+ 
+
+
+
+                    Results for ''
+                
+
+
+
+ 
+
+ 
+
+ 
+
+
+                        Apply filters
+                    
+
+                        Clear filters
+                    
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+Latest first
+Oldest first
+AZ
+ 
+
+
+
+
+ 
+
+ 
+
+
+                        News announcement                    
+
+
+
+
+                            24 April 2024                        
+
+                        Today, we are delighted to announce that three more organisations have signed up to join the Alliance.                    
+
+
+
+
+ 
+
+
+                        News announcement                    
+
+
+
+
+                            24 April 2024                        
+
+                        Health Data Research UK (HDR UK) is launching a funding call to establish a co-ordination centre for a pilot real-world evidence network that will utilise data gathered from multiple UK sources.                     
+
+
+
+
+ 
+
+
+                        Opinion                    
+
+
+
+
+                            27 February 2024                        
+
+                        From its founding principles to embracing international standards, we look back on five incredible years of partnership and impact from the UK Health Data Research Alliance.                    
+
+
+
+
+ 
+
+
+                        News story                    
+
+
+
+
+                            27 February 2024                        
+
+                        The UK Health Data Research Alliance is marking five remarkable years of progress and commitment to maximising the benefits of health data research for all.                    
+
+
+
+
+ 
+
+
+                        News story                    
+
+
+
+
+                            23 January 2024                        
+
+                        HDR UK welcomes the Information Commissioners Office's (ICO) draft guidance on transparency in the health and social care sector.                    
+
+
+
+
+ 
+
+
+                        News                    
+
+
+
+
+                            23 January 2024                        
+
+                        Today, we are delighted to announce that seven more organisations have signed up to join the Alliance to support its goal of championing the responsible use of health relevant data for research at scale.                    
+
+
+
+
+ 
+
+
+                        News announcement                    
+
+
+
+
+                            30 October 2023                        
+
+                        A new initiative launched by Health Data Research UK (HDR UK) and funded by the Medical Research Council (MRC) will enable members of the UK Health Data Research Alliance and other custodians of health data to improve the transparency of processes for accessing health datasets for research.                    
+
+
+
+
+ 
+
+
+                        News                    
+
+
+
+
+                            17 October 2023                        
+
+                        This month, the UK Health Data Research Alliance demonstrates its mission to continue expanding and diversifying by welcoming seven new members and for the first time, two patient and public representative bodies.                     
+
+
+
+
+ 
+
+
+                        Opinion                    
+
+
+
+
+                            2 October 2023                        
+
+                        Personal reflections from two key contributors to the delivery and success of this pioneering programme.                    
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+				Join the Alliance			
+
+					The UK Health Data Research Alliance is anindependent alliance of data providers, custodians and curatorsdedicated to improving human health by maximising the potential of multiple forms of data at scale.				
+
+
+
+
+
+
+
+
+
+We are an Alliance of leading health, care and research organisations united to accelerate progress in understanding causes of disease, public health, clinical trials andfront line care by enabling widespread access to different modalities of data such as clinical, administrative, imagingand genomicand other molecular data, at UK-wide scale.
+In order to achieve this goal, theUK Allianceorganisations will work collectively to:
+
+Bring together the research, clinical, and disease advocacy communities and the private sector to support and promote the responsible sharing of health data for research and innovation.
+Collaborate to create a versatile information platform that is open and accessible, and provides common standards, formats and tools to stakeholders in the health data research community.
+Publish a series of Green and White papers on key work areas for consultation and to help shape developments to create a responsible and ethical infrastructure for health data research and innovation in the UK.
+Grow the Alliance., it is imperative that, over time, the UK Health Data Research Alliance grows to include as many custodians of data relevant to our research and innovation as possible.
+
+By becoming a memberof the UKHealth Data Research Allianceyour organisation will benefit by:
+
+Actively shaping the design and delivery of a UK-wide federated health data research landscape
+Being part of a single, powerful voice to address common barriers to the scale-up and adoption of health data research innovations
+Retaining freedom to develop new products and services, with a focus on collaboration at the interfaces
+
+We ask that all members of the UK Health Data Research Alliance:
+
+Contribute substantially to the capabilities and capacity of the UK Health Data Research Alliance by contributing expertise and helpingtoshape the regulatory environment
+Encourage the availability and use of data for research and innovation through the
+Demonstrate the principle of transparency by publishing a register of active projects accessing the data under their custodianship and accepting new data access requests via the Gateway.
+
+
+For more information on joining the UK Health Data Research Alliance, please review the  and the . To express your interest in becoming a member, please complete the below form and the team will be in touch shortly:
+
+
+
+
+
+
+
+	Notice: JavaScript is required for this content.
+
+
+
+
+
+
+
+
+
+
+
+Find out more about the Alliance workstreams:
+
+
+
+
+Health Data Research  services and onboarding
+
+ (PPIE)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ | 
+
+
+
+
+
+
+
+
+
+
+
+				BREATHE			
+
+
+
+
+
+
+
+
+
+BREATHE is the Health Data Research Hub for Respiratory Health.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ | 
+
+
+
+
+
+
+
+
+
+
+
+				Lancashire & South Cumbria NHS Foundation Trust			
+
+					Lancashire & South Cumbria NHS Foundation Trust (LSCFT) provides health and wellbeing services for the whole of Lancashire and South Cumbria with a population of around 1.8 million people.				
+
+
+
+
+
+
+
+
+
+The Trust specialises in secure, perinatal, inpatient and community mental health and learning disability services, including services for children and young people. Additional services provided include, community nursing, health visiting and a range of therapy services. Wellbeing services provided include smoking cessation and healthy lifestyle services. 
+Care and support is provided in a range of settings. Service provision is delivered to meet the physical and mental health needs of the local population. The Trust has 25 CQC registered locations.
+Chris Oliver, Chief Executive, Lancashire & South Cumbria NHS Foundation Trust says:Lancashire & South Cumbria NHS Foundation Trust are extremely excited to join the UK Health Data Research Alliance. By working with the Alliance we hope to develop and facilitate novel, national-level research and development activity through provision of access to routinely collected mental health data. Membership will clearly help us in our efforts to build collaborations that enable innovative use of data science to significantly advance our knowledge of and treatment for mental health conditions, ultimately leading to major improvements in services.
+Datasets
+As a Trust, we collect aggregated monthly data in line with the two key nationally mandated data sets of the Mental Health Services Data Set (MHSDS) and Community Services Data Set (CSDS). These datasets form the basis of the majority of data analysis within LSCFT, but further bespoke datasets with additional aggregated data (including aggregated data related to services users) is frequently produced.Our growing portfolio of research that utilises various types of routine data includes projects that are focused on studies of access to mental health services, young people and children mental health care, palliative care, relationship between physical and mental health, alcohol use and mental health, and inequalities.
+Further Information
+Visit:
+Facebook: 
+Twitter:
+Instagram: 
+YouTube: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ | 
+
+
+
+
+
+
+
+
+
+
+
+				Clinical Practice Research Datalink (CPRD)			
+
+
+
+
+
+
+
+
+
+Clinical Practice Research Datalink (CPRD) is a real-world research service supporting retrospective and prospective public health and clinical studies. CPRD is jointly sponsored by theMedicines and Healthcare products Regulatory Agencyand theNational Institute for Health Research, as part of the Department of Health and Social Care.
+CPRD collects de-identified patient data from a network of GP practices across the UK. Primary care data are linked to a range of other health related data to provide a longitudinal, representative UK population health dataset.
+CPRD data are used worldwide by regulators, academics and industry researchers, resulting in more than 2,300 peer-reviewed publications.
+Datasets
+The CPRD database holds anonymised data on more than 40 million patients, including 13million currently registered patients. These primary care health records from approximately 20% of the UK population are updated every day.
+CPRD data can be routinely linked to 17 secondary care and other health and area-based datasets.
+
+
+Further Information
+Find out how research using CPRD data has informed drug safety guidance and clinical practice at .
+For more information about CPRDs high quality data and world-leading research services visit 
+Call: 020 3080 6383
+Follow: X (formerly Twitter) 
+
+
+
+
+
+
+
+                        Work that CPRD has been involved in:                     
+
+
+
+
+
+ 
+
+
+                        Project                    
+
+
+
+
+                        Alliance members are committed to being transparent around their governance processes for accessing data and the approved uses of that data. As such, publishing a register of projects, studies and organisations that have used data under their custodianship is a vital demonstration of this. 
+
+The work of the Alliance...                    
+
+
+
+
+ 
+
+
+                        News story                    
+
+
+
+
+                            31 July 2020                        
+
+                        The UK Health Data Research Alliance Board agreed to move beyond the Green Paper phase of the Trusted Research Environment (TRE) programme at its meeting on 23 July 2020.
+We are now pleased to publish our updated paper which is the result of a collaborative community effort. There was agreement in the concept and...                    
+
+
+
+
+ 
+
+
+                        News story                    
+
+
+
+
+                            8 February 2019                        
+
+                        The NHS in England, Scotland and Wales along with Health and Social Care Northern Ireland, NHS Digital, Genomics England, Health Data Research UK, Public Health England and Clinical Practice Research Datalink (CPRD) announced today that they will create a non-profit association to accelerate progress in medicine and health.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ | 
+
+
+
+
+
+
+
+
+
+
+
+				Guy's and St Thomas' NHS Foundation Trust			
+
+					Guy's and St Thomas' provides 2.6 million patient contacts in acute and specialist hospital services and community services every year. As one of the biggest NHS trusts in the UK, with an annual turnover of almost 1.6 billion, we employ around 17,100 staff.				
+
+
+
+
+
+
+
+
+
+In 2018/19 we had over 550 studies running across a range of medical conditions,. During 2018/19 over 19,500 people took part in research studies at Guys and St Thomas.
+Guys and St Thomas is part of , a collaboration between Kings College London, and Guys and St Thomas, Kings College Hospital and South London and Maudsley NHS Foundation Trusts.
+At GSTT, we have several datasets that are available for research. These include Hospital Episode Statistics (HES), and NIHR Health Informatics Collaborative (HIC), which are detailed below.
+HES is a database containing details of all admissions, A&E attendances and outpatient appointments at NHS hospitals in England. Data is collected during a patients time at hospital as part of the Commissioning Data Set (CDS). This is submitted to NHS Digital for processing and is returned to healthcare providers as the Secondary Uses Service (SUS). Each HES record contains a wide range of information about an individual patient admitted to an NHS hospital, including clinical information, patient demographics, administrative information and geographical information.
+Benefits of HES datasets include:
+
+monitoring trends and patterns in NHS hospital activity
+assessing effective delivery of care
+supporting local service planning
+providing the basis for national indicators of clinical quality
+revealing health trends over time
+informing patient choice
+determining fair access to health care
+developing, monitoring and evaluating government policy
+supporting NHS and parliamentary accountability
+
+The HIC brings together all NHS trusts with NIHR Biomedical Research Centres (BRCs) to make NHS clinical data more readily available to NHS trusts and researchers. GSTT leads on the Renal Transplantation theme. This includes capturing clinical, laboratory and demographic data from all patients admitted for a kidney transplant between 1st of January 2005 and onwards, for patients who are over 16 from four BRCs. All data is routinely collected as part of clinical care.
+Benefits of HIC datasets are:
+
+More effective use of electronic patient records
+Improving the ability to draw comparisons from research and analysis
+Making information held easier to find and use
+Better opportunities to link with other public organisations, charities, academic organisations and industry to improve patient outcomes.
+
+All data available for research is completely anonymised.
+Kate Blake, Director of Research Strategy at Guys and St Thomas NHS Foundation Trust, said: We are thrilled to be joining the UK Health Data Research Alliance. Guys and St Thomas is one of the leading Trusts for research in the country, and we look forward to being able to share best practice and solutions with colleagues at institutions across the UK. Being part of the Alliance is an important part of our ongoing work to ensure the highest possible standards are deployed when using our data.
+
+
+
+
+
+
+                        Work that GSTT has been involved in:                     
+
+
+
+
+
+ 
+
+
+                        Project                    
+
+
+
+
+                        Alliance members are committed to being transparent around their governance processes for accessing data and the approved uses of that data. As such, publishing a register of projects, studies and organisations that have used data under their custodianship is a vital demonstration of this. 
+
+The work of the Alliance...                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ | 
+
+
+
+
+
+
+
+
+
+
+
+				Nottingham University Hospitals NHS Trust			
+
+
+
+
+
+
+
+
+
+Based in the heart of Nottingham and providing services to over 2.5 million residents of Nottingham and its surrounding communities, this is one of the biggest and busiest acute hospitals in England.
+The trust is at the forefront of many research programmes and new surgical procedures. In partnership with The University of Nottingham they host a Biomedical Research Centre carrying out vital research into hearing, digestive diseases, respiratory, musculoskeletal disease, mental health and imaging.
+Datasets
+Hosted by Nottingham University Hospital, the is improving the health of millions of people with common diseases like asthma and arthritis. The centre drives innovation in experimental science and translate research into breakthrough treatments, new technologies and advanced medicines which benefit patients. At the heart of the Nottingham BRC is internationally renowned expertise in.
+The BRC is able to offer access to a population of over 4 million with ethnic and socioeconomic diversity, including well-characterised patient cohorts.
+Further Information
+
+NUH Research 
+Nottingham Biomedical Research Centre 
+Nottingham University Hospitals: 
+
+For more information, contact the Director of the NIHR Nottingham Biomedical Research Centre at  or Managing Director of Research and Innovation at NUH: 
+Follow: Twitter @nottmhospitals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ | 
+
+
+
+
+
+
+
+
+
+
+
+				Optimum Patient Care			
+
+
+
+
+
+
+
+
+
+Optimum Patient Care Global (OPCG) (Global research and quality improvement programmes)
+OPCG was established in 2005 and provides a range of services to translate research into clinical practice and oversee new sustainable global data sources e.g., International Severe Asthma Register (ISAR). OPCG works in collaboration with health care professionals and organisations across the world. OPCG consists of a team of data scientists, medical scientists, database experts and business systems experts to facilitate improvement in the diagnosis, treatment and management of chronic diseases within primary care. 
+Optimum Patient Care Research Database (OPCRD) Summary
+The Optimum Patient Care Research Database (OPCRD) is a United Kingdom based real-world, longitudinal research database, which is approved by the NHS HRA Research Ethics Committee (NHS HRA REC ref: 20/EM/0148) to provide anonymised data for research purposes. OPCRD has been in operation for 13 years and currently holds de-identified data for over 19.9 million unique patients, from GP electronic health records from over 1,100 primary care practices. The current number of registered patients actively contributing data to OPCRD is 10.1 million patients, approximately 15% of the current UK population. This data is further enhanced through the collection of patient reported (questionnaire) information collected as part of the OPC quality improvement (QI) and research support services provided as a no-cost service to GP practices in the UK.
+OPCRD is also one of the fastest growing UK databases, growing at over 3 million patients per year, with a total of 15.6 million patients added in the past 5 years.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ | 
+
+
+
+
+
+
+
+
+
+
+
+				UK Dementia Research Institute (UK DRI)			
+
+
+
+
+
+
+
+
+
+Theis the UKs leading biomedical institute dedicated to neurodegenerative disease, and to changing the lives of the millions affected by dementia worldwide. Hosted across six of the UKs leading universities, our scientists, clinicians and technical staff are at the forefront of efforts to find new diagnostics, technologies, and treatments for dementia.
+Prof Caleb Webber, UK Dementia Research Institute Director of Data Science and Informatics, said:The UK Dementia Research Institute is thrilled to join the UK Health Data Research Alliance. The UK DRI is a data-driven institute, and joining the Alliance will support us in our goal to equip every researcher with the knowledge to interpret and exploit research data to its fullest potential. This collaboration will hugely help us on our quest to find new treatments and technology to tackle the challenge of dementia.
+For more information visit: 
+Follow us on Twitter: 
+Find us on LinkedIn: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ | 
+
+
+
+
+
+
+
+
+
+
+
+				Human Fertilisation and Embryology Authority (HFEA)			
+
+					The HFEA is the UKs independent regulator of fertility treatment and research using human embryos.				
+
+
+
+
+
+
+
+
+
+Set up in 1990 by the Human Fertilisation and Embryology Act, the HFEA is responsible for licensing, monitoring and inspecting fertility clinics to ensure patients and everyone born through fertility treatment receives high quality care. The HFEA is an arms length body of the Department of Health, working independently from Governmentproviding free, clear andimpartial information about fertility treatment, clinicsandegg, sperm and embryo donation. The HFEA is funded by licence fees, IVF treatment fees and a grant from UK central government.
+About our data
+By law, every fertility clinic in the UK has a duty to submit data to us about fertility treatments taking place and babies born as a result. We hold this data on a secure database known as The Register, which isthe longest running database of its kind in the world. We collect data on more than 70,000 fertility treatments each year, ranging from IVF, to donor insemination, egg freezing and more. We use this data to improve patient care and help researchers to conduct world-class research, whilst protecting the confidentiality of patients.
+
+Peter Thompson, Chief Executive of the Human Fertilisation and Embryology Authority, said:
+We are delighted to be joining the UK Health Data Research Alliance, and look forward to working with the other Alliance members to help improve research into fertility and ultimately improve patient care. As the UK fertility regulator we hold an unique set of data on our Register, which isthe longest running database of its kind in the world.
+There have been many advances in the development of fertility treatment since the birth of the first IVF baby Louise Brown over 40 years ago. Yet, the IVF sector, both in the UK and elsewhere, needs more high quality, evidence-based research to improve outcomes for patients. Being part of the Alliance will make our data much more accessible and allow researchers to look into much needed new developments and issues to improve fertility treatment for the benefit of patients.
+For more information visit,  or follow us on 
+
+
+
+
+
+
+                        Work that the HFEA has been involved in:                     
+
+
+
+
+
+ 
+
+
+                        Project                    
+
+
+
+
+                        Alliance members are committed to being transparent around their governance processes for accessing data and the approved uses of that data. As such, publishing a register of projects, studies and organisations that have used data under their custodianship is a vital demonstration of this. 
+
+The work of the Alliance...                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ | 
+
+
+
+
+
+
+
+
+
+
+
+				British Regional Heart Study (BRHS)			
+
+					The British Regional Heart Study (BRHS) is a long-term cohort investigating the causes of cardiovascular disease (CVD) in men and seeking to understand the effect of co-morbidities on CVD & ageing.  				
+
+
+
+
+
+
+
+
+
+The BRHS provides a geographically and socially representative cohort for the prospective investigation of CVD in British men spanning over four decades. We are immensely grateful to the BRHS participants, to the BRHS general practices for their continued support, to our collaborators and to the BRHS research team members past and present.
+Established in 1978-80, the British Regional Heart Study (BRHS) study has benefited from four repeated assessments of the men at ages in middle (40-59 years) and later life (60-79, 72-91 and 79-98 years). Participants have been followed up for >40 years at four timepoints in middle-age through to very old ages for a wide range of health outcomes, including all-cause mortality and cardiovascular disease (CVD) morbidity, physical disability and frailty using GP records and participant questionnaires.
+This unique ageing cohort with extensive phenotyping, genotyping and detailed follow-up will contribute and allow studying healthy cardiovascular ageing including prevention of CVD, heart failure, stroke, diabetes and related disabilities (frailty, dementia) in older age and to examine other key health outcomes related to CVD and associated with healthy ageing, such as physical function, disability, frailty, dental health, malnutrition and sarcopenia.
+Goya Wannamethee, BRHS Director said, The BRHS is delighted to become a member of the Health Data Research Alliance. We are keen to make our research data accessible to researchers so that it can be fully utilized for the study of cardiovascular disease prevention and healthy cardiovascular ageing.
+Website: 
+Follow us on X (formerly Twitter): 
+
+
+
+
+
+
+
+
+ 
+
+
+                        Page                    
+
+
+
+
+                        University Hospitals Bristol and Weston NHS Foundation Trust was formed on 1 April 2020 following the merger of University Hospitals Bristol NHS Foundation Trust and Weston Area Health NHS Trust.                    
+
+
+
+
+ 
+
+
+                        News announcement                    
+
+
+
+
+                            24 April 2024                        
+
+                        Today, we are delighted to announce that three more organisations have signed up to join the Alliance.                    
+
+
+
+
+ 
+
+
+                        News announcement                    
+
+
+
+
+                            24 April 2024                        
+
+                        Health Data Research UK (HDR UK) is launching a funding call to establish a co-ordination centre for a pilot real-world evidence network that will utilise data gathered from multiple UK sources.                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ | 
+
+
+
+
+
+
+
+
+
+
+
+				Nottinghamshire Healthcare NHS Foundation Trust			
+
+
+
+
+
+
+
+
+
+ provides integrated healthcare services, including mental health, intellectualdisability and physical health services. Over 9000 dedicated staff provide these services in a variety of settings, ranging from the community through to acute wards, as well as secure settings. The Trust manages two medium secure units, Arnold Lodge in Leicester and Wathwood Hospital in Rotherham, and the high secure Rampton Hospital near Retford. It also provides healthcare in prisons across the East Midlands.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+				Get in touch			
+
+
+
+
+
+
+
+
+
+The UK Health Data Research Alliance is an open and inclusive association with an overarching goal to accelerate progress in in biomedicine, health and care by encouraging widespread access to structured and unstructured clinical, administrative, imaging, genomic and other molecular data.
+If you would like to contact us or find out how to get involved in our projects, please get in touch below:
+UK Health Data Research Alliance Secretariat
+Health Data Research UK (Central Office)
+Gibbs Building
+215 Euston Road
+London
+NW1 2BE
+Email: 
+
+
+
+
+
+
+
+	Notice: JavaScript is required for this content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+				UK Health Data Research Alliance Brand Identity			
+
+
+
+
+
+
+
+
+
+Our brand guidelines detail our identity at UK Health Data Research Alliance and how this should be applied across all our communications, both internal and external. They are in place to help colleagues understand how we want to communicate our brand and how to maintain a consistent and professional brand identity.
+Our logo can be downloaded  and our brand guidelines .
+For further details, guidance and artwork please contact our Comms Team by email: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+				Terms and Conditions			
+
+
+
+
+
+
+
+
+
+Who we are and how to contact us
+This site is operated by Health Data Research UK (HDR UK). HDR UK (the convenor of UK Health Data Research Alliance) is a limited company registered in England and Wales under company number 10887014 and its registered office is at 215 Euston Road, London, England, NW1 2BE.
+Acceptance of Terms and Conditions
+Access to and use of this site is provided by HDR UK subject to the following:
+
+By using this site you confirm that you accept the following Terms and Conditions and that you agree to comply with them. The Terms and Conditions take effect on the date of your first use of the site.
+If you do not agree to these Terms and Conditions, you must not use our site.
+
+Other Terms and Conditions that apply to you
+The following additional terms also apply to your use of our site:
+
+, which sets out how we will use your personal data.
+, which sets out information about the cookies on our site.
+
+Changes to Terms and Conditions
+
+HDR UK reserves the right to amend these Terms and Conditions from time to time. When you use this site, please check the Terms and Conditions. By continuing to use the site after amendments are made you confirm that you accept the amendments and that you agree to comply with them.
+
+Disclaimer
+
+Views and opinions of non-HDR UK groups or individuals that appear on this site do not necessarily reflect the views of HDR UK.
+HDR UK does not endorse or recommend any commercial products, processes or services linked from or provided on this site.
+This site and the information, names, images, pictures, logos and icons contained therein are provided AS IS and on an AS AVAILABLE basis without any representation or endorsement made and without warranty of any kind.
+In no event will HDR UK or any of its member/partner organisations be liable to you for any loss or damage, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, even if foreseeable, arising under or in connection with use of, or inability to use our site or use of or reliance on any content displayed on our site, including, without limitation, any indirect or consequential loss or damage, loss of profits, sales, business or revenue, loss of anticipated savings, loss or business opportunity, goodwill or reputation or business interruption.
+HDR UK does not warrant that the service continuity of this site will be uninterrupted or error-free, nor that this site or the server that makes it available are free of viruses, bugs or defects.
+
+External links
+
+Links from this site to other external sites are provided for convenience and information only. HDR UK and its members/partners do not endorse the content or services delivered through these external sites and are not responsible for their availability, reliability or accuracy. HDR UK have no control over the content of these external sites. Permission to reproduce information from these external sites may be required from the external site provider.
+The existence of a link from any organisations site to HDR UKs site does not imply that HDR UK endorses the activities or views of that organisation.
+We only link to sites (charity, business or otherwise) if they fulfil the following two conditions: HDR UK has an existing partnership with the organisation and/or the link is relevant to the work of HDR UK.
+
+Copyright restrictions
+
+HDRUK is the owner or the licensee of all intellectual property rights in this site, and in the material published on it.
+You may print off one copy, and may download extracts, of any page(s) from our site for your personal use and you may draw the attention of others within your organisation to content posted on our site.
+You must not modify the paper or digital copies of any materials you have printed off or downloaded in any way, and you must not use any illustrations, photographs, video or audio sequences or any graphics separately from any accompanying text.
+Our status (and that of any identified contributors) as the authors of content on our site must always be acknowledged.
+You must not use any part of the content on our site for commercial purposes without obtaining a licence to do so from us or our licensors.
+If you print off, copy or download any part of our site in breach of these Terms and Conditions, your right to use our site will cease immediately and you must, at our option, return or destroy any copies of the materials you have made.
+
+Restrictions on your use of the site
+
+You agree to use this site only for lawful purposes, and in a manner which does not infringe the rights of, or restrict, or inhibit the use and enjoyment of this site by any third party. Such restriction includes, without limitation, conduct which is unlawful or which may harass or cause distress or inconvenience to any person and the transmission of offensive material or disruption of normal flow of dialogue within this site.
+You must not misuse our site by knowingly introducing any material that contains viruses, Trojan horses, worms, logic bombs, time-bombs, keystroke loggers, spyware, adware or other harmful programs or material that is malicious or technologically harmful. You must not attempt to gain unauthorised access to our site, the server on which our site is stored or any server, computer or database connected to our site. You must not attack our site via a denial-of-service attack or a distributed denial-of-service attached. By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990. We will report any breach to the relevant law enforcement authorities and we will co-operate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use our site will cease immediately.
+
+Accuracy of information
+
+Neither HDR UK nor its members will be liable for any losses or damage that may result from use of the site as a consequence of any inaccuracies in, or any omissions from, the information, which it may contain.
+We have made reasonable efforts to ensure that the information is accurate at the time of inclusion. However, we make no representations, warranties or guarantees, whether express or implied, that the information on this site is free from technical inaccuracies or typographical errors or that the content is accurate, complete or up to date. We are not liable for any error or omission in, or any failure to update, the information on this site and any decisions based on the information are your sole responsibility.
+
+Other important terms
+
+If any of these Terms and Conditions should be determined to be illegal, invalid or otherwise unenforceable by reason of the laws of any state or country in which these Terms and Conditions are intended to be effective, then to the extent to and within the jurisdiction in which that Term and Condition is illegal, invalid and unenforceable, it shall be severed and deleted from these Terms and Conditions and the remaining Terms and Conditions shall survive, remain in full force and continue to be binding and enforceable.
+If you are a consumer, please note that these Terms and Conditions, their subject matter and their formation, are governed by English law. We both agree that the courts of England and Wales will have exclusive jurisdiction except that if you are a resident of Northern Ireland you may also bring proceedings in Northern Ireland, and if you are a resident of Scotland, you may also bring proceedings in Scotland. If you are a business, these Terms and Conditions, their subject matter and their formation (and any non-contractual disputes or claims) are governed by English law. We both agree to the exclusive jurisdiction of the courts of England and Wales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+				Privacy policy			
+
+
+
+
+
+
+
+
+
+PURPOSE OF THIS PRIVACY POLICY
+This privacy policy provides information on how Health Data Research UK (HDR UK we, us or our) collects and processes your personal data. It also describes your data protection rights, including a right to object to some of the processing which HDR UK carries out. More information about your rights, and how to exercise them, is set out in the What rights do I have? section.
+DATA CONTROLLER
+HDR UK is a limited company registered in England and Wales under company number 10887014. Its registered office is at 215 Euston Road, London, England, NW1 2BE.
+HDR UK, as the convenor of the UK Health Data Research Alliance, is the controller and responsible for your personal data.
+We have a data protection manager who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your legal rights as set out in this privacy policy, please contact: 
+DATA WE COLLECT ABOUT YOU
+Personal data means any information about an individual from which that person can be identified. We may collect, use, store and transfer different kinds of personal data:
+
+Identity data including first name, last name, job title and similar identifier, sector and ethnicity information where you chose to provide it to us as part of our equal opportunities monitoring
+Contact data such as your email address, address, telephone number and social media address.
+Communications Data including your communication preferences.
+Technical datasuch as internet protocol (IP) address, browser type and version and operating system and platform. Please see ourfor further details.
+
+HOW IS YOUR PERSONAL DATA COLLECTED?
+We use different methods to collect data from you including through:
+Direct interactions. You may give us your personal data by filling in the enquiry form on our website, corresponding with us by phone, email, social media or otherwise, when you sign up to our newsletter or register for an event, training session or meeting.
+Automated interactions. As you interact with our website we may collect technical data by using cookies or similar technologies. Please see ourfor further details.
+Third parties. When you register for our events or complete a survey via a third-party platform such as Eventbrite or SurveyMonkey, we will obtain your registration details from the platform operator.
+HOW WE USE YOUR PERSONAL DATA AND THE PURPOSE FOR WHICH WE WILL USE IT
+We will use your personal data for the following purposes:
+To conduct our business and pursue our legitimate interests, in particular:
+
+To respond to any enquiry you make, we will use your identity data and contact data.
+We monitor use of our websites, and use your information to help us monitor, improve, and protect our products, content, services and websites, both online and offline.
+In connection with legal claims, compliance, regulatory and investigative purposes as necessary (including disclosure of such information in connection with legal process or litigation).
+To monitor the representation of HDR UK Voices network, where you chose to provide information relating to ethnicity and gender.
+
+Where you give us your consent:
+
+To provide you with our information and updates about our work, new services, and developments that you may be interested in via our newsletter and other communications such as letters and event invitations, we will use your identity data and contact data.
+To improve our website, we will use your technical data.
+
+For purposes which are required by law, in response to requests by government or law enforcement authorities conducting an investigation.
+Withdrawing consent or otherwise objecting to direct marketing
+Wherever we rely on your consent, you will always be able to withdraw that consent, although we may have other legal grounds for processing your data for other purposes, such as those set out above. In some cases, we are able to send you direct marketing without your consent, where we rely on our legitimate interests. You have an absolute right to opt-out of direct marketing, or profiling we carry out for direct marketing, at any time. You can do this by following the instructions in the communication where this is an electronic message, or by contacting us using the details set out above.
+DISCLOSURE OF PERSONAL DATA
+We may share your personal data with external third-party system providers who provide services including IT, online training, system administration and cloud-based software services. We may also share your contact information with external third-party organisations which we co-run patient and public involvement activities with or arrange events or training on behalf of HDR UK.
+We will not share your personal data with other third parties, unless you give your consent for us to do so, and we will not share your information with any other organisations for their own marketing, market research or commercial purposes.
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+We may share your personal information with regulators or other authorities if we have a legal obligation to do so.
+If HDR UK is transferred or integrated with another business, your details will be disclosed to our advisers and the other partys advisors.
+INTERNATIONAL TRANSFERS
+Some of our external third-party system providers are based in the United States or other countries outside the UK and EEA so their processing of your personal data will involve a transfer of data. Whenever we transfer your personal data out of the UK and EEA, we ensure a similar degree of protection is afforded to that personal data by ensuring at least one of the following safeguards is implemented:
+
+We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission.
+Where we use certain service providers in countries which have not been deemed to provide an adequate level of protection, we will use specific contracts approved by the European Commission which give personal data the same protection it has in the UK and Europe. A copy of this can be provided for your review on request to the contact details below.
+
+DATA RETENTION
+We will only retain your personal data for as long as reasonably necessary to fulfil the purposes we collected it for. Where we process personal data for marketing purposes or with your consent, we process the data until you ask us to stop and for a short period after this (to allow us to implement your requests). We also keep a record of the fact that you have asked us not to send you direct marketing or to process your data so that we can respect your request in future.
+The lifespan of the cookies we use is explained in our .
+YOUR LEGAL RIGHTS
+Under certain circumstances, you have rights under data protection laws in relation to your personal data, including:
+
+Request access to your personal data(commonly known as a data subject access request). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it. 
+Request correction of your personal data. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us. 
+Request erasure of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request. 
+Object to processing of your personal data. This enables you to object to processing of your personal data if you feel it impacts on your fundamental rights and freedoms or if we are using it for direct marketing purposes. 
+Request restriction of processing your personal data. This enables you to ask us to suspend the processing of your personal data in a number of different scenarios, such as where you want us establish the accuracy of the data. .
+Request transfer of your personal data. This enables you to request the transfer of your personal data to a third party. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you. 
+Right to withdraw consent. This enables you to withdraw your consent that we are relying on to process your personal data. If you withdraw your consent, we may not be able to provide certain services to you. We will advise you if this is the case at the time you withdraw your consent.
+
+If you wish to exercise any of these rights, pleasecontact DataProtection@hdruk.ac.uk. You will not have to pay a fee to access your personal data (or to exercise any of the other rights).
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response. We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+These rights may be limited, for example if fulfilling your request would reveal personal data about another person, or if you ask us to delete information which we are required by law or have compelling legitimate interests to keep. If you have unresolved concerns, you have the right to complain to the Information Commissioner, the UKs data protection authority.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Follow us on social media                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ UKHDRA 2024. All rights reserved.| Design and development by 
+
+
+
+
+
+
+
+
+
+
+
+
