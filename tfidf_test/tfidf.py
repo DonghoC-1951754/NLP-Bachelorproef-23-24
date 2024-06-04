@@ -27,6 +27,15 @@ def get_tfidf_matrix():
                 documents.append(data)
     # Fit the vectorizer to the documents and transform the documents to TF-IDF matrix
     tfidf_matrix = vectorizer.fit_transform(documents)
+
+    # Get the IDF scores
+    idf_scores = vectorizer.idf_
+    feature_names = vectorizer.get_feature_names_out()
+    idf_dict = dict(zip(feature_names, idf_scores))
+    word = 'arwen'
+    idf_score = idf_dict.get(word, None)
+    print(f"The IDF score for '{word}' is {idf_score}")
+
     # Get the TF-IDF values as a dense matrix
     dense_tfidf_matrix = tfidf_matrix.toarray()
     # Print the TF-IDF matrix
@@ -50,19 +59,9 @@ def test_tfidf():
     ])
     fig.update_layout(width=700)
     fig.show()
-    # dense_test_tfidf_matrix = test_tfidf_matrix.toarray()
-    # print("Test TF-IDF Matrix:")
-    # print(dense_test_tfidf_matrix)
 
 
 
 if __name__ == "__main__":
-    # get_tfidf_matrix()
-    test_tfidf()
-#
-# # Get feature names (words)
-# feature_names = vectorizer.get_feature_names_out()
-#
-# # Print feature names
-# print("\nFeature Names:")
-# print(feature_names)
+    get_tfidf_matrix()
+    # test_tfidf()
